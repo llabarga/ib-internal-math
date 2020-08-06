@@ -3,7 +3,7 @@
 
 ![Tu cara me suena](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7-5BLg2N0IviOEAJrZdL6DyXhRM5MqStxOQ&usqp=CAU)
 
-### Index
+### *Index*
 - Introducción: Modo de puntuación en el programa.
 - Recopilación de datos (tablas de puntuación)
 - Análisis estadístico
