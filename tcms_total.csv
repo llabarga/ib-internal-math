@@ -1,0 +1,1058 @@
+temporada,programa,cancion,artista,j1,j2,j3,j4,publico,bonus,final,total,j5,titulo,autor,especiales,pais,region,ciudad,sexo,edad,categoria
+1,1,"Born This Way, de Lady Gaga",Angy,12,12,10,12,0,Toñi,,56,0,Born This Way,Lady Gaga,,España,Canarias,Palma,F,21,Cantante
+1,2,"Me gustas mucho, de Rocío Dúrcal",Angy,10,9,6,7,0,Sylvia,0.0,45,8,Me gustas mucho,Rocío Dúrcal,,España,Canarias,Palma,F,21,Cantante
+1,3,Only Girl (In the World) de Rihanna,Angy,9,9,5,7,0,Julio,0.0,36,6,Only Girl (In the World),Rihanna,,España,Canarias,Palma,F,21,Cantante
+1,4,Girls Just Want to Have Fun de Cyndi Lauper,Angy,12,9,10,10,0,Carolina,0.0,59,8,Girls Just Want to Have Fun,Cyndi Lauper,,España,Canarias,Palma,F,21,Cantante
+1,5,Thriller de Michael Jackson,Angy,7,6,5,7,0,Toñi,0.0,42,12,Thriller,Michael Jackson,,España,Canarias,Palma,F,21,Cantante
+1,6,Hero de Mariah Carey,Angy,6,6,8,6,0,Carolina,0.0,32,6,Hero,Mariah Carey,,España,Canarias,Palma,F,21,Cantante
+1,7,Bulería de David Bisbal,Angy,10,9,7,10,0,Julio,0.0,48,12,Bulería,David Bisbal,,España,Canarias,Palma,F,21,Cantante
+1,8,Left Outside Alone de Anastacia,Angy,6,7,6,12,0,Santiago,0.0,35,4,Left Outsi,Alone de Anastacia,,España,Canarias,Palma,F,21,Cantante
+1,9,Don't Stop Me Now de Freddie Mercury (Queen),Angy,9,12,12,10,0,Sylvia,0.0,48,0,Don't Stop Me Now,Freddie Mercury (Queen),,España,Canarias,Palma,F,21,Cantante
+1,1,"Pena, penita, pena, de Lola Flores",Toñi Salazar,10,10,12,10,0,Angy,,52,0,"Pena, penita, pena",Lola Flores,,España,Extremadura,Badajoz,F,48,Cantante
+1,2,"La, la, la, de Massiel",Toñi Salazar,4,5,4,4,0,Sylvia,0.0,28,6,"La, la, la",Massiel,,España,Extremadura,Badajoz,F,48,Cantante
+1,3,Soy gitano de Camarón de la Isla,Toñi Salazar,10,10,9,10,0,Francisco,0.0,58,9,Soy gitano,Camarón de la Isla,,España,Extremadura,Badajoz,F,48,Cantante
+1,4,A quién le importa de Alaska (Alaska y Dinarama),Toñi Salazar,5,7,7,5,0,Carolina,0.0,30,6,A quién le importa,Alaska (Alaska y Dinarama),,España,Extremadura,Badajoz,F,48,Cantante
+1,5,Se acabó de María Jiménez,Toñi Salazar,10,10,12,12,0,Sylvia,0.0,57,8,Se acabó,María Jiménez,,España,Extremadura,Badajoz,F,48,Cantante
+1,6,Yo viviré de Celia Cruz,Toñi Salazar,5,4,5,4,0,Sylvia,0.0,28,5,Yo viviré,Celia Cruz,,España,Extremadura,Badajoz,F,48,Cantante
+1,7,Marinero de luces de Isabel Pantoja,Toñi Salazar,4,7,6,5,0,Julio,0.0,32,5,Marinero de luces,Isabel Pantoja,,España,Extremadura,Badajoz,F,48,Cantante
+1,8,Loca de Luz Casal,Toñi Salazar,9,8,7,7,0,Julio,0.0,47,6,Loca,Luz Casal,,España,Extremadura,Badajoz,F,48,Cantante
+1,9,Lo siento mi amor de Falete,Toñi Salazar,8,7,8,4,0,Santiago,0.0,27,0,Lo siento mi amor,Falete,,España,Extremadura,Badajoz,F,48,Cantante
+1,1,"Amante bandido, de Miguel Bosé",Josema Yuste,8,9,8,8,0,Julio,,38,0,Amante bandido,Miguel Bosé,,España,Madrid,Madrid,M,57,Humorista
+1,2,"El chiringuito, El africano y La barbacoa, de Georgie Dann",Josema Yuste,6,7,8,8,0,Angy,0.0,34,5,"El chiringuito, El africano y La barbacoa",Georgie Dann,,España,Madrid,Madrid,M,57,Humorista
+1,3,Imagine de John Lennon,Josema Yuste,4,4,8,4,0,Francisco,0.0,24,4,Imagine,John Lennon,,España,Madrid,Madrid,M,57,Humorista
+1,4,No hago otra cosa que pensar en ti de Joan Manuel Serrat,Josema Yuste,7,6,6,12,0,Santiago,0.0,40,4,No hago otra cosa que pensar en ti,Joan Manuel Serrat,,España,Madrid,Madrid,M,57,Humorista
+1,5,Dile de Luis Aguilé,Josema Yuste,9,8,9,8,0,Carolina,0.0,44,5,Dile,Luis Aguilé,,España,Madrid,Madrid,M,57,Humorista
+1,6,Un año más de Ana Torroja (Mecano),Josema Yuste,10,12,12,9,0,Sylvia,0.0,65,12,Un año más,Ana Torroja (Mecano),,España,Madrid,Madrid,M,57,Humorista
+1,7,Bienvenidos de Miguel Ríos,Josema Yuste,7,8,8,7,0,Sylvia,0.0,37,7,Bienvenidos,Miguel Ríos,,España,Madrid,Madrid,M,57,Humorista
+1,8,"Pavo real de José Luis Rodríguez ""El Puma""",Josema Yuste,8,6,8,8,0,Toñi,0.0,37,7,Pavo real,"José Luis Rodríguez ""El Puma""",,España,Madrid,Madrid,M,57,Humorista
+1,9,Su canción de Betty Missiego,Josema Yuste,10,9,9,9,0,Carolina,0.0,42,0,Su canción,Betty Missiego,,España,Madrid,Madrid,M,57,Humorista
+1,1,"Vivir así es morir de amor, de Camilo Sesto",Francisco,7,8,9,7,0,Angy,,31,0,Vivir así es morir de amor,Camilo Sesto,,España,Valencia,Alcoy,M,52,Cantante
+1,2,"Nessun dorma, de Luciano Pavarotti",Francisco,8,6,9,6,0,Julio,0.0,36,7,Nessun dorma,Luciano Pavarotti,,España,Valencia,Alcoy,M,52,Cantante
+1,3,Como una ola  de Rocío Jurado,Francisco,6,6,7,9,0,Toñi,0.0,63,10,Como una ola,Rocío Jurado,,España,Valencia,Alcoy,M,52,Cantante
+1,4,Are You Lonesome Tonight? de Elvis Presley,Francisco,6,5,5,7,0,Santiago,0.0,32,9,Are You Lonesome Tonight?,Elvis Presley,,España,Valencia,Alcoy,M,52,Cantante
+1,5,Dos gardenias de Antonio Machín,Francisco,6,12,8,9,0,Josema,0.0,42,7,Dos gardenias,Antonio Machín,,España,Valencia,Alcoy,M,52,Cantante
+1,6,It's not Unusual de Tom Jones,Francisco,4,5,4,5,0,Josema,0.0,27,4,It's not Unusual,Tom Jones,,España,Valencia,Alcoy,M,52,Cantante
+1,7,Maldito duende de Enrique Bunbury (Héroes del Silencio),Francisco,12,10,12,9,0,Santiago,0.0,49,6,Maldito duende,Enrique Bunbury (Héroes del Silencio),,España,Valencia,Alcoy,M,52,Cantante
+1,8,Vivo cantando de Salomé,Francisco,4,4,4,4,0,Julio,0.0,21,5,Vivo cantando,Salomé,,España,Valencia,Alcoy,M,52,Cantante
+1,9,Cobarde de David Bustamante,Francisco,5,4,4,5,0,Carolina,0.0,18,0,Cobarde,David Bustamante,,España,Valencia,Alcoy,M,52,Cantante
+1,1,"With or Without You, de Bono (U2)","Julio Iglesias, Jr.",5,5,5,5,0,Sylvia,,30,0,With or Without You,Bono (U2),,España,Madrid,Madrid,M,38,Cantante
+1,2,"Private Dancer, de Tina Turner","Julio Iglesias, Jr.",9,12,12,10,0,Santiago,0.0,60,12,Private Dancer,Tina Turner,,España,Madrid,Madrid,M,38,Cantante
+1,3,It's My Life de Jon Bon Jovi (Bon Jovi),"Julio Iglesias, Jr.",5,5,6,6,0,Francisco,0.0,32,5,It's My Life,Jon Bon Jovi (Bon Jovi),,España,Madrid,Madrid,M,38,Cantante
+1,4,"No Woman, No Cry de Bob Marley","Julio Iglesias, Jr.",9,12,8,6,0,Angy,0.0,47,7,"No Woman, No Cry",Bob Marley,,España,Madrid,Madrid,M,38,Cantante
+1,5,(I Can't Get No) Satisfaction de Mick Jagger (The Rolling Stones),"Julio Iglesias, Jr.",12,9,10,5,0,Carolina,0.0,46,10,(I Can't Get No) Satisfaction,Mick Jagger (The Rolling Stones),,España,Madrid,Madrid,M,38,Cantante
+1,6,Hey y Me olvidé de vivir de Julio Iglesias,"Julio Iglesias, Jr.",8,9,7,10,0,Francisco,0.0,42,8,Hey y Me olvidé de vivir,Julio Iglesias,,España,Madrid,Madrid,M,38,Cantante
+1,7,Smells Like Teen Spirit de Kurt Cobain (Nirvana),"Julio Iglesias, Jr.",9,6,9,12,0,Santiago,0.0,60,9,Smells Like Teen Spirit,Kurt Cobain (Nirvana),,España,Madrid,Madrid,M,38,Cantante
+1,8,Rehab de Amy Winehouse,"Julio Iglesias, Jr.",10,12,10,5,0,Toñi,0.0,62,10,Rehab,Amy Winehouse,,España,Madrid,Madrid,M,38,Cantante
+1,9,Gloria de Umberto Tozzi,"Julio Iglesias, Jr.",6,8,6,6,0,Santiago,0.0,26,0,Gloria,Umberto Tozzi,,España,Madrid,Madrid,M,38,Cantante
+1,1,"En el amor todo es empezar, de Raffaella Carrá",Carolina Ferre,9,6,7,6,0,Toñi,,28,0,En el amor todo es empezar,Raffaella Carrá,,España,Valencia,Cocentaina,F,37,TV
+1,2,"Like a Virgin, de Madonna",Carolina Ferre,5,4,5,5,0,Toñi,0.0,23,4,Like a Virgin,Madonna,,España,Valencia,Cocentaina,F,37,TV
+1,3,Las flechas del amor de Karina,Carolina Ferre,8,7,10,8,0,Francisco,0.0,45,12,Las flechas del amor,Karina,,España,Valencia,Cocentaina,F,37,TV
+1,4,Bomba de King África,Carolina Ferre,8,8,12,9,0,Angy,0.0,57,10,Bomba,King África,,España,Valencia,Cocentaina,F,37,TV
+1,5,Ni una sola palabra de Paulina Rubio,Carolina Ferre,4,4,6,10,0,Sylvia,0.0,38,4,Ni una sola palabra,Paulina Rubio,,España,Valencia,Cocentaina,F,37,TV
+1,6,Sarandonga de Lolita Flores,Carolina Ferre,7,7,9,7,0,Josema,0.0,49,9,Sarandonga,Lolita Flores,,España,Valencia,Cocentaina,F,37,TV
+1,7,Cuando tú vas de Chenoa,Carolina Ferre,6,5,5,4,0,Julio,0.0,30,10,Cuando tú vas,Chenoa,,España,Valencia,Cocentaina,F,37,TV
+1,8,El partido de fútbol de Rita Pavone,Carolina Ferre,7,10,12,6,0,Sylvia,0.0,48,8,El partido de fútbol,Rita Pavone,,España,Valencia,Cocentaina,F,37,TV
+1,9,Torero de Chayanne,Carolina Ferre,4,6,7,12,0,Santiago,0.0,39,0,Torero,Chayanne,,España,Valencia,Cocentaina,F,37,TV
+1,1,"Ven a bailar, de Jennifer Lopez",Sylvia Pantoja,6,4,6,4,0,Josema,,25,0,Ven a bailar,Jennifer Lopez,,España,Andalucía,Sevilla,F,42,Cantante
+1,2,"Cabaret, de Liza Minnelli (Cabaret)",Sylvia Pantoja,12,10,10,12,0,Santiago,0.0,68,9,Cabaret,Liza Minnelli (Cabaret),,España,Andalucía,Sevilla,F,42,Cantante
+1,3,Loca de Shakira,Sylvia Pantoja,7,8,4,5,0,Toñi,0.0,31,7,Loca,Shakira,,España,Andalucía,Sevilla,F,42,Cantante
+1,4,Esta cobardía de Chiquetete,Sylvia Pantoja,10,10,9,8,0,Julio,0.0,49,12,Esta cobardía,Chiquetete,,España,Andalucía,Sevilla,F,42,Cantante
+1,5,I Wanna Be Loved By You de Marilyn Monroe (Con faldas y a lo loco),Sylvia Pantoja,8,7,7,6,0,Toñi,0.0,47,9,I Wanna Be Loved By You,Marilyn Monroe (Con faldas y a lo loco),,España,Andalucía,Sevilla,F,42,Cantante
+1,6,Mi jaca de Estrellita Castro,Sylvia Pantoja,12,10,10,8,0,Toñi,0.0,60,10,Mi jaca,Estrellita Castro,,España,Andalucía,Sevilla,F,42,Cantante
+1,7,Al son del tambor de Rosario Flores,Sylvia Pantoja,5,4,4,6,0,Santiago,0.0,28,4,Al son del tambor,Rosario Flores,,España,Andalucía,Sevilla,F,42,Cantante
+1,8,Soy yo de Marta Sánchez,Sylvia Pantoja,5,5,5,9,0,Carolina,0.0,38,9,Soy yo,Marta Sánchez,,España,Andalucía,Sevilla,F,42,Cantante
+1,9,Last Dance de Donna Summer,Sylvia Pantoja,7,5,5,7,0,Josema,0.0,29,0,Last Dance,Donna Summer,,España,Andalucía,Sevilla,F,42,Cantante
+1,1,"19 días y 500 noches, de Joaquín Sabina",Santiago Segura,4,7,4,9,0,Julio,,24,0,19 días y 500 noches,Joaquín Sabina,,España,Madrid,Madrid,M,46,Cine
+1,1,"19 días y 500 noches, de Joaquín Sabina",Santiago Segura,4,7,4,9,0,Julio,,24,0,19 días y 500 noches,Joaquín Sabina,,España,Madrid,Madrid,M,47,Cine
+1,2,"I Just Called to Say I Love You, de Stevie Wonder",Santiago Segura,7,8,7,9,0,Sylvia,0.0,51,10,I Just Called to Say I Love You,Stevie Wonder,,España,Madrid,Madrid,M,46,Cine
+1,2,"I Just Called to Say I Love You, de Stevie Wonder",Santiago Segura,7,8,7,9,0,Sylvia,0.0,51,10,I Just Called to Say I Love You,Stevie Wonder,,España,Madrid,Madrid,M,47,Cine
+1,3,Escándalo de Raphael,Santiago Segura,12,12,12,12,0,Francisco,0.0,56,8,Escándalo,Raphael,,España,Madrid,Madrid,M,46,Cine
+1,3,Escándalo de Raphael,Santiago Segura,12,12,12,12,0,Francisco,0.0,56,8,Escándalo,Raphael,,España,Madrid,Madrid,M,47,Cine
+1,4,I've Got You Under My Skin de Frank Sinatra,Santiago Segura,4,4,4,4,0,Josema,0.0,31,5,I've Got You Under My Skin,Frank Sinatra,,España,Madrid,Madrid,M,46,Cine
+1,4,I've Got You Under My Skin de Frank Sinatra,Santiago Segura,4,4,4,4,0,Josema,0.0,31,5,I've Got You Under My Skin,Frank Sinatra,,España,Madrid,Madrid,M,47,Cine
+1,5,"Mamá, quiero ser artista y La chica ye-ye de Concha Velasco",Santiago Segura,5,5,4,4,0,Angy,0.0,24,6,"Mamá, quiero ser artista y La chica ye-ye",Concha Velasco,,España,Madrid,Madrid,M,46,Cine
+1,5,"Mamá, quiero ser artista y La chica ye-ye de Concha Velasco",Santiago Segura,5,5,4,4,0,Angy,0.0,24,6,"Mamá, quiero ser artista y La chica ye-ye",Concha Velasco,,España,Madrid,Madrid,M,47,Cine
+1,6,"Me va, me va y Bamboleo de Julio Iglesias",Santiago Segura,9,8,6,12,0,Carolina,0.0,42,7,"Me va, me va y Bamboleo",Julio Iglesias,,España,Madrid,Madrid,M,46,Cine
+1,6,"Me va, me va y Bamboleo de Julio Iglesias",Santiago Segura,9,8,6,12,0,Carolina,0.0,42,7,"Me va, me va y Bamboleo",Julio Iglesias,,España,Madrid,Madrid,M,47,Cine
+1,7,El gato que está triste y azul y Un millón de amigos de Roberto Carlos,Santiago Segura,8,12,10,8,0,Toñi,0.0,61,8,El gato que está triste y azul y Un millón de amigos,Roberto Carlos,,España,Madrid,Madrid,M,46,Cine
+1,7,El gato que está triste y azul y Un millón de amigos de Roberto Carlos,Santiago Segura,8,12,10,8,0,Toñi,0.0,61,8,El gato que está triste y azul y Un millón de amigos,Roberto Carlos,,España,Madrid,Madrid,M,47,Cine
+1,8,Karma Chameleon de Boy George (Culture Club),Santiago Segura,12,9,9,10,0,Julio,0.0,57,12,Karma Chameleon,Boy George (Culture Club),,España,Madrid,Madrid,M,46,Cine
+1,8,Karma Chameleon de Boy George (Culture Club),Santiago Segura,12,9,9,10,0,Julio,0.0,57,12,Karma Chameleon,Boy George (Culture Club),,España,Madrid,Madrid,M,47,Cine
+1,9,Si bastasen un par de canciones y Fantástico amor de Eros Ramazzotti,Santiago Segura,12,10,10,8,0,Angy,0.0,55,0,Si bastasen un par de canciones y Fantástico amor,Eros Ramazzotti,,España,Madrid,Madrid,M,46,Cine
+1,9,Si bastasen un par de canciones y Fantástico amor de Eros Ramazzotti,Santiago Segura,12,10,10,8,0,Angy,0.0,55,0,Si bastasen un par de canciones y Fantástico amor,Eros Ramazzotti,,España,Madrid,Madrid,M,47,Cine
+2,1,Viaje con nosotros y Caperucita feroz de Javier Gurruchaga (Orquesta Mondragón),Santiago Segura,9,9,8,4,0,María,0.0,48,8,Viaje con nosotros y Caperucita feroz,Javier Gurruchaga (Orquesta Mondragón),,España,Madrid,Madrid,M,46,Cine
+2,1,Viaje con nosotros y Caperucita feroz de Javier Gurruchaga (Orquesta Mondragón),Santiago Segura,9,9,8,4,0,María,0.0,48,8,Viaje con nosotros y Caperucita feroz,Javier Gurruchaga (Orquesta Mondragón),,España,Madrid,Madrid,M,47,Cine
+2,2,"Quizás, quizás, quizás, Ansiedad, Cachito, Yo vendo unos ojos negros y Capullito de alhelí, de Nat King Cole",Santiago Segura,4,7,10,9,0,Anna,0.0,42,12,"Quizás, quizás, quizás, Ansiedad, Cachito, Yo vendo unos ojos negros y Capullito de alhelí",Nat King Cole,,España,Madrid,Madrid,M,46,Cine
+2,2,"Quizás, quizás, quizás, Ansiedad, Cachito, Yo vendo unos ojos negros y Capullito de alhelí, de Nat King Cole",Santiago Segura,4,7,10,9,0,Anna,0.0,42,12,"Quizás, quizás, quizás, Ansiedad, Cachito, Yo vendo unos ojos negros y Capullito de alhelí",Nat King Cole,,España,Madrid,Madrid,M,47,Cine
+2,3,"Solo pienso en ti y Nada sabe tan dulce como su boca, de Víctor Manuel",Santiago Segura,6,6,5,4,0,Daniel,0.0,34,8,Solo pienso en ti y Nada sabe tan dulce como su boca,Víctor Manuel,,España,Madrid,Madrid,M,46,Cine
+2,3,"Solo pienso en ti y Nada sabe tan dulce como su boca, de Víctor Manuel",Santiago Segura,6,6,5,4,0,Daniel,0.0,34,8,Solo pienso en ti y Nada sabe tan dulce como su boca,Víctor Manuel,,España,Madrid,Madrid,M,47,Cine
+2,4,"Love me tender y Viva Las Vegas, de Elvis Presley",Santiago Segura,6,6,8,9,0,Roko,0.0,35,6,Love me tender y Viva Las Vegas,Elvis Presley,,España,Madrid,Madrid,M,46,Cine
+2,4,"Love me tender y Viva Las Vegas, de Elvis Presley",Santiago Segura,6,6,8,9,0,Roko,0.0,35,6,Love me tender y Viva Las Vegas,Elvis Presley,,España,Madrid,Madrid,M,47,Cine
+2,5,"El toro guapo y Apatrullando la ciudad, de El Fary",Santiago Segura,7,7,7,10,0,Javier,0.0,38,7,El toro guapo y Apatrullando la ciudad,El Fary,,España,Madrid,Madrid,M,46,Cine
+2,5,"El toro guapo y Apatrullando la ciudad, de El Fary",Santiago Segura,7,7,7,10,0,Javier,0.0,38,7,El toro guapo y Apatrullando la ciudad,El Fary,,España,Madrid,Madrid,M,47,Cine
+2,6,"Visa para un sueño, La bilirrubina y Ojalá que llueva café, de Juan Luis Guerra",Santiago Segura,5,4,5,9,0,Arturo,0.0,33,0,"Visa para un sueño, La bilirrubina y Ojalá que llueva café",Juan Luis Guerra,,España,Madrid,Madrid,M,46,Cine
+2,6,"Visa para un sueño, La bilirrubina y Ojalá que llueva café, de Juan Luis Guerra",Santiago Segura,5,4,5,9,0,Arturo,0.0,33,0,"Visa para un sueño, La bilirrubina y Ojalá que llueva café",Juan Luis Guerra,,España,Madrid,Madrid,M,47,Cine
+2,7,"Sólo se vive una vez, de Encarna Salazar con Julio Iglesias Jr. como Toñi Salazar (Azúcar Moreno)",Santiago Segura,4,4,5,7,0,"Julio:Ángeles
+Santiago:Ángeles",0.0,20,0,Sólo se vive una vez,Encarna Salazar con Julio Iglesias Jr. como Toñi Salazar (Azúcar Moreno),,España,Madrid,Madrid,M,46,Cine
+2,7,"Sólo se vive una vez, de Encarna Salazar con Julio Iglesias Jr. como Toñi Salazar (Azúcar Moreno)",Santiago Segura,4,4,5,7,0,"Julio:Ángeles
+Santiago:Ángeles",0.0,20,0,Sólo se vive una vez,Encarna Salazar con Julio Iglesias Jr. como Toñi Salazar (Azúcar Moreno),,España,Madrid,Madrid,M,47,Cine
+2,8,"Gangnam Style, de PSY",Santiago Segura,12,12,12,12,0,Ángeles,0.0,80,12,Gangnam Style,PSY,,España,Madrid,Madrid,M,46,Cine
+2,8,"Gangnam Style, de PSY",Santiago Segura,12,12,12,12,0,Ángeles,0.0,80,12,Gangnam Style,PSY,,España,Madrid,Madrid,M,47,Cine
+2,9,"Baila el chiki chiki, de Rodolfo Chiquilicuatre",Santiago Segura,5,6,6,5,0,Marìa,0.0,27,9,Baila el chiki chiki,Rodolfo Chiquilicuatre,,España,Madrid,Madrid,M,46,Cine
+2,9,"Baila el chiki chiki, de Rodolfo Chiquilicuatre",Santiago Segura,5,6,6,5,0,Marìa,0.0,27,9,Baila el chiki chiki,Rodolfo Chiquilicuatre,,España,Madrid,Madrid,M,47,Cine
+2,10,"Maria Caipirinha, de Carlinhos Brown",Santiago Segura,8,7,8,4,0,Anna,0.0,32,5,Maria Caipirinha,Carlinhos Brown,,España,Madrid,Madrid,M,46,Cine
+2,10,"Maria Caipirinha, de Carlinhos Brown",Santiago Segura,8,7,8,4,0,Anna,0.0,32,5,Maria Caipirinha,Carlinhos Brown,,España,Madrid,Madrid,M,47,Cine
+2,11,"Fiesta, de Raffaella Carrá",Santiago Segura,9,10,10,12,0,Roko,0.0,51,0,Fiesta,Raffaella Carrá,,España,Madrid,Madrid,M,46,Cine
+2,11,"Fiesta, de Raffaella Carrá",Santiago Segura,9,10,10,12,0,Roko,0.0,51,0,Fiesta,Raffaella Carrá,,España,Madrid,Madrid,M,47,Cine
+2,12,"Hola don Pepito, Susanita, Mi familia, Chinito de amor y El auto nuevo, de Fofito (Los Payasos de la Tele)",Santiago Segura,7,9,10,8,0,Daniel,0.0,46,7,"Hola don Pepito, Susanita, Mi familia, Chinito de amor y El auto nuevo",Fofito (Los Payasos de la Tele),,España,Madrid,Madrid,M,46,Cine
+2,12,"Hola don Pepito, Susanita, Mi familia, Chinito de amor y El auto nuevo, de Fofito (Los Payasos de la Tele)",Santiago Segura,7,9,10,8,0,Daniel,0.0,46,7,"Hola don Pepito, Susanita, Mi familia, Chinito de amor y El auto nuevo",Fofito (Los Payasos de la Tele),,España,Madrid,Madrid,M,47,Cine
+2,13,"Purple rain, de Prince",Santiago Segura,9,10,9,8,0,Daniel,0.0,46,10,Purple rain,Prince,,España,Madrid,Madrid,M,46,Cine
+2,13,"Purple rain, de Prince",Santiago Segura,9,10,9,8,0,Daniel,0.0,46,10,Purple rain,Prince,,España,Madrid,Madrid,M,47,Cine
+2,14,"Ma Baker, Rasputin y Daddy Cool, de Bobby Farrell (Boney M)",Santiago Segura,9,12,9,9,0,Anna,0.0,49,0,"Ma Baker, Rasputin y Daddy Cool",Bobby Farrell (Boney M),,España,Madrid,Madrid,M,46,Cine
+2,14,"Ma Baker, Rasputin y Daddy Cool, de Bobby Farrell (Boney M)",Santiago Segura,9,12,9,9,0,Anna,0.0,49,0,"Ma Baker, Rasputin y Daddy Cool",Bobby Farrell (Boney M),,España,Madrid,Madrid,M,47,Cine
+2,1,"These Boots Are Made for Walkin', de Nancy Sinatra",Roko,12,12,12,9,0,Daniel,0.0,57,12,These Boots Are Made for Walkin',Nancy Sinatra,,España,Andalucía,Jaén,F,23,Cantante
+2,2,"Juntos, de Paloma San Basilio",Roko,12,9,9,8,0,Arturo,0.0,45,7,Juntos,Paloma San Basilio,,España,Andalucía,Jaén,F,23,Cantante
+2,3,"Baby, de Justin Bieber",Roko,9,12,8,9,0,Marìa,0.0,50,7,Baby,Justin Bieber,,España,Andalucía,Jaén,F,23,Cantante
+2,4,"Sevillanas de los bloques (Estoy atacá), de Martirio",Roko,9,9,4,7,0,Anna,0.0,41,7,Sevillanas de los bloques (Estoy atacá),Martirio,,España,Andalucía,Jaén,F,23,Cantante
+2,5,"Someone like you, de Adele",Roko,9,12,12,12,0,Javier,0.0,54,9,Someone like you,Adele,,España,Andalucía,Jaén,F,23,Cantante
+2,6,"La bien pagá, de Miguel de Molina",Roko,12,10,9,12,0,Ángeles,0.0,48,0,La bien pagá,Miguel de Molina,,España,Andalucía,Jaén,F,23,Cantante
+2,7,"Price Tag, de Jessie J",Roko,12,12,10,12,0,Ángeles,0.0,46,0,Price Tag,Jessie J,,España,Andalucía,Jaén,F,23,Cantante
+2,8,"Este amor no se toca, de Yuri",Roko,9,9,9,8,0,Anna,0.0,44,4,Este amor no se toca,Yuri,,España,Andalucía,Jaén,F,23,Cantante
+2,9,"Euphoria, de Loreen",Roko,12,12,10,12,0,Marìa,0.0,73,12,Euphoria,Loreen,,España,Andalucía,Jaén,F,23,Cantante
+2,10,"My baby just cares for me, de Nina Simone",Roko,10,9,10,10,0,María,0.0,56,12,My baby just cares for me,Nina Simone,,España,Andalucía,Jaén,F,23,Cantante
+2,11,"Suerte, de Shakira",Roko,12,9,9,9,0,Arturo,0.0,44,0,Suerte,Shakira,,España,Andalucía,Jaén,F,23,Cantante
+2,12,"Starships, de Nicki Minaj",Roko,8,5,4,5,0,Ángeles,0.0,28,6,Starships,Nicki Minaj,,España,Andalucía,Jaén,F,23,Cantante
+2,13,"Love is the only way, de Macaco",Roko,8,8,5,5,0,Arturo,0.0,36,5,Love is the only way,Macaco,,España,Andalucía,Jaén,F,23,Cantante
+2,1,"Aire, de Pedro Marín",Arturo Valls,8,10,10,12,0,Daniel,0.0,50,10,Aire,Pedro Marín,,España,Valencia,Valencia,M,37,TV
+2,2,"Faith, de George Michael",Arturo Valls,5,8,6,4,0,Javier,0.0,32,4,Faith,George Michael,,España,Valencia,Valencia,M,37,TV
+2,3,"Sola (con un desconocido), de Marta Sánchez (Olé Olé)",Arturo Valls,4,5,7,7,0,Marìa,0.0,33,5,Sola (con un desconocido),Marta Sánchez (Olé Olé),,España,Valencia,Valencia,M,37,TV
+2,4,"Como un vagabundo, de Bertín Osborne",Arturo Valls,8,10,9,10,0,Anna,0.0,56,9,Como un vagabundo,Bertín Osborne,,España,Valencia,Valencia,M,37,TV
+2,5,"Super Superman, de Miguel Bosé",Arturo Valls,10,9,6,9,0,Javier,0.0,46,12,Super Superman,Miguel Bosé,,España,Valencia,Valencia,M,37,TV
+2,6,"Never gonna give you up, de Rick Astley",Arturo Valls,10,12,12,7,0,María,0.0,61,0,Never gonna give you up,Rick Astley,,España,Valencia,Valencia,M,37,TV
+2,7,"Experiencia religiosa, de Enrique Iglesias",Arturo Valls,8,8,8,8,0,Ángeles,0.0,37,0,Experiencia religiosa,Enrique Iglesias,,España,Valencia,Valencia,M,37,TV
+2,8,"Umbrella, de Rihanna",Arturo Valls,7,6,5,4,0,Daniel,0.0,29,7,Umbrella,Rihanna,,España,Valencia,Valencia,M,37,TV
+2,9,"Bailemos un vals, de José Vélez",Arturo Valls,8,9,9,10,0,Santiago,0.0,46,10,Bailemos un vals,José Vélez,,España,Valencia,Valencia,M,37,TV
+2,10,"Así me gusta a mí y La tía Enriqueta, de Chimo Bayo",Arturo Valls,4,8,7,7,0,María,0.0,35,4,Así me gusta a mí y La tía Enriqueta,Chimo Bayo,,España,Valencia,Valencia,M,37,TV
+2,11,"Loba, de Shakira",Arturo Valls,5,7,5,7,0,Javier,0.0,29,0,Loba,Shakira,,España,Valencia,Valencia,M,37,TV
+2,12,"Starman, de David Bowie",Arturo Valls,9,10,8,10,0,Javier,0.0,45,8,Starman,David Bowie,,España,Valencia,Valencia,M,37,TV
+2,13,"Qué será, de José Feliciano",Arturo Valls,12,12,8,12,0,María,0.0,68,9,Qué será,José Feliciano,,España,Valencia,Valencia,M,37,TV
+2,14,"Party rock anthem y Sexy and I know it, de Redfoo (LMFAO)",Arturo Valls,8,10,10,10,0,Anna,0.0,38,0,Party rock anthem y Sexy and I know it,Redfoo (LMFAO),,España,Valencia,Valencia,M,37,TV
+2,1,"Can't Get You Out of My Head , de Kylie Minogue",Anna Simon,10,8,7,10,0,Santiago,0.0,44,9,Can't Get You Out of My Head ,Kylie Minogue,,España,Cataluña,Barcelona,F,30,TV
+2,2,"Fly away, de Lenny Kravitz",Anna Simon,6,4,5,5,0,Daniel,0.0,35,5,Fly away,Lenny Kravitz,,España,Cataluña,Barcelona,F,30,TV
+2,3,"Que me coma el tigre, de Lola Flores",Anna Simon,7,7,12,6,0,Marìa,0.0,46,9,Que me coma el tigre,Lola Flores,,España,Cataluña,Barcelona,F,30,TV
+2,4,"Dulce locura, de Amaia Montero (La Oreja de Van Gogh)",Anna Simon,12,12,12,12,0,Ángeles,0.0,78,10,Dulce locura,Amaia Montero (La Oreja de Van Gogh),,España,Cataluña,Barcelona,F,30,TV
+2,5,"Bad romance, de Lady Gaga",Anna Simon,6,8,8,7,0,Javier,0.0,37,8,Bad romance,Lady Gaga,,España,Cataluña,Barcelona,F,30,TV
+2,6,"Yo quiero bailar, de Sonia Madoc  con Patricia Pérez como Selena Leo (Sonia y Selena)",Anna Simon,8,8,10,5,0,"Anna:Arturo
+Patricia: Santiago",0.0,31,0,Yo quiero bailar,Sonia Madoc  con Patricia Pérez como Selena Leo (Sonia y Selena),,España,Cataluña,Barcelona,F,30,TV
+2,7,"Estando contigo y Tómbola, de Marisol",Anna Simon,9,10,12,9,0,Ángeles,0.0,40,0,Estando contigo y Tómbola,Marisol,,España,Cataluña,Barcelona,F,30,TV
+2,8,"California Gurls, de Katy Perry",Anna Simon,8,8,8,6,0,Santiago,0.0,41,6,California Gurls,Katy Perry,,España,Cataluña,Barcelona,F,30,TV
+2,9,"Marionetas en la cuerda, de Sandie Shaw",Anna Simon,9,7,8,8,0,Roko,0.0,38,6,Marionetas en la cuerda,Sandie Shaw,,España,Cataluña,Barcelona,F,30,TV
+2,10,"Dance Again, de Jennifer Lopez",Anna Simon,6,5,4,5,0,María,0.0,32,7,Dance Again,Jennifer Lopez,,España,Cataluña,Barcelona,F,30,TV
+2,11,"Ni tu ni nadie, de Alaska",Anna Simon,10,12,12,10,0,María,0.0,44,0,Ni tu ni nadie,Alaska,,España,Cataluña,Barcelona,F,30,TV
+2,12,"Call me maybe, de Carly Rae Jepsen",Anna Simon,6,7,7,6,0,Daniel,0.0,30,4,Call me maybe,Carly Rae Jepsen,,España,Cataluña,Barcelona,F,30,TV
+2,13,"La madre de José, de Dani Martín (El Canto del Loco)",Anna Simon,5,4,7,7,0,Roko,0.0,27,4,La madre,"José, de Dani Martín (El Canto del Loco)",,España,Cataluña,Barcelona,F,30,TV
+2,14,"One way or another, de Deborah Harry (Blondie)",Anna Simon,12,9,12,12,0,Javier,0.0,55,0,One way or another,Deborah Harry (Blondie),,España,Cataluña,Barcelona,F,30,TV
+2,1,"I will always love you, de Whitney Houston",Daniel Diges,5,5,9,8,0,Santiago,0.0,41,4,I will always love you,Whitney Houston,,España,Madrid,Madrid,M,31,Cantante
+2,2,"Soy minero, de Antonio Molina",Daniel Diges,10,10,12,12,0,Javier,0.0,63,9,Soy minero,Antonio Molina,,España,Madrid,Madrid,M,31,Cantante
+2,3,"Noelia, de Nino Bravo",Daniel Diges,10,9,9,10,0,Anna,0.0,55,12,Noelia,Nino Bravo,,España,Madrid,Madrid,M,31,Cantante
+2,4,"Eloise, de Tino Casal",Daniel Diges,10,7,5,5,0,Arturo,0.0,35,8,Eloise,Tino Casal,,España,Madrid,Madrid,M,31,Cantante
+2,5,"No soy un superman, de David Bustamante",Daniel Diges,8,6,9,5,0,Javier,0.0,34,6,No soy un superman,David Bustamante,,España,Madrid,Madrid,M,31,Cantante
+2,6,"The Final Countdown, de Joey Tempest (Europe)",Daniel Diges,9,6,6,10,0,Roko,0.0,31,0,The Final Countdown,Joey Tempest (Europe),,España,Madrid,Madrid,M,31,Cantante
+2,7,"Será que no me amas, de Luis Miguel",Daniel Diges,6,7,4,6,0,Ángeles,0.0,23,0,Será que no me amas,Luis Miguel,,España,Madrid,Madrid,M,31,Cantante
+2,8,"Hijo de la luna, de Montserrat Caballé",Daniel Diges,10,10,10,9,0,Santiago,0.0,54,10,Hijo de la luna,Montserrat Caballé,,España,Madrid,Madrid,M,31,Cantante
+2,9,"Europe's living a celebration, de Rosa López",Daniel Diges,7,8,7,6,0,Marìa,0.0,21,7,Europe's living a celebration,Rosa López,,España,Madrid,Madrid,M,31,Cantante
+2,10,"Pretty woman, de Roy Orbison",Daniel Diges,9,10,6,8,0,Arturo,0.0,48,10,Pretty woman,Roy Orbison,,España,Madrid,Madrid,M,31,Cantante
+2,11,"Y, ¿si fuera ella?, de Alejandro Sanz",Daniel Diges,7,8,4,6,0,Javier,0.0,30,0,"Y, ¿si fuera ella?",Alejandro Sanz,,España,Madrid,Madrid,M,31,Cantante
+2,12,"Violetas imperiales, de Luis Mariano",Daniel Diges,10,8,9,9,0,Santiago,0.0,56,10,Violetas imperiales,Luis Mariano,,España,Madrid,Madrid,M,31,Cantante
+2,13,"Valió la pena, de Marc Anthony",Daniel Diges,10,9,10,9,0,Ángeles,0.0,50,7,Valió la pena,Marc Anthony,,España,Madrid,Madrid,M,31,Cantante
+2,14,"Tú me camelas, de Niña Pastori",Daniel Diges,6,6,6,6,0,Santiago,0.0,34,0,Tú me camelas,Niña Pastori,,España,Madrid,Madrid,M,31,Cantante
+2,1,"Se fue, de Laura Pausini",Ángeles Muñoz,4,7,6,7,0,María,0.0,35,6,Se fue,Laura Pausini,,España,Madrid,Madrid,F,37,Cantante
+2,2,"Por la boca vive el pez, de Fito Cabrales (Fito y Fitipaldis)",Ángeles Muñoz,8,5,8,6,0,Daniel,0.0,33,6,Por la boca vive el pez,Fito Cabrales (Fito y Fitipaldis),,España,Madrid,Madrid,F,37,Cantante
+2,3,"Ilarié, de Xuxa",Ángeles Muñoz,8,8,6,8,0,Roko,0.0,36,6,Ilarié,Xuxa,,España,Madrid,Madrid,F,37,Cantante
+2,4,"Fue tan poco tu cariño, de Rocío Dúrcal",Ángeles Muñoz,5,5,6,6,0,Anna,0.0,31,4,Fue tan poco tu cariño,Rocío Dúrcal,,España,Madrid,Madrid,F,37,Cantante
+2,5,"No dudaría, de Antonio Flores",Ángeles Muñoz,4,5,4,6,0,Javier,0.0,28,4,No dudaría,Antonio Flores,,España,Madrid,Madrid,F,37,Cantante
+2,6,"Mujer latina, de Thalía",Ángeles Muñoz,6,7,8,8,0,Arturo,0.0,34,0,Mujer latina,Thalía,,España,Madrid,Madrid,F,37,Cantante
+2,7,"Mi gente, de Lucrecia",Ángeles Muñoz,5,5,7,5,0,Arturo,0.0,62,0,Mi gente,Lucrecia,,España,Madrid,Madrid,F,37,Cantante
+2,8,"Entre mis recuerdos, de Luz Casal",Ángeles Muñoz,5,7,7,10,0,Santiago,0.0,42,8,Entre mis recuerdos,Luz Casal,,España,Madrid,Madrid,F,37,Cantante
+2,9,"Diva, de Dana International",Ángeles Muñoz,6,5,5,7,0,Javier,0.0,20,4,Diva,Dana International,,España,Madrid,Madrid,F,37,Cantante
+2,10,"El baile del gorila, de Melody",Ángeles Muñoz,7,6,9,9,0,Roko,0.0,44,8,El baile del gorila,Melody,,España,Madrid,Madrid,F,37,Cantante
+2,11,"Hay que venir al sur, de Raffaella Carrá",Ángeles Muñoz,6,6,8,4,0,Santiago,0.0,24,0,Hay que venir al sur,Raffaella Carrá,,España,Madrid,Madrid,F,37,Cantante
+2,12,"Se me enamora el alma, de Isabel Pantoja",Ángeles Muñoz,5,6,6,7,0,María,0.0,39,5,Se me enamora el alma,Isabel Pantoja,,España,Madrid,Madrid,F,37,Cantante
+2,13,"Tenía tanto que darte, de Mai Meneses (Nena Daconte)",Ángeles Muñoz,6,7,12,10,0,María,0.0,46,6,Tenía tanto que darte,Mai Meneses (Nena Daconte),,España,Madrid,Madrid,F,37,Cantante
+2,14,"Barbie girl, de Lene Nystrøm (Aqua)",Ángeles Muñoz,7,7,7,7,0,Daniel,0.0,28,0,Barbie girl,Lene Nystrøm (Aqua),,España,Madrid,Madrid,F,37,Cantante
+2,1,"Bailar pegados, de Sergio Dalma",Javier Herrero,7,6,4,6,0,Ángeles,0.0,35,7,Bailar pegados,Sergio Dalma,,España,Madrid,Madrid,M,52,Cantante
+2,2,"Lágrimas negras, de Diego el Cigala",Javier Herrero,9,12,7,7,0,María,0.0,55,10,Lágrimas negras,Diego el Cigala,,España,Madrid,Madrid,M,52,Cantante
+2,3,"Mañanas de terciopelo, de Demis Roussos",Javier Herrero,5,4,4,5,0,Arturo,0.0,22,4,Mañanas de terciopelo,Demis Roussos,,España,Madrid,Madrid,M,52,Cantante
+2,4,"La flaca, de Pau Donés (Jarabe de Palo)",Javier Herrero,4,4,7,4,0,Anna,0.0,24,5,La flaca,Pau Donés (Jarabe de Palo),,España,Madrid,Madrid,M,52,Cantante
+2,5,"Yo no soy esa, de Mari Trini",Javier Herrero,5,4,5,4,0,Ángeles,0.0,58,5,Yo no soy esa,Mari Trini,,España,Madrid,Madrid,M,52,Cantante
+2,6,"Perdóname, de Camilo Sesto",Javier Herrero,4,5,4,4,0,Santiago,0.0,17,0,Perdóname,Camilo Sesto,,España,Madrid,Madrid,M,52,Cantante
+2,7,"Killing Me Softly, de Pitingo",Javier Herrero,7,6,6,4,0,Ángeles,0.0,23,0,Killing Me Softly,Pitingo,,España,Madrid,Madrid,M,52,Cantante
+2,8,"Gavilán o paloma, de Pablo Abraira",Javier Herrero,6,5,6,5,0,Santiago,0.0,31,9,Gavilán o paloma,Pablo Abraira,,España,Madrid,Madrid,M,52,Cantante
+2,9,"Gwendolyne, de Julio Iglesias",Javier Herrero,4,4,4,4,0,Roko,0.0,25,5,Gwendolyne,Julio Iglesias,,España,Madrid,Madrid,M,52,Cantante
+2,10,"Nada fue un error, de Coti",Javier Herrero,5,4,5,6,0,Daniel,0.0,26,6,Nada fue un error,Coti,,España,Madrid,Madrid,M,52,Cantante
+2,11,"Corazón partío, de Alejandro Sanz",Javier Herrero,4,5,6,8,0,Daniel,0.0,33,0,Corazón partío,Alejandro Sanz,,España,Madrid,Madrid,M,52,Cantante
+2,12,"Help, ayúdame, de Tony Ronald",Javier Herrero,4,4,5,4,0,María,0.0,31,9,"Help, ayúdame",Tony Ronald,,España,Madrid,Madrid,M,52,Cantante
+2,13,"El baile de los pajaritos, de María Jesús y su acordeón",Javier Herrero,4,5,4,4,0,Arturo,0.0,29,12,El baile de los pajaritos,María Jesús y su acordeón,,España,Madrid,Madrid,M,52,Cantante
+2,14,"¿Y cómo es él?, de José Luis Perales",Javier Herrero,5,5,5,5,0,Santiago,0.0,25,0,¿Y cómo es él?,José Luis Perales,,España,Madrid,Madrid,M,52,Cantante
+2,1,"El bimbó, El negro no puede, El africano y La barbacoa, de Georgie Dann",María del Monte,6,4,5,5,0,Javier,0.0,35,5,"El bimbó, El negro no puede, El africano y La barbacoa",Georgie Dann,,España,Andalucía,Sevilla,F,50,Cantante
+2,2,"Mi tierra, de Gloria Estefan",María del Monte,7,6,4,10,0,Anna,0.0,40,8,Mi tierra,Gloria Estefan,,España,Andalucía,Sevilla,F,50,Cantante
+2,3,"Que nadie sepa mi sufrir, de María Dolores Pradera",María del Monte,12,10,10,12,0,Santiago,0.0,69,10,Que nadie sepa mi sufrir,María Dolores Pradera,,España,Andalucía,Sevilla,F,50,Cantante
+2,4,"Volver, de Carlos Gardel",María del Monte,7,8,10,8,0,Arturo,0.0,45,12,Volver,Carlos Gardel,,España,Andalucía,Sevilla,F,50,Cantante
+2,5,"Fumando espero, de Sara Montiel (El último cuplé)",María del Monte,12,10,10,8,0,Javier,0.0,50,10,Fumando espero,Sara Montiel (El último cuplé),,España,Andalucía,Sevilla,F,50,Cantante
+2,6,"Ai Se Eu Te Pego, de Michel Teló",María del Monte,7,9,7,6,0,Arturo,0.0,34,0,Ai Se Eu Te Pego,Michel Teló,,España,Andalucía,Sevilla,F,50,Cantante
+2,7,"Amor de hombre, de Amaya Uranga (Mocedades)",María del Monte,10,9,9,10,0,Ángeles,0.0,38,0,Amor de hombre,Amaya Uranga (Mocedades),,España,Andalucía,Sevilla,F,50,Cantante
+2,8,"Soy rebelde y Por qué te vas, de Jeanette",María del Monte,4,4,4,7,0,Roko,0.0,24,5,Soy rebelde y Por qué te vas,Jeanette,,España,Andalucía,Sevilla,F,50,Cantante
+2,9,"Canta y sé feliz, de Peret",María del Monte,10,10,12,9,0,Roko,0.0,64,8,Canta y sé feliz,Peret,,España,Andalucía,Sevilla,F,50,Cantante
+2,10,"Francisco Alegre, de Juanita Reina",María del Monte,12,12,12,12,0,Ángeles,0.0,72,9,Francisco Alegre,Juanita Reina,,España,Andalucía,Sevilla,F,50,Cantante
+2,11,"Bailando, de Alaska",María del Monte,8,4,7,5,0,Santiago,0.0,29,0,Bailando,Alaska,,España,Andalucía,Sevilla,F,50,Cantante
+2,12,"Luz de luna, de Chavela Vargas",María del Monte,12,12,12,12,0,Ángeles,0.0,70,12,Luz de luna,Chavela Vargas,,España,Andalucía,Sevilla,F,50,Cantante
+2,13,"Un ramito de violetas, de Manzanita",María del Monte,7,6,6,6,0,Arturo,0.0,43,8,Un ramito de violetas,Manzanita,,España,Andalucía,Sevilla,F,50,Cantante
+2,14,"Búscate un hombre que te quiera e Himno del Sevilla, de El Arrebato",María del Monte,10,8,8,8,0,Daniel,0.0,34,0,Búscate un hombre que te quiera e Himno del Sevilla,El Arrebato,,España,Andalucía,Sevilla,F,50,Cantante
+3,1,"Girl on Fire, de Alicia Keys",Edurne,11,12,11,12,0,Santi,0.0,56,0,Girl on Fire,Alicia Keys,,España,Madrid,Madrid,F,28,Cantante
+3,2,"Sweet child o' mine, de Axl Rose",Edurne,10,11,8,10,0,Angela,0.0,39,0,Sweet child o' mine,Axl Rose,,España,Madrid,Madrid,F,28,Cantante
+3,3,"There Must Be an Angel (Playing with My Heart), de Annie Lennox (Eurythmics)",Edurne,8,12,8,8,0,Xuso,0.0,36,0,There Must Be an Angel (Playing with My Heart),Annie Lennox (Eurythmics),,España,Madrid,Madrid,F,28,Cantante
+3,4,"Sin ti no soy nada, de Eva Amaral (Amaral)",Edurne,8,7,9,9,0,Florentino,0.0,33,0,Sin ti no soy nada,Eva Amaral (Amaral),,España,Madrid,Madrid,F,28,Cantante
+3,5,"Try, de P!nk",Edurne,12,12,11,12,0,José Manuel,0.0,57,0,Try,P!nk,,España,Madrid,Madrid,F,28,Cantante
+3,6,"Cariño trianero, de Carmen Sevilla",Edurne,12,11,11,10,0,José Manuel,0.0,44,0,Cariño trianero,Carmen Sevilla,,España,Madrid,Madrid,F,28,Cantante
+3,7,"Waka Waka (Esto es África), de Shakira",Edurne,10,11,10,10,0,Llum,0.0,57,11,Waka Waka (Esto es África),Shakira,,España,Madrid,Madrid,F,28,Cantante
+3,8,"Man! I feel like a woman, de Shania Twain",Edurne,11,11,9,12,0,Los Chunguitos,0.0,48,0,Man! I feel like a woman,Shania Twain,,España,Madrid,Madrid,F,28,Cantante
+3,9,"Poker face, de Lady Gaga",Edurne,9,11,10,10,0,Xuso,0.0,40,0,Poker face,Lady Gaga,,España,Madrid,Madrid,F,28,Cantante
+3,10,"Grace Kelly, de Mika",Edurne,10,10,8,10,0,Santi,0.0,38,0,Grace Kelly,Mika,,España,Madrid,Madrid,F,28,Cantante
+3,11,"Knock on wood, de Amii Stewart",Edurne,10,9,8,7,0,Los Chunguitos,0.0,38,0,Knock on wood,Amii Stewart,,España,Madrid,Madrid,F,28,Cantante
+3,12,"Bring me to life, de Amy Lee (Evanescence)",Edurne,12,12,11,12,0,Llum,0.0,62,0,Bring me to life,Amy Lee (Evanescence),,España,Madrid,Madrid,F,28,Cantante
+3,13,"What's Up?, de Linda Perry (4 Non Blondes)",Edurne,12,12,12,12,0,Melody,0.0,53,0,What's Up?,Linda Perry (4 Non Blondes),,España,Madrid,Madrid,F,28,Cantante
+3,14,"Crazy in love, de Beyoncé",Edurne,12,12,12,12,0,Santi,0.0,53,0,Crazy in love,Beyoncé,,España,Madrid,Madrid,F,28,Cantante
+3,15,"Bleeding Love, de Leona Lewis",Edurne,10,12,4,5,0,Florentino,0.0,36,0,Bleeding Love,Leona Lewis,,España,Madrid,Madrid,F,28,Cantante
+3,16,"Vivo por ella, de Marta Sánchez con Daniel Diges como Andrea Bocelli",Edurne,10,11,11,9,0,Ángela,0.0,46,0,Vivo por ella,Marta Sánchez con Daniel Diges como Andrea Bocelli,,España,Madrid,Madrid,F,28,Cantante
+3,17,"Torre de arena, de Marifé de Triana",Edurne,12,12,11,11,0,Melody,0.0,56,0,Torre de arena,Marifé de Triana,,España,Madrid,Madrid,F,28,Cantante
+3,1,"Laura no está, de Nek",Xuso Jones,9,11,10,11,0,Edurne,0.0,46,0,Laura no está,Nek,,España,Murcia,Murcia,M,24,Cantante
+3,2,"Locked out of heaven, de Bruno Mars",Xuso Jones,8,7,5,4,0,Llum,0.0,24,0,Locked out of heaven,Bruno Mars,,España,Murcia,Murcia,M,24,Cantante
+3,3,"Devuélveme a mi chica, de David Summers (Hombres G)",Xuso Jones,10,10,11,12,0,Melody,0.0,48,0,Devuélveme a mi chica,David Summers (Hombres G),,España,Murcia,Murcia,M,24,Cantante
+3,4,"Let me entertain you, de Robbie Williams",Xuso Jones,10,8,12,10,0,Santi,0.0,50,0,Let me entertain you,Robbie Williams,,España,Murcia,Murcia,M,24,Cantante
+3,5,"Rolling in the deep, de Adele",Xuso Jones,7,8,8,7,0,Florentino,0.0,30,0,Rolling in the deep,Adele,,España,Murcia,Murcia,M,24,Cantante
+3,6,"Blurred Lines, de Robin Thicke",Xuso Jones,8,9,12,12,0,José Manuel,0.0,46,0,Blurred Lines,Robin Thicke,,España,Murcia,Murcia,M,24,Cantante
+3,7,"Aquí no hay playa, de Bernardo J. Vázquez (The Refrescos)",Xuso Jones,12,8,9,9,0,Ángela,0.0,63,10,Aquí no hay playa,Bernardo J. Vázquez (The Refrescos),,España,Murcia,Murcia,M,24,Cantante
+3,8,"This Love, de Adam Levine (Maroon 5)",Xuso Jones,9,10,8,4,0,Los Chunguitos,0.0,31,0,This Love,Adam Levine (Maroon 5),,España,Murcia,Murcia,M,24,Cantante
+3,9,"Toxic, de Britney Spears",Xuso Jones,10,7,9,11,0,Llum,0.0,42,0,Toxic,Britney Spears,,España,Murcia,Murcia,M,24,Cantante
+3,10,"Impossible, de James Arthur",Xuso Jones,11,12,11,12,0,Santi,0.0,46,0,Impossible,James Arthur,,España,Murcia,Murcia,M,24,Cantante
+3,11,"Salomé, de Chayanne",Xuso Jones,8,8,10,11,0,Ángela,0.0,49,0,Salomé,Chayanne,,España,Murcia,Murcia,M,24,Cantante
+3,12,"As Long as You Love Me, de Justin Bieber",Xuso Jones,6,11,9,8,0,Edurne,0.0,39,0,As Long as You Love Me,Justin Bieber,,España,Murcia,Murcia,M,24,Cantante
+3,13,"Nada cambiará mi amor por ti, de Glenn Medeiros",Xuso Jones,9,10,10,9,0,Melody,0.0,38,0,Nada cambiará mi amor por ti,Glenn Medeiros,,España,Murcia,Murcia,M,24,Cantante
+3,14,"Hey ya!, de André 3000 (Outkast)",Xuso Jones,10,11,11,9,0,Florentino,0.0,46,0,Hey ya!,André 3000 (Outkast),,España,Murcia,Murcia,M,24,Cantante
+3,15,"No puedo vivir sin ti, de Coque Malla (Los Ronaldos)",Xuso Jones,8,7,5,4,0,José Manuel,0.0,24,0,No puedo vivir sin ti,Coque Malla (Los Ronaldos),,España,Murcia,Murcia,M,24,Cantante
+3,16,"You're my heart, you're my soul y Brother Louie, de Thomas Anders con Edu Soto como Dieter Bohlen (Modern Talking)",Xuso Jones,11,9,8,11,0,Llum,0.0,44,0,"You're my heart, you're my soul y Brother Louie",Thomas Anders con Edu Soto como Dieter Bohlen (Modern Talking),,España,Murcia,Murcia,M,24,Cantante
+3,17,"Talk dirty, de Jason Derülo",Xuso Jones,7,8,8,8,0,Santi,0.0,31,0,Talk dirty,Jason Derülo,,España,Murcia,Murcia,M,24,Cantante
+3,18,"I Don't Want to Miss a Thing, de Steven Tyler (Aerosmith)",Xuso Jones,9,10,11,10,0,Florentino,0.0,40,0,I Don't Want to Miss a Thing,Steven Tyler (Aerosmith),,España,Murcia,Murcia,M,24,Cantante
+3,1,"Arrasando, de Thalía",Melody,12,10,12,9,0,Florentino,0.0,43,0,Arrasando,Thalía,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,2,"Aprendiz, de Malú",Melody,12,10,11,12,0,Los Chunguitos,0.0,45,0,Aprendiz,Malú,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,3,"Holding out for a hero, de Bonnie Tyler",Melody,12,11,12,11,0,José Manuel,0.0,71,0,Holding out for a hero,Bonnie Tyler,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,4,"Firework, de Katy Perry",Melody,11,10,8,8,0,Ángela,0.0,37,0,Firework,Katy Perry,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,5,"Todos me miran, de Gloria Trevi",Melody,10,11,10,8,0,Edurne,0.0,39,0,Todos me miran,Gloria Trevi,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,6,"La copa de la vida, de Ricky Martin",Melody,11,12,10,9,0,José Manuel,0.0,42,0,La copa de la vida,Ricky Martin,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,7,"I will survive, de Gloria Gaynor",Melody,11,12,12,12,0,Xuso,0.0,51,4,I will survive,Gloria Gaynor,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,8,"Achilipú, de Dolores Vargas",Melody,12,12,10,8,0,Los Chunguitos,0.0,42,0,Achilipú,Dolores Vargas,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,9,"Quédate conmigo, de Pastora Soler",Melody,8,10,5,6,0,Santi y Florentino,0.0,39,0,Quédate conmigo,Pastora Soler,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,10,"The Shoop Shoop Song (It's in His Kiss), de Cher",Melody,12,11,9,11,0,Los Chunguitos,0.0,43,0,The Shoop Shoop Song (It's in His Kiss),Cher,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,11,"Don't speak, de Gwen Stefani (No Doubt)",Melody,9,10,12,9,0,Xuso,0.0,42,0,Don't speak,Gwen Stefani (No Doubt),,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,12,"Clavado en un bar, de Fernando Olvera (Maná)",Melody,7,7,7,6,0,Angela,0.0,27,0,Clavado en un bar,Fernando Olvera (Maná),,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,13,"Yo no te pido la luna, de Fiordaliso",Melody,11,11,8,8,0,José Manuel,0.0,53,0,Yo no te pido la luna,Fiordaliso,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,14,"The boy does nothing, de Alesha Dixon",Melody,11,10,10,11,0,Llum,0.0,57,0,The boy does nothing,Alesha Dixon,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,15,"Hijo de la luna, de Ana Torroja (Mecano)",Melody,12,11,6,6,0,Edurne,0.0,40,0,Hijo de la luna,Ana Torroja (Mecano),,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,16,"Do What U Want, de Lady Gaga con Angy como Christina Aguilera",Melody,12,12,12,12,0,Florentino,0.0,63,0,Do What U Want,Lady Gaga con Angy como Christina Aguilera,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,17,"Puedes contar conmigo, de Amaia Montero (La Oreja de Van Gogh)",Melody,11,11,10,9,0,Edurne,0.0,46,0,Puedes contar conmigo,Amaia Montero (La Oreja de Van Gogh),,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,18,"Señora, de Rocío Jurado",Melody,12,12,10,12,0,Los Chunguitos,0.0,56,0,Señora,Rocío Jurado,,España,Andalucía,Dos Hermanas,F,23,Cantante
+3,1,"The best, de Tina Turner",Ángela Carrasco,8,9,7,8,0,Santi,0.0,42,0,The best,Tina Turner,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,3,"Si tú eres mi hombre y yo tu mujer, de Jennifer Rush",Ángela Carrasco,4,4,4,5,0,Melody,0.0,22,0,Si tú eres mi hombre y yo tu mujer,Jennifer Rush,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,4,"El manisero, de Antonio Machín",Ángela Carrasco,12,11,11,11,0,Xuso,0.0,65,0,El manisero,Antonio Machín,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,6,"She Works Hard for the Money, de Donna Summer",Ángela Carrasco,5,5,4,7,0,José Manuel,0.0,21,0,She Works Hard for the Money,Donna Summer,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,7,"La bilirrubina, de Juan Luis Guerra",Ángela Carrasco,6,6,5,6,0,Xuso,0.0,40,7,La bilirrubina,Juan Luis Guerra,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,8,"Qué hiciste, de Jennifer Lopez",Ángela Carrasco,5,5,4,6,0,Los Chunguitos,0.0,20,0,Qué hiciste,Jennifer Lopez,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,9,"Tico tico no fubá y Mamãe eu quero, de Carmen Miranda",Ángela Carrasco,7,9,8,9,0,Melody,0.0,38,0,Tico tico no fubá y Mamãe eu quero,Carmen Miranda,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,10,"Credo, de Elsa Baeza",Ángela Carrasco,6,6,6,9,0,Santi,0.0,32,0,Credo,Elsa Baeza,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,11,"La vida es bella, de Noa",Ángela Carrasco,6,6,5,5,0,Santi,0.0,27,0,La vida es bella,Noa,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,12,"La gota fría, de Carlos Vives",Ángela Carrasco,8,10,8,9,0,Edurne,0.0,45,0,La gota fría,Carlos Vives,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,13,"No rompas más (Mi pobre corazón), de Coyote Dax",Ángela Carrasco,6,9,4,11,0,Los Chunguitos,0.0,30,0,No rompas más (Mi pobre corazón),Coyote Dax,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,14,"Historia de un amor, de Eydie Gormé con Café Quijano como Los Panchos",Ángela Carrasco,7,9,8,6,0,Melody,0.0,35,0,Historia de un amor,Eydie Gormé con Café Quijano como Los Panchos,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,15,"Ayer, de Gloria Estefan",Ángela Carrasco,5,8,12,8,0,Florentino,0.0,33,0,Ayer,Gloria Estefan,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,16,"Corazón contento, de Marisol con Roberto Leal como Palito Ortega",Ángela Carrasco,6,7,5,10,0,Edurne,0.0,33,0,Corazón contento,Marisol con Roberto Leal como Palito Ortega,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,17,"Luna de miel, de Paloma San Basilio",Ángela Carrasco,4,4,4,4,0,Los Chunguitos,0.0,21,0,Luna de miel,Paloma San Basilio,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,18,"Me voy, de Julieta Venegas",Ángela Carrasco,5,5,5,6,0,Los Chunguitos,0.0,21,0,Me voy,Julieta Venegas,,Internacional,República Dominicana,Manzanillo,F,64,Cantante
+3,1,"No controles, de Vicky Larraz (Olé Olé)",Llum Barrera,10,7,9,10,0,Ángela,0.0,36,0,No controles,Vicky Larraz (Olé Olé),,España,Baleares,Alcudia,F,45,Humorista
+3,2,"Paco, Paco, Paco, de Encarnita Polo",Llum Barrera,11,12,12,11,0,Florentino,0.0,61,0,"Paco, Paco, Paco",Encarnita Polo,,España,Baleares,Alcudia,F,45,Humorista
+3,3,"¡Chas! y aparezco a tu lado, de Christina Rosenvinge (Álex y Christina)",Llum Barrera,9,9,9,9,0,Melody,0.0,36,0,¡Chas! y aparezco a tu lado,Christina Rosenvinge (Álex y Christina),,España,Baleares,Alcudia,F,45,Humorista
+3,4,"I dreamed a dream, de Susan Boyle",Llum Barrera,9,12,10,6,0,Xuso,0.0,37,0,I dreamed a dream,Susan Boyle,,España,Baleares,Alcudia,F,45,Humorista
+3,5,"El tío Calambres, de Luis Aguilé",Llum Barrera,8,10,9,10,0,Edurne,0.0,37,0,El tío Calambres,Luis Aguilé,,España,Baleares,Alcudia,F,45,Humorista
+3,6,"Tik Tok, de Ke$ha",Llum Barrera,7,8,8,6,0,José Manuel,0.0,29,0,Tik Tok,Ke$ha,,España,Baleares,Alcudia,F,45,Humorista
+3,7,"Cartagena, Pulpa de tamarindo y Me lo dijo Pérez, de Alma María Vaesken (Los 3 Sudamericanos)",Llum Barrera,9,9,8,8,0,Xuso,0.0,47,8,"Cartagena, Pulpa de tamarindo y Me lo dijo Pérez",Alma María Vaesken (Los 3 Sudamericanos),,España,Baleares,Alcudia,F,45,Humorista
+3,8,"El Noa-Noa, de Massiel",Llum Barrera,10,8,7,5,0,Los Chunguitos,0.0,30,0,El Noa-Noa,Massiel,,España,Baleares,Alcudia,F,45,Humorista
+3,9,"Antes muerta que sencilla, de María Isabel",Llum Barrera,12,12,12,12,0,Ángela,0.0,53,0,Antes muerta que sencilla,María Isabel,,España,Baleares,Alcudia,F,45,Humorista
+3,10,Cómo pudiste hacerme esto a mí de Alaska (Alaska y Dinarama/Fangoria),Llum Barrera,9,8,10,8,0,Santi,0.0,35,0,Cómo pudiste hacerme esto a mí,Alaska (Alaska y Dinarama/Fangoria),,España,Baleares,Alcudia,F,45,Humorista
+3,11,"Boys don't cry, de Robert Smith (The Cure)",Llum Barrera,5,7,7,12,0,Xuso,0.0,31,0,Boys don't cry,Robert Smith (The Cure),,España,Baleares,Alcudia,F,45,Humorista
+3,12,"Amigo conductor, de Perlita de Huelva",Llum Barrera,11,6,10,11,0,Edurne,0.0,48,0,Amigo conductor,Perlita de Huelva,,España,Baleares,Alcudia,F,45,Humorista
+3,13,"Irressistible/Ouragan, de Estefanía de Mónaco",Llum Barrera,7,7,9,10,0,Santi,0.0,38,0,Irressistible/Ouragan,Estefanía de Mónaco,,España,Baleares,Alcudia,F,45,Humorista
+3,14,"Rufino, de Luz Casal",Llum Barrera,8,6,9,10,0,Melody,0.0,38,0,Rufino,Luz Casal,,España,Baleares,Alcudia,F,45,Humorista
+3,15,"Like a prayer, de Madonna",Llum Barrera,11,10,11,11,0,Florentino,0.0,48,0,Like a prayer,Madonna,,España,Baleares,Alcudia,F,45,Humorista
+3,16,"All the things she said, de Julia Volkova con Carolina Ferre como Lena Katina (t.A.T.u)",Llum Barrera,9,10,9,8,0,Los Chunguitos,0.0,41,0,All the things she said,Julia Volkova con Carolina Ferre como Lena Katina (t.A.T.u),,España,Baleares,Alcudia,F,45,Humorista
+3,17,"Flashdance... What a Feeling, de Irene Cara",Llum Barrera,5,6,6,5,0,Santi,0.0,22,0,Flashdance... What a Feeling,Irene Cara,,España,Baleares,Alcudia,F,45,Humorista
+3,18,"Hopelessly devoted to you, de Olivia Newton-John (Grease)",Llum Barrera,7,7,7,9,0,José Manuel,0.0,35,0,Hopelessly devoted to you,Olivia Newton-John (Grease),,España,Baleares,Alcudia,F,45,Humorista
+3,1,"Veo, veo, de Teresa Rabal",Santi Rodríguez,6,6,8,5,0,Xuso,0.0,35,0,"Veo, veo",Teresa Rabal,,España,Andalucía,Málaga,M,48,Humorista
+3,2,"I know you want me, de Pitbull",Santi Rodríguez,9,6,9,6,0,Llum,0.0,30,0,I know you want me,Pitbull,,España,Andalucía,Málaga,M,48,Humorista
+3,3,"El ritmo del garaje, de Loquillo",Santi Rodríguez,11,8,10,10,0,Melody,0.0,39,0,El ritmo del garaje,Loquillo,,España,Andalucía,Málaga,M,48,Humorista
+3,4,"Mi limón, mi limonero, de Henry Stephen",Santi Rodríguez,6,6,7,7,0,Ángela,0.0,31,0,"Mi limón, mi limonero",Henry Stephen,,España,Andalucía,Málaga,M,48,Humorista
+3,5,"Toda, de Jesulín de Ubrique",Santi Rodríguez,6,6,7,9,0,Florentino,0.0,28,0,Toda,Jesulín de Ubrique,,España,Andalucía,Málaga,M,48,Humorista
+3,6,"Time goes by con Loli, de La Terremoto de Alcorcón",Santi Rodríguez,4,4,5,5,0,José Manuel,0.0,18,0,Time goes by con Loli,La Terremoto de Alcorcón,,España,Andalucía,Málaga,M,48,Humorista
+3,7,"Eva María y Vacaciones de verano, de Paco Pastor (Fórmula V)",Santi Rodríguez,4,4,6,5,0,Ángela,0.0,29,5,Eva María y Vacaciones de verano,Paco Pastor (Fórmula V),,España,Andalucía,Málaga,M,48,Humorista
+3,8,"La culpa fue del cha-cha-cha, de Jaime Urrutia (Gabinete Caligari)",Santi Rodríguez,7,6,11,10,0,Edurne,0.0,34,0,La culpa fue del cha-cha-cha,Jaime Urrutia (Gabinete Caligari),,España,Andalucía,Málaga,M,48,Humorista
+3,9,"Dame veneno y Me sabe a humo, de Los Chunguitos",Santi Rodríguez,11,6,11,5,0,Los Chunguitos,0.0,43,0,Dame veneno y Me sabe a humo,Los Chunguitos,,España,Andalucía,Málaga,M,48,Humorista
+3,10,"Ma quale idea, de Pino D'Angiò",Santi Rodríguez,7,9,12,7,0,Ángela,0.0,70,0,Ma quale idea,Pino D'Angiò,,España,Andalucía,Málaga,M,48,Humorista
+3,11,"Morena mía, de Miguel Bosé",Santi Rodríguez,12,12,11,8,0,Edurne,0.0,45,0,Morena mía,Miguel Bosé,,España,Andalucía,Málaga,M,48,Humorista
+3,12,"Carolina, de Carlos Tarque (M Clan)",Santi Rodríguez,9,8,6,7,0,José Manuel,0.0,30,0,Carolina,Carlos Tarque (M Clan),,España,Andalucía,Málaga,M,48,Humorista
+3,13,"Hasiendo el amor, de Dinio",Santi Rodríguez,10,5,6,4,0,Llum,0.0,30,0,Hasiendo el amor,Dinio,,España,Andalucía,Málaga,M,48,Humorista
+3,14,"La Lola, de Manuel Quijano (Café Quijano)",Santi Rodríguez,4,7,7,5,0,Xuso,0.0,28,0,La Lola,Manuel Quijano (Café Quijano),,España,Andalucía,Málaga,M,48,Humorista
+3,15,"Cuanto más acelero, de Javi Cantero",Santi Rodríguez,6,5,10,9,0,Florentino,0.0,30,0,Cuanto más acelero,Javi Cantero,,España,Andalucía,Málaga,M,48,Humorista
+3,16,"La lista de la compra, de Lichis (La Cabra Mecánica) con Loles León como María Jiménez",Santi Rodríguez,4,6,7,4,0,Melody,0.0,21,0,La lista de la compra,Lichis (La Cabra Mecánica) con Loles León como María Jiménez,,España,Andalucía,Málaga,M,48,Humorista
+3,17,"In the Ghetto, de El Príncipe Gitano",Santi Rodríguez,9,10,12,12,0,Los Chunguitos,0.0,58,0,In the Ghetto,El Príncipe Gitano,,España,Andalucía,Málaga,M,48,Humorista
+3,18,"Mucho mejor, de Andrés Calamaro (Los Rodríguez)",Santi Rodríguez,10,9,6,7,0,Llum,0.0,32,0,Mucho mejor,Andrés Calamaro (Los Rodríguez),,España,Andalucía,Málaga,M,48,Humorista
+3,1,"Me encanta, de Mario Vaquerizo (Nancys Rubias)",Florentino Fernández,7,5,6,7,0,Los Chunguitos,0.0,30,0,Me encanta,Mario Vaquerizo (Nancys Rubias),,España,Madrid,Madrid,M,41,Humorista
+3,2,"Por ti volaré, de Andrea Bocelli",Florentino Fernández,6,8,10,7,0,Llum,0.0,41,0,Por ti volaré,Andrea Bocelli,,España,Madrid,Madrid,M,41,Humorista
+3,3,"Simply Irresistible, de Robert Palmer",Florentino Fernández,7,7,7,7,0,José Manuel,0.0,28,0,Simply Irresistible,Robert Palmer,,España,Madrid,Madrid,M,41,Humorista
+3,4,Agradecido de Rosendo,Florentino Fernández,7,9,6,12,0,Ángela,0.0,39,0,Agradecido,Rosendo,,España,Madrid,Madrid,M,41,Humorista
+3,5,"El chow chow y Que güeno que estoy, de El Sevilla (Mojinos Escozíos)",Florentino Fernández,11,7,12,11,0,Los Chunguitos,0.0,61,0,El chow chow y Que güeno que estoy,El Sevilla (Mojinos Escozíos),,España,Madrid,Madrid,M,41,Humorista
+3,6,"Sweet Dreams (Are Made of This), de Marilyn Manson",Florentino Fernández,9,10,9,11,0,José Manuel,0.0,39,0,Sweet Dreams (Are Made of This),Marilyn Manson,,España,Madrid,Madrid,M,41,Humorista
+3,7,"El camaleón, Saltando sin parar y La bomba, de King África",Florentino Fernández,8,10,11,11,0,Santi,0.0,52,12,"El camaleón, Saltando sin parar y La bomba",King África,,España,Madrid,Madrid,M,41,Humorista
+3,8,"Rata de dos patas, de Paquita la del Barrio",Florentino Fernández,8,9,6,7,0,Los Chunguitos,0.0,30,0,Rata de dos patas,Paquita la del Barrio,,España,Madrid,Madrid,M,41,Humorista
+3,9,"Dame veneno y Me sabe a humo, de Los Chunguitos",Florentino Fernández,11,6,11,5,0,Los Chunguitos,0.0,43,0,Dame veneno y Me sabe a humo,Los Chunguitos,,España,Madrid,Madrid,M,41,Humorista
+3,10,"El probe Miguel, de Esperanza la del Maera (Triana Pura)",Florentino Fernández,8,7,7,5,0,Santi,0.0,27,0,El probe Miguel,Esperanza la del Maera (Triana Pura),,España,Madrid,Madrid,M,41,Humorista
+3,11,"El príncipe de Bel-Air y Gettin' Jiggy With It, de Will Smith",Florentino Fernández,7,11,9,10,0,Xuso,0.0,42,0,El príncipe,"Bel-Air y Gettin' Jiggy With It, de Will Smith",,España,Madrid,Madrid,M,41,Humorista
+3,12,"The Fox, de Bård Ylvisåker con Miki Nadal como Vegard Ylvisåker (Ylvis)",Florentino Fernández,5,5,5,5,0,Xuso,0.0,20,0,The Fox,Bård Ylvisåker con Miki Nadal como Vegard Ylvisåker (Ylvis),,España,Madrid,Madrid,M,41,Humorista
+3,13,"Born to be alive, de Patrick Hernández",Florentino Fernández,8,6,11,7,0,Edurne,0.0,32,0,Born to be alive,Patrick Hernández,,España,Madrid,Madrid,M,41,Humorista
+3,14,"Don't leave me this way, de Jimmy Sommerville",Florentino Fernández,9,8,5,8,0,Ángela,0.0,35,0,Don't leave me this way,Jimmy Sommerville,,España,Madrid,Madrid,M,41,Humorista
+3,15,"Cuban Pete, de Jim Carrey (La Máscara)",Florentino Fernández,9,9,8,7,0,Llum,0.0,58,0,Cuban Pete,Jim Carrey (La Máscara),,España,Madrid,Madrid,M,41,Humorista
+3,16,"La yenka y Super disco chino, de Enrique del Pozo con Anna Simon como Ana Anguita (Enrique y Ana)",Florentino Fernández,8,4,10,7,0,Melody,0.0,34,0,La yenka y Super disco chino,Enrique del Pozo con Anna Simon como Ana Anguita (Enrique y Ana),,España,Madrid,Madrid,M,41,Humorista
+3,17,"Fuck You!, de Cee Lo Green",Florentino Fernández,6,7,7,6,0,Edurne,0.0,26,0,Fuck You!,Cee Lo Green,,España,Madrid,Madrid,M,41,Humorista
+3,18,"With a little help from my friends, de Joe Cocker con Las Supremas de Móstoles como coristas",Florentino Fernández,11,11,12,11,0,Melody,0.0,50,0,With a little help from my friends,Joe Cocker con Las Supremas de Móstoles como coristas,,España,Madrid,Madrid,M,41,Humorista
+3,1,"Sex Bomb, de Tom Jones",José Manuel Soto,5,8,4,6,0,Edurne,0.0,23,0,Sex Bomb,Tom Jones,,España,Andalucía,El Carpio,M,53,Cantante
+3,2,"El emigrante, de Juanito Valderrama",José Manuel Soto,5,5,7,8,0,Los Chunguitos,0.0,25,0,El emigrante,Juanito Valderrama,,España,Andalucía,El Carpio,M,53,Cantante
+3,3,"Santa Lucía, de Miguel Ríos",José Manuel Soto,5,5,5,4,0,Ángela,0.0,29,0,Santa Lucía,Miguel Ríos,,España,Andalucía,El Carpio,M,53,Cantante
+3,4,"Te he echado de menos, de Pablo Alborán",José Manuel Soto,5,5,5,5,0,Ángela,0.0,25,0,Te he echado de menos,Pablo Alborán,,España,Andalucía,El Carpio,M,53,Cantante
+3,5,"Candle in the wind, de Elton John",José Manuel Soto,5,5,5,5,0,Florentino,0.0,30,0,Candle in the wind,Elton John,,España,Andalucía,El Carpio,M,53,Cantante
+3,6,"Opá, yo viazé un corrá, de El Koala",José Manuel Soto,10,7,7,8,0,Xuso,0.0,72,0,"Opá, yo viazé un corrá",El Koala,,España,Andalucía,El Carpio,M,53,Cantante
+3,7,"A-ba-ni-bi, de El Chaval de la Peca",José Manuel Soto,7,7,7,7,0,Los Chunguitos,0.0,37,9,A-ba-ni-bi,El Chaval de la Peca,,España,Andalucía,El Carpio,M,53,Cantante
+3,8,"Enséñame a cantar, de Micky",José Manuel Soto,6,7,5,9,0,Los Chunguitos,0.0,32,0,Enséñame a cantar,Micky,,España,Andalucía,El Carpio,M,53,Cantante
+3,9,"Tatuaje, de Concha Marquez Piquer",José Manuel Soto,6,8,7,8,0,Melody,0.0,29,0,Tatuaje,Concha Marquez Piquer,,España,Andalucía,El Carpio,M,53,Cantante
+3,10,"La media vuelta, de Luis Miguel",José Manuel Soto,5,5,5,6,0,Santi,0.0,21,0,La media vuelta,Luis Miguel,,España,Andalucía,El Carpio,M,53,Cantante
+3,11,"Necesito respirar, de Manuel Martínez (Medina Azahara)",José Manuel Soto,11,5,6,6,0,Los Chunguitos,0.0,33,0,Necesito respirar,Manuel Martínez (Medina Azahara),,España,Andalucía,El Carpio,M,53,Cantante
+3,12,"Quiéreme, de El Barrio",José Manuel Soto,10,9,12,10,0,Llum,0.0,46,0,Quiéreme,El Barrio,,España,Andalucía,El Carpio,M,53,Cantante
+3,13,"Dolce vita, de Ryan Paris",José Manuel Soto,5,8,7,6,0,Melody,0.0,36,0,Dolce vita,Ryan Paris,,España,Andalucía,El Carpio,M,53,Cantante
+3,14,"Romeo y Julieta, de Karina",José Manuel Soto,5,4,6,7,0,Melody,0.0,22,0,Romeo y Julieta,Karina,,España,Andalucía,El Carpio,M,53,Cantante
+3,15,"Y ahora, de Manuel Carrasco",José Manuel Soto,7,6,9,10,0,Florentino,0.0,37,0,Y ahora,Manuel Carrasco,,España,Andalucía,El Carpio,M,53,Cantante
+3,16,"Dos hombres y un destino, de David Bustamante con Francisco como Alex Casademunt",José Manuel Soto,5,8,6,6,0,Xuso,0.0,25,0,Dos hombres y un destino,David Bustamante con Francisco como Alex Casademunt,,España,Andalucía,El Carpio,M,53,Cantante
+3,17,"Tu nombre me sabe a yerba, de Joan Manuel Serrat",José Manuel Soto,10,9,9,10,0,Santi,0.0,38,0,Tu nombre me sabe a yerba,Joan Manuel Serrat,,España,Andalucía,El Carpio,M,53,Cantante
+3,18,"La minifalda y Mujeres y vino, de Manolo Escobar",José Manuel Soto,6,6,8,5,0,Los Chunguitos,0.0,30,0,La minifalda y Mujeres y vino,Manolo Escobar,,España,Andalucía,El Carpio,M,53,Cantante
+3,1,"La raja de tu falda, de Estopa",Los Chunguitos,4,4,5,4,0,Ángela,0.0,22,0,La raja de tu falda,Estopa,,España,Extremadura,Badajoz,M,56,Cantante
+3,2,"Resistiré, de Dúo Dinámico",Los Chunguitos,4,4,4,5,0,Florentino,0.0,32,0,Resistiré,Dúo Dinámico,,España,Extremadura,Badajoz,M,56,Cantante
+3,3,"A esa, de Pimpinela",Los Chunguitos,6,6,6,6,0,Melody,0.0,24,0,A esa,Pimpinela,,España,Extremadura,Badajoz,M,56,Cantante
+3,4,"Bandido, de Azúcar Moreno",Los Chunguitos,4,4,4,4,0,José Manuel,0.0,16,0,Bandido,Azúcar Moreno,,España,Extremadura,Badajoz,M,56,Cantante
+3,5,"Son de amores, de Andy y Lucas",Los Chunguitos,4,4,4,4,0,Florentino,0.0,21,0,Son de amores,Andy y Lucas,,España,Extremadura,Badajoz,M,56,Cantante
+3,6,"Que pasa contigo tío, de Los Golfos",Los Chunguitos,6,6,6,4,0,José Manuel,0.0,22,0,Que pasa contigo tío,Los Golfos,,España,Extremadura,Badajoz,M,56,Cantante
+3,7,"Macarena, de Los Del Río",Los Chunguitos,5,5,4,4,0,Edurne,0.0,29,6,Macarena,Los Del Río,,España,Extremadura,Badajoz,M,56,Cantante
+3,8,"Cantinero de Cuba, de Sergio y Estíbaliz",Los Chunguitos,4,4,12,11,0,José Manuel,0.0,66,0,Cantinero,"Cuba, de Sergio y Estíbaliz",,España,Extremadura,Badajoz,M,56,Cantante
+3,9,"Te estoy amando locamente, de Las Grecas",Los Chunguitos,5,5,6,7,0,Santi y Florentino,0.0,28,0,Te estoy amando locamente,Las Grecas,,España,Extremadura,Badajoz,M,56,Cantante
+3,10,"Me pongo colorada, de Papá Levante",Los Chunguitos,4,4,4,4,0,Santi,0.0,21,0,Me pongo colorada,Papá Levante,,España,Extremadura,Badajoz,M,56,Cantante
+3,11,"Loco Mia, de Locomia",Los Chunguitos,4,4,4,4,0,José Manuel,0.0,26,0,Loco Mia,Locomia,,España,Extremadura,Badajoz,M,56,Cantante
+3,12,"La puerta de Alcalá, de Ana Belén y Víctor Manuel",Los Chunguitos,4,4,4,4,0,Angela,0.0,16,0,La puerta,"Alcalá, de Ana Belén y Víctor Manuel",,España,Extremadura,Badajoz,M,56,Cantante
+3,13,"Vamos a la playa, de Righeira",Los Chunguitos,4,4,5,5,0,José Manuel,0.0,23,0,Vamos a la playa,Righeira,,España,Extremadura,Badajoz,M,56,Cantante
+3,14,"Amigos para siempre, de Los Manolos",Los Chunguitos,6,5,4,4,0,Edurne,0.0,19,0,Amigos para siempre,Los Manolos,,España,Extremadura,Badajoz,M,56,Cantante
+3,15,"Torero, de Julio Iglesias y José Luis Rodríguez ""El Puma""",Los Chunguitos,4,4,7,12,0,Melody,0.0,27,0,Torero,"Julio Iglesias y José Luis Rodríguez ""El Puma""",,España,Extremadura,Badajoz,M,56,Cantante
+3,16,"Eso es el amor, de María Durán, Mayra Gómez Kemp con Toñi Salazar como Beatriz Escudero (Trío Acuario)",Los Chunguitos,7,5,4,5,0,Melody,0.0,26,0,Eso es el amor,"María Durán, Mayra Gómez Kemp con Toñi Salazar como Beatriz Escudero (Trío Acuario)",,España,Extremadura,Badajoz,M,56,Cantante
+3,17,"No estamos lokos, de Ketama",Los Chunguitos,8,5,5,7,0,Ángela,0.0,35,0,No estamos lokos,Ketama,,España,Extremadura,Badajoz,M,56,Cantante
+3,18,"Como el agua, de Camarón de la Isla y Paco de Lucía",Los Chunguitos,8,8,9,8,0,Melody,0.0,48,0,Como el agua,Camarón de la Isla y Paco de Lucía,,España,Extremadura,Badajoz,M,56,Cantante
+4,1,"The Edge of Glory, de Lady Gaga",Ruth Lorenzo,11,11,12,10,12,Pablo,24.0,44 (12),0,The Edge of Glory,Lady Gaga,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,2,"Barcelona, de Freddie Mercury y Montserrat Caballé (Dos en uno)[18]​",Ruth Lorenzo,9,9,11,9,11,Pablo,22.0,44 (11),0,Barcelona,Freddie Mercury y Montserrat Caballé (Dos en uno)[18]​,Dos,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,3,"Se me olvidó otra vez, de María Jiménez",Ruth Lorenzo,8,4,8,5,5,Falete,11.0,31 (6),0,Se me olvidó otra vez,María Jiménez,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,4,"Nothing Compares 2 U, de Sinéad O'Connor",Ruth Lorenzo,12,10,11,10,11,Vicky,21.0,43 (10),0,Nothing Compares 2 U,Sinéad O'Connor,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,5,"Proud Mary, de Tina Turner",Ruth Lorenzo,12,12,12,12,12,Adrián,24.0,51 (12),0,Proud Mary,Tina Turner,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,6,"Toda la noche en la calle, de Eva Amaral (Amaral)",Ruth Lorenzo,7,7,6,6,8,Silvia,14.0,29 (6),0,Toda la noche en la calle,Eva Amaral (Amaral),,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,7,"Personal Jesus, de Marilyn Manson",Ruth Lorenzo,10,9,11,11,11,Silvia,21.0,41 (10),0,Personal Jesus,Marilyn Manson,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,8,"All by Myself, de Céline Dion",Ruth Lorenzo,11,11,12,10,11,Pablo,22.0,47 (11),0,All by Myself,Céline Dion,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,9,"Back to black, de Amy Winehouse",Ruth Lorenzo,9,10,10,10,11,El Sevilla,21.0,39 (10),0,Back to black,Amy Winehouse,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,10,"Why don't you do right?, de Jessica Rabbit (¿Quién engañó a Roger Rabbit?)",Ruth Lorenzo,11,9,10,11,11,Pablo,22.0,41 (11),0,Why don't you do right?,Jessica Rabbit (¿Quién engañó a Roger Rabbit?),,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,11,"Conga, de Gloria Estefan (Miami Sound Machine)",Ruth Lorenzo,6,6,8,4,4,Adrián,10.0,24 (6),0,Conga,Gloria Estefan (Miami Sound Machine),,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,12,"Rise Like a Phoenix, de Conchita Wurst",Ruth Lorenzo,8,8,9,9,12,Ana,19.0,34 (7),0,Rise Like a Phoenix,Conchita Wurst,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,13,"Shake It Out, de Florence Welch (Florence & The Machine)",Ruth Lorenzo,10,11,9,11,10,Vicky,20.0,41 (10),0,Shake It Out,Florence Welch (Florence & The Machine),,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,14,"All I Want for Christmas Is You, de Mariah Carey",Ruth Lorenzo,10,10,4,5,8,Ana,17.0,32 (9),0,All I Want for Christmas Is You,Mariah Carey,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,15,"Glitter in the Air, de P!nk",Ruth Lorenzo,11,11,12,12,11,,22.0,46 (11),0,Glitter in the Air,P!nk,,España,Murcia,Las Torres de Cotillas,F,37,Cantante
+4,1,"Sugar, de Adam Levine (Maroon 5)",Pablo Puyol,12,10,10,9,10,Edu,21.0,44 (11),0,Sugar,Adam Levine (Maroon 5),,España,Andalucía,Málaga,M,44,Cine
+4,2,"I'm Outta Love, de Anastacia",Pablo Puyol,8,10,6,10,10,Ruth,19.0,40 (9),0,I'm Outta Love,Anastacia,,España,Andalucía,Málaga,M,44,Cine
+4,3,"Entre dos tierras, de Enrique Bunbury (Héroes del Silencio)",Pablo Puyol,10,10,7,9,10,Silvia,20.0,39 (10),0,Entre dos tierras,Enrique Bunbury (Héroes del Silencio),,España,Andalucía,Málaga,M,44,Cine
+4,4,"Part-Time Lover, de Stevie Wonder",Pablo Puyol,11,12,10,11,12,Vicky,23.0,44 (11),0,Part-Time Lover,Stevie Wonder,,España,Andalucía,Málaga,M,44,Cine
+4,5,"La mordidita, de Ricky Martin",Pablo Puyol,9,10,10,5,5,Adrián,12.0,34 (7),0,La mordidita,Ricky Martin,,España,Andalucía,Málaga,M,44,Cine
+4,6,"Don't Go Breaking My Heart, de Elton John y RuPaul (Dos en uno)[18]​",Pablo Puyol,8,5,9,8,5,Silvia,12.0,30 (7),0,Don't Go Breaking My Heart,Elton John y RuPaul (Dos en uno)[18]​,Dos,España,Andalucía,Málaga,M,44,Cine
+4,7,"El jardín prohibido, de Sandro Giacobbe",Pablo Puyol,11,8,9,12,9,Silvia,18.0,40 (9),0,El jardín prohibido,Sandro Giacobbe,,España,Andalucía,Málaga,M,44,Cine
+4,8,"Uptown Funk, de Bruno Mars",Pablo Puyol,8,12,10,12,12,Ruth,24.0,48 (12),0,Uptown Funk,Bruno Mars,,España,Andalucía,Málaga,M,44,Cine
+4,9,"Livin' on a Prayer, de Jon Bon Jovi (Bon Jovi)",Pablo Puyol,11,8,9,9,9,El Sevilla,18.0,37 (9),0,Livin' on a Prayer,Jon Bon Jovi (Bon Jovi),,España,Andalucía,Málaga,M,44,Cine
+4,10,"Caruso, de Andrea Bocelli",Pablo Puyol,9,7,8,9,12,Silvia,20.0,36 (8),0,Caruso,Andrea Bocelli,,España,Andalucía,Málaga,M,44,Cine
+4,11,"Want to Want Me, de Jason Derulo",Pablo Puyol,7,7,7,7,9,Ana,16.0,28 (7),0,Want to Want Me,Jason Derulo,,España,Andalucía,Málaga,M,44,Cine
+4,12,"Insurrección, de Manolo García (El Último de la Fila)",Pablo Puyol,4,4,4,4,5,Edu,9.0,22 (4),0,Insurrección,Manolo García (El Último de la Fila),,España,Andalucía,Málaga,M,44,Cine
+4,13,"All of Me, de John Legend",Pablo Puyol,8,8,11,7,12,Vicky,20.0,34 (8),0,All of Me,John Legend,,España,Andalucía,Málaga,M,44,Cine
+4,14,"Heroes, de Måns Zelmerlöw",Pablo Puyol,11,12,11,11,12,Ana,23.0,51 (11),0,Heroes,Måns Zelmerlöw,,España,Andalucía,Málaga,M,44,Cine
+4,15,"Por debajo de la mesa, de Luis Miguel",Pablo Puyol,8,8,10,9,10,,19.0,35 (9),0,Por debajo de la mesa,Luis Miguel,,España,Andalucía,Málaga,M,44,Cine
+4,16,"Don't Cry, de Axl Rose (Guns N' Roses)",Pablo Puyol,12,11,11,8,11,,21.0,42 (10),0,Don't Cry,Axl Rose (Guns N' Roses),,España,Andalucía,Málaga,M,44,Cine
+4,1,"Al son del tambor, de Rosario Flores",Edu Soto,10,5,6,11,11,Falete,19.0,35 (8),0,Al son del tambor,Rosario Flores,,España,Cataluña,Mataró,M,42,Humorista
+4,2,"Algo de mí, de Camilo Sesto",Edu Soto,10,12,8,11,12,Pablo,24.0,44 (12),0,Algo de mí,Camilo Sesto,,España,Cataluña,Mataró,M,42,Humorista
+4,3,"Losing My Religion, de Michael Stipe (R.E.M.)",Edu Soto,7,6,6,7,8,Ana,13.0,29 (5),0,Losing My Religion,Michael Stipe (R.E.M.),,España,Cataluña,Mataró,M,42,Humorista
+4,4,"Mammy blue, de José Mercé",Edu Soto,8,6,9,5,6,El Sevilla,13.0,31 (7),0,Mammy blue,José Mercé,,España,Cataluña,Mataró,M,42,Humorista
+4,5,"Demasiado corazón, de Willy DeVille",Edu Soto,8,8,8,11,8,Adrián,18.0,38 (10),0,Demasiado corazón,Willy DeVille,,España,Cataluña,Mataró,M,42,Humorista
+4,6,"Angelitos negros, de Antonio Machín",Edu Soto,12,12,10,9,12,Sevilla,24.0,49 (12),0,Angelitos negros,Antonio Machín,,España,Cataluña,Mataró,M,42,Humorista
+4,7,"Black Is Black, de Mike Kennedy (Los Bravos)",Edu Soto,8,11,10,7,8,Silvia,16.0,36 (8),0,Black Is Black,Mike Kennedy (Los Bravos),,España,Cataluña,Mataró,M,42,Humorista
+4,8,"Sway, de Michael Bublé",Edu Soto,9,10,11,11,8,Adrián,18.0,44 (10),0,Sway,Michael Bublé,,España,Cataluña,Mataró,M,42,Humorista
+4,9,"Smooth criminal , de Michael Jackson",Edu Soto,10,11,11,11,10,El Sevilla,21.0,46 (11),0,Smooth criminal ,Michael Jackson,,España,Cataluña,Mataró,M,42,Humorista
+4,10,"Vente pa' Madrid, de Antonio Carmona (Ketama)",Edu Soto,7,6,4,5,7,Silvia,12.0,25 (5),0,Vente pa' Madrid,Antonio Carmona (Ketama),,España,Cataluña,Mataró,M,42,Humorista
+4,11,"Yo soy aquel, de Raphael",Edu Soto,11,9,11,8,12,Falete,22.0,39 (10),0,Yo soy aquel,Raphael,,España,Cataluña,Mataró,M,42,Humorista
+4,12,"Light my fire, de Jim Morrison (The Doors)",Edu Soto,11,11,7,11,9,Pablo,20.0,43 (11),0,Light my fire,Jim Morrison (The Doors),,España,Cataluña,Mataró,M,42,Humorista
+4,13,"Nel blu dipinto di blu (Volare), de Domenico Modugno",Edu Soto,9,7,7,8,7,Adrián,14.0,31 (7),0,Nel blu dipinto di blu (Volare),Domenico Modugno,,España,Cataluña,Mataró,M,42,Humorista
+4,14,"Clocks, de Chris Martin (Coldplay)",Edu Soto,9,5,7,10,9,Silvia,16.0,31 (7),0,Clocks,Chris Martin (Coldplay),,España,Cataluña,Mataró,M,42,Humorista
+4,15,"Start Me Up, de Mick Jagger (The Rolling Stones)",Edu Soto,9,5,5,4,12,,17.0,23 (5),0,Start Me Up,Mick Jagger (The Rolling Stones),,España,Cataluña,Mataró,M,42,Humorista
+4,16,"Unchained Melody, de Bobby Hatfield (The Righteous Brothers)",Edu Soto,10,12,12,10,12,,24.0,44 (12),0,Unchained Melody,Bobby Hatfield (The Righteous Brothers),,España,Cataluña,Mataró,M,42,Humorista
+4,1,"¡Qué dolor!, de Raffaella Carrà",Silvia Abril,9,6,11,12,8,El Sevilla,18.0,41 (10),0,¡Qué dolor!,Raffaella Carrà,,España,Canarias,Mataró,F,49,Humorista
+4,2,"Pégate, de Ylenia",Silvia Abril,4,4,4,5,7,El Sevilla,11.0,20 (4),0,Pégate,Ylenia,,España,Canarias,Mataró,F,49,Humorista
+4,3,"No One, de Sor Cristina",Silvia Abril,4,5,4,4,7,Edu,11.0,20 (4),0,No One,Sor Cristina,,España,Canarias,Mataró,F,49,Humorista
+4,4,"Don Diablo, de Miguel Bosé",Silvia Abril,6,7,5,8,8,Edu,13.0,29 (5),0,Don Diablo,Miguel Bosé,,España,Canarias,Mataró,F,49,Humorista
+4,5,"Qué será, será (Whatever Will Be, Will Be), de Doris Day (El hombre que sabía demasiado)",Silvia Abril,11,4,9,10,11,Adrián,20.0,37 (9),0,"Qué será, será (Whatever Will Be, Will Be)",Doris Day (El hombre que sabía demasiado),,España,Canarias,Mataró,F,49,Humorista
+4,6,"Womanizer, de Britney Spears",Silvia Abril,4,4,4,4,6,Vicky,10.0,22 (4),0,Womanizer,Britney Spears,,España,Canarias,Mataró,F,49,Humorista
+4,7,"Abuelito dime tú, de Heidi (Heidi)",Silvia Abril,9,12,7,10,12,Vicky,24.0,53 (12),0,Abuelito dime tú,Heidi (Heidi),,España,Canarias,Mataró,F,49,Humorista
+4,8,"Hawaii-Bombay, de Ana Torroja (Mecano)",Silvia Abril,7,6,7,5,9,El Sevilla,16.0,25 (7),0,Hawaii-Bombay,Ana Torroja (Mecano),,España,Canarias,Mataró,F,49,Humorista
+4,9,"El baúl de los recuerdos, de Karina",Silvia Abril,4,4,4,4,5,El Sevilla,9.0,16 (4),0,El baúl de los recuerdos,Karina,,España,Canarias,Mataró,F,49,Humorista
+4,10,"La vida es un carnaval, de Celia Cruz",Silvia Abril,4,4,11,6,8,Adrián,18.0,40 (10),0,La vida es un carnaval,Celia Cruz,,España,Canarias,Mataró,F,49,Humorista
+4,11,"El beso, de Paquita Rico",Silvia Abril,5,4,5,6,5,Ana,10.0,20 (5),0,El beso,Paquita Rico,,España,Canarias,Mataró,F,49,Humorista
+4,12,"Eres, de Massiel",Silvia Abril,5,5,5,7,6,Pablo,11.0,22 (5),0,Eres,Massiel,,España,Canarias,Mataró,F,49,Humorista
+4,13,"It's Raining Men, de Geri Halliwell",Silvia Abril,5,6,6,4,4,Vicky,9.0,21 (5),0,It's Raining Men,Geri Halliwell,,España,Canarias,Mataró,F,49,Humorista
+4,14,"The Lady Is a Tramp, de Lady Gaga con Andreu Buenafuente como Tony Bennet (Trae un amigo)",Silvia Abril,12,11,12,12,11,Sevilla,23.0,53 (12),0,The Lady Is a Tramp,Lady Gaga con Andreu Buenafuente como Tony Bennet (Trae un amigo),Trae un amigo,España,Canarias,Mataró,F,49,Humorista
+4,15,"Mamá, quiero ser artista, de Concha Velasco",Silvia Abril,6,10,7,8,9,,17.0,31 (8),0,"Mamá, quiero ser artista",Concha Velasco,,España,Canarias,Mataró,F,49,Humorista
+4,16,"Dramas y comedias, de Alaska (Fangoria)",Silvia Abril,7,6,7,12,9,,16.0,32 (7),0,Dramas y comedias,Alaska (Fangoria),,España,Canarias,Mataró,F,49,Humorista
+4,1,"Where Are Ü Now, de Justin Bieber",Adrián Rodríguez,7,12,8,7,9,El Sevilla,16.0,34 (7),0,Where Are Ü Now,Justin Bieber,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,2,"Ángel malherido, de El Barrio",Adrián Rodríguez,11,8,7,12,8,Edu,16.0,38 (8),0,Ángel malherido,El Barrio,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,3,"El perdón, de Nicky Jam",Adrián Rodríguez,11,11,10,10,11,Pablo,22.0,42 (11),0,El perdón,Nicky Jam,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,4,"Mi nuevo vicio, de Paulina Rubio",Adrián Rodríguez,4,8,12,7,10,Vicky,19.0,34 (9),0,Mi nuevo vicio,Paulina Rubio,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,5,"América, de Nino Bravo",Adrián Rodríguez,5,5,4,9,10,Ruth,18.0,35 (8),0,América,Nino Bravo,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,6,"Cheerleader, de OMI",Adrián Rodríguez,10,8,7,7,7,Edu,15.0,32 (8),0,Cheerleader,OMI,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,7,"Propuesta indecente, de Romeo Santos",Adrián Rodríguez,12,10,12,8,10,Vicky,21.0,45 (11),0,Propuesta indecente,Romeo Santos,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,8,"Cero, de Dani Martín",Adrián Rodríguez,12,7,8,8,10,El Sevilla,18.0,41 (8),0,Cero,Dani Martín,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,9,"Humanos a Marte, de Chayanne",Adrián Rodríguez,6,6,6,6,6,Edu,12.0,27 (6),0,Humanos a Marte,Chayanne,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,10,"Tonight (I'm Lovin' You), de Enrique Iglesias",Adrián Rodríguez,12,12,12,12,10,Silvia,22.0,54 (12),0,Tonight (I'm Lovin' You),Enrique Iglesias,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,11,"Solamente tú, de Pablo Alborán",Adrián Rodríguez,12,11,10,12,11,Ana,22.0,51 (11),0,Solamente tú,Pablo Alborán,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,12,"Basket Case, de Billie Joe Armstrong (Green Day)",Adrián Rodríguez,9,9,8,6,11,Sevilla,19.0,35 (8),0,Basket Case,Billie Joe Armstrong (Green Day),,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,13,"Suspicious Minds, de Elvis Presley",Adrián Rodríguez,11,12,8,10,11,Vicky,22.0,50 (11),0,Suspicious Minds,Elvis Presley,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,14,"Otro día más sin verte, de Jon Secada",Adrián Rodríguez,7,8,8,7,7,Pablo,13.0,30 (6),0,Otro día más sin verte,Jon Secada,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,15,"Can't Feel My Face, de The Weeknd",Adrián Rodríguez,7,6,6,5,7,,13.0,24 (6),0,Can't Feel My Face,The Weeknd,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,16,"La nueva y la ex, de Daddy Yankee",Adrián Rodríguez,9,9,9,6,7,,15.0,33 (8),0,La nueva y la ex,Daddy Yankee,,España,Cataluña,Cornellá de Llobregat,M,31,Cantante
+4,1,"Te amo, de Umberto Tozzi",Falete,8,9,9,8,7,Ana,16.0,37 (9),0,Te amo,Umberto Tozzi,,España,Andalucía,Sevilla,M,42,Cantante
+4,2,"Amor eterno, de Juan Gabriel",Falete,12,11,12,8,9,El Sevilla,19.0,43 (10),0,Amor eterno,Juan Gabriel,,España,Andalucía,Sevilla,M,42,Cantante
+4,3,"Con dos camas vacías, de María Jiménez (Reto)[19]​",Falete,12,12,12,12,12,Ruth,24.0,51 (12),0,Con dos camas vacías,María Jiménez (Reto)[19]​,Reto,España,Andalucía,Sevilla,M,42,Cantante
+4,4,"Historias de amor, de Jordi Sánchez (OBK)",Falete,5,4,6,4,4,Vicky,8.0,19 (4),0,Historias de amor,Jordi Sánchez (OBK),,España,Andalucía,Sevilla,M,42,Cantante
+4,5,"Remolino, de Pancho Céspedes",Falete,4,6,7,6,7,Ana,11.0,23 (4),0,Remolino,Pancho Céspedes,,España,Andalucía,Sevilla,M,42,Cantante
+4,6,"Es mi hombre, de Sara Montiel",Falete,11,11,11,10,9,Ruth,19.0,46 (10),0,Es mi hombre,Sara Montiel,,España,Andalucía,Sevilla,M,42,Cantante
+4,7,"Lobo hombre en París, de Rafa Sánchez (La Unión)",Falete,6,7,4,5,4,Vicky,9.0,22 (5),0,Lobo hombre en París,Rafa Sánchez (La Unión),,España,Andalucía,Sevilla,M,42,Cantante
+4,8,"I Am What I Am, de Gloria Gaynor",Falete,5,4,6,4,4,Adrián,9.0,22 (5),0,I Am What I Am,Gloria Gaynor,,España,Andalucía,Sevilla,M,42,Cantante
+4,9,"La vie en rose, de Édith Piaf",Falete,5,5,7,7,4,El Sevilla,9.0,24 (5),0,,,,España,Andalucía,Sevilla,M,42,Cantante
+4,10,"Francisco Alegre, de Isabel Pantoja",Falete,8,10,7,10,6,Edu,13.0,35 (7),0,Francisco Alegre,Isabel Pantoja,,España,Andalucía,Sevilla,M,42,Cantante
+4,11,"La mañana, de Al Bano",Falete,8,8,9,9,8,Ana,17.0,37 (9),0,La mañana,Al Bano,,España,Andalucía,Sevilla,M,42,Cantante
+4,12,"Soy lo prohibido, de Olga Guillot",Falete,12,12,11,12,8,Vicky,20.0,50 (12),0,Soy lo prohibido,Olga Guillot,,España,Andalucía,Sevilla,M,42,Cantante
+4,13,"Tomasa, de Lolita Flores",Falete,7,9,12,6,8,Vicky,17.0,34 (9),0,Tomasa,Lolita Flores,,España,Andalucía,Sevilla,M,42,Cantante
+4,14,"Me muero, de Natalia Jiménez (La 5ª Estación)",Falete,4,9,9,9,6,Ana,14.0,31 (8),0,Me muero,Natalia Jiménez (La 5ª Estación),,España,Andalucía,Sevilla,M,42,Cantante
+4,15,"Torbellino de colores, de Lola Flores",Falete,12,12,11,11,6,,18.0,46 (12),0,Torbellino de colores,Lola Flores,,España,Andalucía,Sevilla,M,42,Cantante
+4,16,"'O sole mio, de Luciano Pavarotti",Falete,11,10,10,11,8,,19.0,42 (11),0,'O sole mio,Luciano Pavarotti,,España,Andalucía,Sevilla,M,42,Cantante
+4,1,"Sólo le pido a Dios, de Ana Belén",Vicky Larraz,6,8,7,6,6,Silvia,11.0,27 (5),0,Sólo le pido a Dios,Ana Belén,,España,Madrid,Madrid,F,57,Cantante
+4,2,"Dark Horse, de Katy Perry",Vicky Larraz,7,7,10,6,6,Ana,12.0,30 (6),0,Dark Horse,Katy Perry,,España,Madrid,Madrid,F,57,Cantante
+4,3,"All Around the World, de Lisa Stansfield",Vicky Larraz,9,9,5,8,6,Ruth,13.0,34 (7),0,All Around the World,Lisa Stansfield,,España,Madrid,Madrid,F,57,Cantante
+4,4,"Thinking Out Loud, de Ed Sheeran",Vicky Larraz,10,11,7,12,5,Adrián,17.0,55 (12),0,Thinking Out Loud,Ed Sheeran,,España,Madrid,Madrid,F,57,Cantante
+4,5,"Tómame o déjame, de Amaya Uranga (Mocedades)",Vicky Larraz,6,11,5,7,4,El Sevilla,10.0,29 (6),0,Tómame o déjame,Amaya Uranga (Mocedades),,España,Madrid,Madrid,F,57,Cantante
+4,6,"Voyage voyage, de Desireless",Vicky Larraz,6,6,5,5,4,Edu,9.0,25 (5),0,Voyage voyage,Desireless,,España,Madrid,Madrid,F,57,Cantante
+4,7,"If I Could Turn Back Time, de Cher",Vicky Larraz,4,4,8,6,5,Adrián,12.0,31 (7),0,If I Could Turn Back Time,Cher,,España,Madrid,Madrid,F,57,Cantante
+4,9,"You Can't Hurry Love, de Diana Ross & The Supremes",Vicky Larraz,8,9,8,5,7,El Sevilla,15.0,30 (8),0,You Can't Hurry Love,Diana Ross & The Supremes,,España,Madrid,Madrid,F,57,Cantante
+4,10,"Gold, de Tony Hadley (Spandau Ballet)",Vicky Larraz,5,5,5,4,4,Silvia,8.0,19 (4),0,Gold,Tony Hadley (Spandau Ballet),,España,Madrid,Madrid,F,57,Cantante
+4,11,"Un ramito de violetas, de Cecilia",Vicky Larraz,9,10,6,10,7,Ana,15.0,35 (8),0,Un ramito de violetas,Cecilia,,España,Madrid,Madrid,F,57,Cantante
+4,12,"Lips Are Movin, de Meghan Trainor",Vicky Larraz,6,7,12,8,4,Adrián,13.0,39 (9),0,Lips Are Movin,Meghan Trainor,,España,Madrid,Madrid,F,57,Cantante
+4,13,"La fiesta terminó, de Paloma San Basilio (Training VIP)",Vicky Larraz,12,10,10,12,9,Adrián,21.0,62 (12),0,La fiesta terminó,Paloma San Basilio (Training VIP),Training,España,Madrid,Madrid,F,57,Cantante
+4,14,"Physical,de Olivia Newton-John",Vicky Larraz,6,4,5,8,4,Ruth,8.0,23 (4),0,Physical,Olivia Newton-John,,España,Madrid,Madrid,F,57,Cantante
+4,15,"It Must Have Been Love, de Marie Fredriksson (Roxette)",Vicky Larraz,4,4,4,7,4,,8.0,19 (4),0,It Must Have Been Love,Marie Fredriksson (Roxette),,España,Madrid,Madrid,F,57,Cantante
+4,16,"Hello, de Adele",Vicky Larraz,5,5,5,5,5,,10.0,20 (5),0,Hello,Adele,,España,Madrid,Madrid,F,57,Cantante
+4,1,"Walking on Sunshine, de Katrina Leskanich (Katrina & The Waves)",Ana Morgade,5,7,5,5,5,El Sevilla,11.0,28 (6),0,Walking on Sunshine,Katrina Leskanich (Katrina & The Waves),,España,Madrid,Madrid,F,40,Humorista
+4,2,"La isla bonita, de Madonna",Ana Morgade,6,6,9,7,4,Ruth,11.0,31 (7),0,La isla bonita,Madonna,,España,Madrid,Madrid,F,40,Humorista
+4,3,"Shake It Off, de Taylor Swift",Ana Morgade,6,8,9,6,4,Vicky,13.0,35 (9),0,Shake It Off,Taylor Swift,,España,Madrid,Madrid,F,40,Humorista
+4,4,"Disparé, de Mai Meneses (Nena Daconte)",Ana Morgade,9,9,4,9,7,Silvia,15.0,31 (8),0,Disparé,Mai Meneses (Nena Daconte),,España,Madrid,Madrid,F,40,Humorista
+4,5,"Heart of glass, de Deborah Harry (Blondie)",Ana Morgade,10,9,11,8,9,Edu,20.0,41 (11),0,Heart of glass,Deborah Harry (Blondie),,España,Madrid,Madrid,F,40,Humorista
+4,6,"Loca, de Malena Gracia (Sorpresa, Sorpresa)",Ana Morgade,9,10,12,12,10,Falete,21.0,46 (11),0,Loca,"Malena Gracia (Sorpresa, Sorpresa)",Sorpresa,España,Madrid,Madrid,F,40,Humorista
+4,7,"Saturday Night , de Whigfield",Ana Morgade,5,5,6,4,7,Silvia,11.0,20 (4),0,Saturday Night ,Whigfield,,España,Madrid,Madrid,F,40,Humorista
+4,8,"Salta, de Alejo Stivel (Tequila)",Ana Morgade,4,8,5,7,7,Falete,13.0,24 (6),0,Salta,Alejo Stivel (Tequila),,España,Madrid,Madrid,F,40,Humorista
+4,9,"Supernatural, de Marta Sánchez (Olé Olé)",Ana Morgade,7,7,5,8,8,El Sevilla,15.0,27 (7),0,Supernatural,Marta Sánchez (Olé Olé),,España,Madrid,Madrid,F,40,Humorista
+4,10,"Ven, devórame otra vez, de Toñi Salazar con Anna Simon como Encarna Salazar (Azúcar Moreno) (Trae un amigo)",Ana Morgade,6,8,6,7,5,Silvia,11.0,27 (6),0,"Ven, devórame otra vez",Toñi Salazar con Anna Simon como Encarna Salazar (Azúcar Moreno) (Trae un amigo),Trae un amigo,España,Madrid,Madrid,F,40,Humorista
+4,11,"Anaconda, de Nicki Minaj",Ana Morgade,10,12,12,11,10,Adrián,22.0,63 (12),0,Anaconda,Nicki Minaj,,España,Madrid,Madrid,F,40,Humorista
+4,12,"Bang Bang (My Baby Shot Me Down), de Nancy Sinatra",Ana Morgade,10,10,6,10,10,Vicky,20.0,39 (10),0,Bang Bang (My Baby Shot Me Down),Nancy Sinatra,,España,Madrid,Madrid,F,40,Humorista
+4,13,"Voy en un coche, de Christina Rosenvinge (Christina y Los Subterráneos)",Ana Morgade,4,4,5,9,6,Adrián,12.0,22 (6),0,Voy en un coche,Christina Rosenvinge (Christina y Los Subterráneos),,España,Madrid,Madrid,F,40,Humorista
+4,14,"Los piconeros, de Penélope Cruz (La niña de tus ojos)",Ana Morgade,8,7,10,6,10,Silvia,20.0,40 (10),0,Los piconeros,Penélope Cruz (La niña de tus ojos),,España,Madrid,Madrid,F,40,Humorista
+4,15,"Just a Girl, de Gwen Stefani (No Doubt)",Ana Morgade,10,9,8,10,8,,18.0,37 (10),0,Just a Girl,Gwen Stefani (No Doubt),,España,Madrid,Madrid,F,40,Humorista
+4,16,"Downtown, de Petula Clark",Ana Morgade,8,8,8,9,10,,19.0,33 (9),0,Downtown,Petula Clark,,España,Madrid,Madrid,F,40,Humorista
+4,1,"Venezia, de David Summers (Hombres G)",El Sevilla,4,4,4,4,4,Ana,8.0,25 (4),0,Venezia,David Summers (Hombres G),,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,2,"Quiero ser como tú, de El Rey Mono (El Libro de la Selva)",El Sevilla,5,5,5,4,5,Silvia,10.0,25 (5),0,Quiero ser como tú,El Rey Mono (El Libro de la Selva),,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,3,"Porque te vas, de Jeanette",El Sevilla,5,7,11,11,9,Ana,17.0,34 (8),0,Porque te vas,Jeanette,,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,4,"Y nos dieron las diez, de Joaquín Sabina",El Sevilla,7,5,8,6,9,Vicky,15.0,29 (6),0,Y nos dieron las diez,Joaquín Sabina,,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,5,"Baila morena, de Zucchero",El Sevilla,7,7,6,4,6,Silvia,11.0,27 (5),0,Baila morena,Zucchero,,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,6,"Highway to Hell, de Brian Johnson (AC/DC)",El Sevilla,5,9,8,11,11,Ana,20.0,36 (9),0,Highway to Hell,Brian Johnson (AC/DC),,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,7,"La gozadera, de Alexander Delgado Hernández (Gente de Zona) con Xuso Jones como Marc Anthony (Trae un amigo)",El Sevilla,7,6,5,9,6,Silvia,12.0,27 (6),0,La gozadera,Alexander Delgado Hernández (Gente de Zona) con Xuso Jones como Marc Anthony (Trae un amigo),Trae un amigo,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,8,"Comando G, de Tino Fernández ""Ficha Roja"" (Parchís) (Comando G)",El Sevilla,10,9,9,9,5,Pablo,14.0,43 (9),0,Comando G,"Tino Fernández ""Ficha Roja"" (Parchís) (Comando G)",,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,9,"Noche de bodas, de Chavela Vargas",El Sevilla,12,12,12,12,12,Adrián,24.0,69 (12),0,Noche de bodas,Chavela Vargas,,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,10,"Hard Rock Hallelujah, de Tomi Putaansuu (Mr Lordi) (Lordi)",El Sevilla,10,11,9,8,9,Adrián,18.0,38 (9),0,Hard Rock Hallelujah,Tomi Putaansuu (Mr Lordi) (Lordi),,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,11,"Tutti frutti, de Little Richard",El Sevilla,4,5,4,5,6,Ana,10.0,18 (4),0,Tutti frutti,Little Richard,,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,12,"Pastillas para dormir, de David Muñoz (Estopa) (Training VIP)",El Sevilla,7,6,10,5,7,Falete,13.0,31 (6),0,Pastillas para dormir,David Muñoz (Estopa) (Training VIP),Training,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,13,"Pa' mi guerrera, de Huecco",El Sevilla,6,5,4,5,5,Vicky,9.0,20 (4),0,Pa' mi guerrera,Huecco,,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,14,"La gallina Cocoguagua, de Ana Anguita (Enrique y Ana) (Sorpresa, Sorpresa)",El Sevilla,5,6,6,4,5,Pablo,10.0,24 (5),0,La gallina Cocoguagua,"Ana Anguita (Enrique y Ana) (Sorpresa, Sorpresa)",Sorpresa,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,15,"Feo, fuerte y formal, de Loquillo (Loquillo y Trogloditas)",El Sevilla,5,7,9,6,5,,12.0,27 (7),0,"Feo, fuerte y formal",Loquillo (Loquillo y Trogloditas),,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+4,16,"Corazón de neón, de Javier Gurruchaga (Orquesta Mondragón)",El Sevilla,6,7,6,7,6,,12.0,26 (6),0,Corazón de neón,Javier Gurruchaga (Orquesta Mondragón),,España,Andalucía,San Juan de Aznalfarache,M,50,Cantante
+5,1,"I'll Be There y Who's Lovin' You, de Michael Jackson (The Jackson 5)",Beatriz Luengo,10,11,12,12,12,,24.0,45 (12),0,I'll Be There y Who's Lovin' You,Michael Jackson (The Jackson 5),,España,Madrid,Madrid,F,34,Cine
+5,2,"I'm a Slave 4 U, de Britney Spears",Beatriz Luengo,9,9,9,9,8,,17.0,36 (9),0,I'm a Slave 4 U,Britney Spears,,España,Madrid,Madrid,F,34,Cine
+5,3,"Diles, de Malú",Beatriz Luengo,7,8,9,6,10,,16.0,30 (6),0,Diles,Malú,,España,Madrid,Madrid,F,34,Cine
+5,4,"If I Ain't Got You , de Alicia Keys con Las Supremas de Móstoles como coristas",Beatriz Luengo,8,7,9,7,11,,19.0,31 (8),0,If I Ain't Got You ,Alicia Keys con Las Supremas de Móstoles como coristas,,España,Madrid,Madrid,F,34,Cine
+5,5,"All That Jazz, de Catherine Zeta-Jones (Chicago)",Beatriz Luengo,11,11,11,9,9,,20.0,42 (11),0,All That Jazz,Catherine Zeta-Jones (Chicago),,España,Madrid,Madrid,F,34,Cine
+5,6,"Marinero de luces, de Isabel Pantoja",Beatriz Luengo,8,9,9,11,11,,20.0,37 (9),0,Marinero de luces,Isabel Pantoja,,España,Madrid,Madrid,F,34,Cine
+5,7,"Cheap Thrills, de Sia",Beatriz Luengo,12,12,12,12,9,,21.0,48 (12),0,Cheap Thrills,Sia,,España,Madrid,Madrid,F,34,Cine
+5,8,"Memory, de Barbra Streisand",Beatriz Luengo,9,7,7,6,10,,17.0,29 (7),0,Memory,Barbra Streisand,,España,Madrid,Madrid,F,34,Cine
+5,9,"New York, New York, de Liza Minnelli con Pablo Puyol como Frank Sinatra (Trae un amigo)",Beatriz Luengo,9,12,8,10,10,,19.0,39 (9),0,"New York, New York",Liza Minnelli con Pablo Puyol como Frank Sinatra (Trae un amigo),Trae un amigo,España,Madrid,Madrid,F,34,Cine
+5,10,"Focus, de Ariana Grande",Beatriz Luengo,11,10,11,10,10,,21.0,42 (11),0,Focus,Ariana Grande,,España,Madrid,Madrid,F,34,Cine
+5,11,"Un-Break My Heart, de Toni Braxton",Beatriz Luengo,8,12,10,8,10,,20.0,38 (10),0,Un-Break My Heart,Toni Braxton,,España,Madrid,Madrid,F,34,Cine
+5,12,Contigo en la distancia de Christina Aguilera,Beatriz Luengo,7,7,8,9,8,,15.0,31 (7),0,Contigo en la distancia,Christina Aguilera,,España,Madrid,Madrid,F,34,Cine
+5,13,"Work, de Rihanna con Yotuel como Drake (Trae un amigo)",Beatriz Luengo,11,11,11,9,11,,22.0,42 (11),0,Work,Rihanna con Yotuel como Drake (Trae un amigo),Trae un amigo,España,Madrid,Madrid,F,34,Cine
+5,14,"Volver, de Estrella Morente",Beatriz Luengo,5,5,9,7,9,,16.0,26 (7),0,Volver,Estrella Morente,,España,Madrid,Madrid,F,34,Cine
+5,15,"Hallelujah, de Jennifer Hudson",Beatriz Luengo,9,9,9,10,11,,20.0,37 (9),0,Hallelujah,Jennifer Hudson,,España,Madrid,Madrid,F,34,Cine
+5,16,Million Reasons de Lady Gaga,Beatriz Luengo,11,11,10,11,10,,21.0,43 (11),0,Million Reasons,Lady Gaga,,España,Madrid,Madrid,F,34,Cine
+5,17,Run the World (Girls) de Beyoncé,Beatriz Luengo,8,10,10,8,10,,20.0,36 (10),0,Run the World (Girls),Beyoncé,,España,Madrid,Madrid,F,34,Cine
+5,1,"Next to Me, de Emeli Sandé",Rosa López,7,9,11,7,11,,19.0,34 (8),0,Next to Me,Emeli Sandé,,España,Andalucía,Peñuelas,F,36,Cantante
+5,2,"Corazón contento, de Marisol",Rosa López,6,7,7,7,7,,14.0,27 (7),0,Corazón contento,Marisol,,España,Andalucía,Peñuelas,F,36,Cantante
+5,3,"No, de Meghan Trainor",Rosa López,11,11,10,12,9,,20.0,44 (11),0,No,Meghan Trainor,,España,Andalucía,Peñuelas,F,36,Cantante
+5,4,"GoldenEye, de Tina Turner",Rosa López,6,11,10,6,10,,20.0,33 (10),0,GoldenEye,Tina Turner,,España,Andalucía,Peñuelas,F,36,Cantante
+5,5,"Frozen, de Madonna",Rosa López,5,5,7,8,11,,17.0,25 (6),0,Frozen,Madonna,,España,Andalucía,Peñuelas,F,36,Cantante
+5,6,"Amor a la mexicana, de Thalía",Rosa López,11,11,11,10,9,,20.0,43 (11),0,Amor a la mexicana,Thalía,,España,Andalucía,Peñuelas,F,36,Cantante
+5,7,"Dancing Queen, de Anni-Frid Lyngstad con Verónica Romero como Agnetha Fältskog (ABBA) (Trae un amigo)",Rosa López,5,4,6,4,6,,11.0,19 (5),0,Dancing Queen,Anni-Frid Lyngstad con Verónica Romero como Agnetha Fältskog (ABBA) (Trae un amigo),Trae un amigo,España,Andalucía,Peñuelas,F,36,Cantante
+5,8,"Bad Girls, de Donna Summer con Las Supremas de Móstoles como coristas",Rosa López,8,8,8,8,11,,19.0,32 (8),0,Bad Girls,Donna Summer con Las Supremas de Móstoles como coristas,,España,Andalucía,Peñuelas,F,36,Cantante
+5,9,"Te quiero, te quiero, de Carmen Sevilla",Rosa López,7,9,11,9,9,,17.0,36 (8),0,"Te quiero, te quiero",Carmen Sevilla,,España,Andalucía,Peñuelas,F,36,Cantante
+5,10,"Stars, de Mick Hucknall (Simply Red)",Rosa López,8,6,9,7,9,,17.0,30 (8),0,Stars,Mick Hucknall (Simply Red),,España,Andalucía,Peñuelas,F,36,Cantante
+5,11,"Sin saber por qué, de Vanesa Martín (Training VIP)",Rosa López,11,10,12,11,12,,24.0,44 (12),0,Sin saber por qué,Vanesa Martín (Training VIP),Training,España,Andalucía,Peñuelas,F,36,Cantante
+5,12,"No me importa nada, de Luz Casal",Rosa López,12,12,12,11,10,,22.0,47 (12),0,No me importa nada,Luz Casal,,España,Andalucía,Peñuelas,F,36,Cantante
+5,13,"Pump Up the Jam, de Ya Kid K (Technotronic)",Rosa López,9,8,9,10,5,,14.0,36 (9),0,Pump Up the Jam,Ya Kid K (Technotronic),,España,Andalucía,Peñuelas,F,36,Cantante
+5,14,"Come, de Jain",Rosa López,7,8,8,10,11,,19.0,33 (8),0,Come,Jain,,España,Andalucía,Peñuelas,F,36,Cantante
+5,15,"Blank Space, de Taylor Swift",Rosa López,6,8,8,8,7,,14.0,30 (7),0,Blank Space,Taylor Swift,,España,Andalucía,Peñuelas,F,36,Cantante
+5,16,"El Pichi, de Sara Montiel",Rosa López,7,6,9,10,11,,20.0,32 (9),0,El Pichi,Sara Montiel,,España,Andalucía,Peñuelas,F,36,Cantante
+5,17,"Oye, de Gloria Estefan",Rosa López,6,7,9,6,12,,18.0,28 (6),0,Oye,Gloria Estefan,,España,Andalucía,Peñuelas,F,36,Cantante
+5,1,"Como yo te amo, de Raphael",Blas Cantó,8,7,10,10,10,,19.0,35 (9),0,Como yo te amo,Raphael,,España,Murcia,Ricote,M,25,Cantante
+5,2,"Greased Lightning , de John Travolta (Grease)",Blas Cantó,10,10,10,10,10,,20.0,40 (10),0,Greased Lightning ,John Travolta (Grease),,España,Murcia,Ricote,M,25,Cantante
+5,3,"Can't Stop the Feeling!, de Justin Timberlake",Blas Cantó,12,12,11,11,12,,24.0,46 (12),0,Can't Stop the Feeling!,Justin Timberlake,,España,Murcia,Ricote,M,25,Cantante
+5,4,"Sola, de Diana Navarro (Training VIP)",Blas Cantó,12,12,12,12,12,,24.0,48 (12),0,Sola,Diana Navarro (Training VIP),Training,España,Murcia,Ricote,M,25,Cantante
+5,5,"Stay With Me, de Sam Smith",Blas Cantó,9,10,10,6,10,,20.0,35 (10),0,Stay With Me,Sam Smith,,España,Murcia,Ricote,M,25,Cantante
+5,6,"Livin' la vida loca, de Ricky Martin",Blas Cantó,9,10,10,9,12,,22.0,38 (10),0,Livin' la vida loca,Ricky Martin,,España,Murcia,Ricote,M,25,Cantante
+5,7,"Qué voy a hacer con mi amor, de Alejandro Fernández",Blas Cantó,11,9,11,10,11,,21.0,41 (10),0,Qué voy a hacer con mi amor,Alejandro Fernández,,España,Murcia,Ricote,M,25,Cantante
+5,8,"Believe, de Cher",Blas Cantó,12,11,10,12,12,,24.0,45 (12),0,Believe,Cher,,España,Murcia,Ricote,M,25,Cantante
+5,9,"Feeling Good, de Michael Bublé",Blas Cantó,10,11,9,11,11,,22.0,41 (11),0,Feeling Good,Michael Bublé,,España,Murcia,Ricote,M,25,Cantante
+5,10,"S.O.S, de Falete (Training VIP)",Blas Cantó,12,12,12,12,12,,24.0,48 (12),0,S.O.S,Falete (Training VIP),Training,España,Murcia,Ricote,M,25,Cantante
+5,11,"La Bohème, de Charles Aznavour",Blas Cantó,9,11,11,12,11,,22.0,43 (11),0,La Bohème,Charles Aznavour,,España,Murcia,Ricote,M,25,Cantante
+5,12,"Purple Rain, de Prince con Roko como Beyoncé (Trae un amigo)",Blas Cantó,11,8,11,6,11,,20.0,36 (9),0,Purple Rain,Prince con Roko como Beyoncé (Trae un amigo),Trae un amigo,España,Murcia,Ricote,M,25,Cantante
+5,13,Ave María de Andrea Bocelli,Blas Cantó,7,6,7,5,12,,17.0,25 (5),0,Ave María,Andrea Bocelli,,España,Murcia,Ricote,M,25,Cantante
+5,14,Somebody to Love de Freddie Mercury (Queen),Blas Cantó,11,11,12,12,12,,23.0,46 (11),0,Somebody to Love,Freddie Mercury (Queen),,España,Murcia,Ricote,M,25,Cantante
+5,15,"Libre, de Nino Bravo",Blas Cantó,10,10,10,9,9,,19.0,39 (10),0,Libre,Nino Bravo,,España,Murcia,Ricote,M,25,Cantante
+5,16,"Left Outside Alone, de Anastacia",Blas Cantó,12,12,12,12,12,,24.0,48 (12),0,Left Outsi,"Alone, de Anastacia",,España,Murcia,Ricote,M,25,Cantante
+5,1,"Tengo miedo, de Marifé de Triana",Lorena Gómez,11,10,9,11,9,,19.0,41 (10),0,Tengo miedo,Marifé de Triana,,España,Canarias,Lérida,F,30,Cantante
+5,2,"Sax, de Fleur East",Lorena Gómez,12,12,12,11,12,,24.0,47 (12),0,Sax,Fleur East,,España,Canarias,Lérida,F,30,Cantante
+5,3,"Always , de Jon Bon Jovi (Bon Jovi)",Lorena Gómez,9,7,7,8,8,,17.0,31 (9),0,Always ,Jon Bon Jovi (Bon Jovi),,España,Canarias,Lérida,F,30,Cantante
+5,4,"Domino , de Jessie J",Lorena Gómez,9,5,8,5,5,,10.0,27 (5),0,Domino ,Jessie J,,España,Canarias,Lérida,F,30,Cantante
+5,5,"90 minutos, de India Martínez (Training VIP)",Lorena Gómez,12,12,12,12,12,,24.0,48 (12),0,90 minutos,India Martínez (Training VIP),Training,España,Canarias,Lérida,F,30,Cantante
+5,6,"La bicicleta, de Shakira con Xuso Jones como Carlos Vives (Trae un amigo)",Lorena Gómez,10,8,7,6,8,,16.0,31 (8),0,La bicicleta,Shakira con Xuso Jones como Carlos Vives (Trae un amigo),Trae un amigo,España,Canarias,Lérida,F,30,Cantante
+5,7,"When We Were Young, de Adele",Lorena Gómez,7,7,7,6,8,,14.0,27 (6),0,When We Were Young,Adele,,España,Canarias,Lérida,F,30,Cantante
+5,8,"Fue un placer conocerte, de Rocío Dúrcal",Lorena Gómez,11,10,11,11,9,,19.0,43 (10),0,Fue un placer conocerte,Rocío Dúrcal,,España,Canarias,Lérida,F,30,Cantante
+5,9,"Stronger (What Doesn't Kill You), de Kelly Clarkson",Lorena Gómez,8,7,7,7,6,,13.0,29 (7),0,Stronger (What Doesn't Kill You),Kelly Clarkson,,España,Canarias,Lérida,F,30,Cantante
+5,10,"Cuando nadie me ve, de Niña Pastori",Lorena Gómez,10,11,10,11,11,,21.0,42 (10),0,Cuando nadie me ve,Niña Pastori,,España,Canarias,Lérida,F,30,Cantante
+5,11,"Lucía, de David Bisbal",Lorena Gómez,7,9,9,7,8,,15.0,32 (7),0,Lucía,David Bisbal,,España,Canarias,Lérida,F,30,Cantante
+5,12,"One Moment in Time, de Whitney Houston",Lorena Gómez,8,11,9,12,9,,20.0,40 (11),0,One Moment in Time,Whitney Houston,,España,Canarias,Lérida,F,30,Cantante
+5,13,"La mala costumbre, de Pastora Soler",Lorena Gómez,10,9,10,11,10,,20.0,40 (10),0,La mala costumbre,Pastora Soler,,España,Canarias,Lérida,F,30,Cantante
+5,14,"If You Had My Love y Get Right, de Jennifer Lopez",Lorena Gómez,10,9,7,8,8,,17.0,34 (9),0,If You Had My Love y Get Right,Jennifer Lopez,,España,Canarias,Lérida,F,30,Cantante
+5,15,"Can't Take My Eyes Off You, de Gloria Gaynor",Lorena Gómez,12,11,11,7,8,,19.0,41 (11),0,Can't Take My Eyes Off You,Gloria Gaynor,,España,Canarias,Lérida,F,30,Cantante
+5,16,"The Show Must Go On, de Céline Dion",Lorena Gómez,10,10,11,8,9,,19.0,39 (10),0,The Show Must Go On,Céline Dion,,España,Canarias,Lérida,F,30,Cantante
+5,17,"My Way, de Shirley Bassey",Lorena Gómez,12,12,12,11,11,,23.0,47 (12),0,My Way,Shirley Bassey,,España,Canarias,Lérida,F,30,Cantante
+5,1,"Unchain My Heart, de Joe Cocker",Juan Muñoz,12,12,8,9,8,,19.0,41 (11),0,Unchain My Heart,Joe Cocker,,España,Cataluña,Barcelona,M,51,Humorista
+5,2,"Venecia sin ti, de Dyango (Training VIP)",Juan Muñoz,11,11,11,12,11,,22.0,45 (11),0,Venecia sin ti,Dyango (Training VIP),Training,España,Cataluña,Barcelona,M,51,Humorista
+5,3,"La casa por el tejado, de Fito Cabrales (Fito y los Fitipaldis)",Juan Muñoz,10,10,8,9,11,,21.0,37 (10),0,La casa por el tejado,Fito Cabrales (Fito y los Fitipaldis),,España,Cataluña,Barcelona,M,51,Humorista
+5,4,"Just a Gigolo y I Ain't Got Nobody, de Louis Prima",Juan Muñoz,11,10,11,8,9,,20.0,40 (11),0,Just a Gigolo y I Ain't Got Nobody,Louis Prima,,España,Cataluña,Barcelona,M,51,Humorista
+5,5,"It's A Heartache, de Bonnie Tyler",Juan Muñoz,6,4,4,4,6,,10.0,18 (4),0,It's A Heartache,Bonnie Tyler,,España,Cataluña,Barcelona,M,51,Humorista
+5,6,"El muerto vivo, de Peret",Juan Muñoz,4,4,4,4,4,,8.0,16 (4),0,El muerto vivo,Peret,,España,Cataluña,Barcelona,M,51,Humorista
+5,7,"El progreso, de Roberto Carlos",Juan Muñoz,10,10,9,9,10,,19.0,38 (9),0,El progreso,Roberto Carlos,,España,Cataluña,Barcelona,M,51,Humorista
+5,8,"Pa Madrid, de El Barrio",Juan Muñoz,10,12,12,10,4,,15.0,44 (11),0,Pa Madrid,El Barrio,,España,Cataluña,Barcelona,M,51,Humorista
+5,9,"In the summertime, de Ray Dorset (Mungo Jerry)",Juan Muñoz,5,6,6,5,5,,11.0,22 (6),0,In the summertime,Ray Dorset (Mungo Jerry),,España,Cataluña,Barcelona,M,51,Humorista
+5,10,"Tren de largo recorrido, de Rafa Sánchez (La Unión)",Juan Muñoz,6,7,5,5,4,,9.0,23 (5),0,Tren de largo recorrido,Rafa Sánchez (La Unión),,España,Cataluña,Barcelona,M,51,Humorista
+5,11,"Banana Boat Song, de Harry Belafonte",Juan Muñoz,5,5,5,5,6,,11.0,20 (5),0,Banana Boat Song,Harry Belafonte,,España,Cataluña,Barcelona,M,51,Humorista
+5,12,"Arriba los corazones, de Antonio Flores",Juan Muñoz,10,9,6,7,6,,14.0,32 (8),0,Arriba los corazones,Antonio Flores,,España,Cataluña,Barcelona,M,51,Humorista
+5,13,"Por una cabeza, de Carlos Gardel",Juan Muñoz,5,4,4,4,4,,8.0,17 (4),0,Por una cabeza,Carlos Gardel,,España,Cataluña,Barcelona,M,51,Humorista
+5,14,"Ocupen su localidad y Hoy puede ser un gran día, de Serrat y Sabina (Dos en uno)",Juan Muñoz,12,12,11,11,7,,19.0,46 (12),0,Ocupen su localidad y Hoy puede ser un gran día,Serrat y Sabina (Dos en uno),Dos,España,Cataluña,Barcelona,M,51,Humorista
+5,15,"El mundo, de Jimmy Fontana",Juan Muñoz,5,5,5,5,5,,9.0,20 (4),0,El mundo,Jimmy Fontana,,España,Cataluña,Barcelona,M,51,Humorista
+5,16,I'm a Believer de Steven Harwell (Smash Mouth),Juan Muñoz,6,9,6,6,4,,10.0,27 (6),0,I'm a Believer,Steven Harwell (Smash Mouth),,España,Cataluña,Barcelona,M,51,Humorista
+5,17,Woman de John Lennon,Juan Muñoz,7,5,5,5,5,,10.0,22 (5),0,Woman,John Lennon,,España,Cataluña,Barcelona,M,51,Humorista
+5,1,"Limón y sal, de Julieta Venegas",Esther Arroyo,9,8,7,8,7,,14.0,32 (7),0,Limón y sal,Julieta Venegas,,España,Andalucía,Cádiz,F,48,TV
+5,2,"La vie en rose, de Grace Jones",Esther Arroyo,8,8,8,8,9,,17.0,32 (8),0,La vie en rose,Grace Jones,,España,Andalucía,Cádiz,F,48,TV
+5,3,"Don't get me wrong, de Chrissie Hynde (The Pretenders)",Esther Arroyo,8,9,6,7,6,,13.0,30 (7),0,Don't get me wrong,Chrissie Hynde (The Pretenders),,España,Andalucía,Cádiz,F,48,TV
+5,4,"Perfect, de Eddi Reader (Fairground Attraction)",Esther Arroyo,4,4,4,4,4,,8.0,16 (4),0,Perfect,Eddi Reader (Fairground Attraction),,España,Andalucía,Cádiz,F,48,TV
+5,5,"Pon una cinta en el viejo roble, de Helena Bianco (Los Mismos)",Esther Arroyo,8,8,9,10,8,,17.0,35 (9),0,Pon una cinta en el viejo roble,Helena Bianco (Los Mismos),,España,Andalucía,Cádiz,F,48,TV
+5,6,"Angie, de Mick Jagger (The Rolling Stones)",Esther Arroyo,6,6,6,8,7,,14.0,26 (7),0,Angie,Mick Jagger (The Rolling Stones),,España,Andalucía,Cádiz,F,48,TV
+5,7,"Crazy, de Patsy Cline",Esther Arroyo,9,11,10,11,12,,23.0,41 (11),0,Crazy,Patsy Cline,,España,Andalucía,Cádiz,F,48,TV
+5,8,"Poupée de cire, poupée de son, de France Gall",Esther Arroyo,7,9,9,9,7,,16.0,34 (9),0,"Poupée de cire, poupée de son",France Gall,,España,Andalucía,Cádiz,F,48,TV
+5,9,"Smooth Operator, de Sade Adu (Sade)",Esther Arroyo,6,5,5,6,7,,12.0,22 (5),0,Smooth Operator,Sade Adu (Sade),,España,Andalucía,Cádiz,F,48,TV
+5,10,"Échale guindas al pavo, de Rosa Morena",Esther Arroyo,7,8,8,6,5,,12.0,29 (7),0,Échale guindas al pavo,Rosa Morena,,España,Andalucía,Cádiz,F,48,TV
+5,11,"Bette Davis Eyes, de Kim Carnes",Esther Arroyo,6,7,8,6,9,,15.0,27 (6),0,Bette Davis Eyes,Kim Carnes,,España,Andalucía,Cádiz,F,48,TV
+5,12,"Do You Really Want to Hurt Me, de Boy George (Culture Club)",Esther Arroyo,9,6,7,8,7,,13.0,30 (6),0,Do You Really Want to Hurt Me,Boy George (Culture Club),,España,Andalucía,Cádiz,F,48,TV
+5,13,"Killing Me Softly with His Song, de Lauryn Hill (The Fugees)",Esther Arroyo,8,5,6,8,7,,14.0,27 (7),0,Killing Me Softly with His Song,Lauryn Hill (The Fugees),,España,Andalucía,Cádiz,F,48,TV
+5,14,"Two little girls from Little Rock, de Jane Russell con Silvia Abril como Marilyn Monroe (Los caballeros las prefieren rubias) (Trae un amigo)",Esther Arroyo,6,7,6,6,6,,11.0,25 (5),0,Two little girls from Little Rock,Jane Russell con Silvia Abril como Marilyn Monroe (Los caballeros las prefieren rubias) (Trae un amigo),Trae un amigo,España,Andalucía,Cádiz,F,48,TV
+5,15,"80 veces, de Rozalén (Training Vip)",Esther Arroyo,11,12,12,12,10,,22.0,47 (12),0,80 veces,Rozalén (Training Vip),Training,España,Andalucía,Cádiz,F,48,TV
+5,16,"El hombre del piano, de Ana Belén",Esther Arroyo,8,7,8,5,5,,12.0,28 (7),0,El hombre del piano,Ana Belén,,España,Andalucía,Cádiz,F,48,TV
+5,17,"Smile, de Judy Garland",Esther Arroyo,9,9,7,9,7,,15.0,34 (8),0,Smile,Judy Garland,,España,Andalucía,Cádiz,F,48,TV
+5,1,"Mediterráneo, de Carlos Segarra (Los Rebeldes)",Canco Rodríguez,6,6,6,6,6,,12.0,24 (6),0,Mediterráneo,Carlos Segarra (Los Rebeldes),,España,Andalucía,Málaga,M,39,Humorista
+5,2,"Soy lo que me das, de Chenoa",Canco Rodríguez,7,6,6,6,6,,12.0,25 (6),0,Soy lo que me das,Chenoa,,España,Andalucía,Málaga,M,39,Humorista
+5,3,"Juanita Banana, de Luis Aguilé",Canco Rodríguez,5,6,5,5,5,,10.0,21 (5),0,Juanita Banana,Luis Aguilé,,España,Andalucía,Málaga,M,39,Humorista
+5,4,"La chica de ayer, de Antonio Vega (Nacha Pop)",Canco Rodríguez,5,9,5,11,8,,15.0,30 (7),0,La chica de ayer,Antonio Vega (Nacha Pop),,España,Andalucía,Málaga,M,39,Humorista
+5,5,"Come As You Are, de Kurt Cobain (Nirvana)",Canco Rodríguez,4,7,6,5,5,,10.0,22 (5),0,Come As You Are,Kurt Cobain (Nirvana),,España,Andalucía,Málaga,M,39,Humorista
+5,6,"Friday I'm in Love, de Robert Smith (The Cure)",Canco Rodríguez,12,12,12,12,10,,22.0,48 (12),0,Friday I'm in Love,Robert Smith (The Cure),,España,Andalucía,Málaga,M,39,Humorista
+5,7,"Trololo, de  Eduard Khill",Canco Rodríguez,8,8,5,7,7,,14.0,28 (7),0,Trololo,Eduard Khill,,España,Andalucía,Málaga,M,39,Humorista
+5,8,"Madre Tierra, de Chayanne",Canco Rodríguez,6,6,5,7,5,,11.0,24 (6),0,Madre Tierra,Chayanne,,España,Andalucía,Málaga,M,39,Humorista
+5,9,"Devuélveme la vida, de Antonio Orozco",Canco Rodríguez,12,10,10,12,12,,24.0,44 (12),0,Devuélveme la vida,Antonio Orozco,,España,Andalucía,Málaga,M,39,Humorista
+5,10,"Singin' in the Rain, de Gene Kelly (Cantando bajo la lluvia)",Canco Rodríguez,9,9,7,9,8,,17.0,34 (9),0,Singin' in the Rain,Gene Kelly (Cantando bajo la lluvia),,España,Andalucía,Málaga,M,39,Humorista
+5,11,"Me enamora, de Juanes",Canco Rodríguez,4,4,4,4,4,,8.0,16 (4),0,Me enamora,Juanes,,España,Andalucía,Málaga,M,39,Humorista
+5,12,"Get Lucky, de Pharrell Williams y Daft Punk",Canco Rodríguez,6,10,10,10,12,,22.0,36 (10),0,Get Lucky,Pharrell Williams y Daft Punk,,España,Andalucía,Málaga,M,39,Humorista
+5,13,"Moving, de Macaco",Canco Rodríguez,6,7,8,7,8,,16.0,28 (8),0,Moving,Macaco,,España,Andalucía,Málaga,M,39,Humorista
+5,14,"Hit the Road, Jack, de Ray Charles con Sweet California como The Raelettes (Trae un amigo)",Canco Rodríguez,8,10,10,9,10,,20.0,37 (10),0,"Hit the Road, Jack",Ray Charles con Sweet California como The Raelettes (Trae un amigo),Trae un amigo,España,Andalucía,Málaga,M,39,Humorista
+5,15,"No dejes de soñar, de Manuel Carrasco",Canco Rodríguez,7,7,7,11,12,,20.0,32 (8),0,No dejes de soñar,Manuel Carrasco,,España,Andalucía,Málaga,M,39,Humorista
+5,16,"Cuando los ángeles lloran, de Fernando Olvera (Maná) con Adrián Lastra como Miguel Ríos (Trae un amigo)",Canco Rodríguez,5,8,7,7,7,,12.0,27 (5),0,Cuando los ángeles lloran,Fernando Olvera (Maná) con Adrián Lastra como Miguel Ríos (Trae un amigo),Trae un amigo,España,Andalucía,Málaga,M,39,Humorista
+5,17,"Infinito, de Enrique Bunbury",Canco Rodríguez,11,11,8,10,9,,20.0,40 (11),0,Infinito,Enrique Bunbury,,España,Andalucía,Málaga,M,39,Humorista
+5,1,"Picky, de Joey Montana",David Guapo,4,4,4,5,5,,9.0,17 (4),0,Picky,Joey Montana,,España,Cataluña,Barcelona,M,36,Humorista
+5,2,"Hymn for the Weekend, de Chris Martin (Coldplay)",David Guapo,4,5,4,4,5,,9.0,17 (4),0,Hymn for the Weekend,Chris Martin (Coldplay),,España,Cataluña,Barcelona,M,36,Humorista
+5,3,"Cómo te atreves, de Juan Pablo Isaza (Morat) (Original y copia)",David Guapo,6,5,4,4,4,,8.0,19 (4),0,Cómo te atreves,Juan Pablo Isaza (Morat) (Original y copia),Original,España,Cataluña,Barcelona,M,36,Humorista
+5,4,"Ven sin temor, de Bruno Lomas con Las Supremas de Móstoles como coristas",David Guapo,7,8,6,9,6,,12.0,30 (6),0,Ven sin temor,Bruno Lomas con Las Supremas de Móstoles como coristas,,España,Cataluña,Barcelona,M,36,Humorista
+5,5,"Adiós, papá, de Coque Malla (Los Ronaldos)",David Guapo,10,9,8,7,7,,15.0,34 (8),0,"Adiós, papá",Coque Malla (Los Ronaldos),,España,Cataluña,Barcelona,M,36,Humorista
+5,6,"Walk of Life, de Mark Knopfler (Dire Straits)",David Guapo,7,5,5,7,5,,10.0,24 (5),0,Walk of Life,Mark Knopfler (Dire Straits),,España,Cataluña,Barcelona,M,36,Humorista
+5,7,"Duro de pelar, de Rebeca",David Guapo,4,5,4,5,4,,8.0,18 (4),0,Duro de pelar,Rebeca,,España,Cataluña,Barcelona,M,36,Humorista
+5,8,"Duele el corazón, de Enrique Iglesias",David Guapo,5,5,6,5,8,,13.0,21 (5),0,Duele el corazón,Enrique Iglesias,,España,Cataluña,Barcelona,M,36,Humorista
+5,9,"Me duele la cara de ser tan guapo, de Alfonso Aguado (Los Inhumanos)",David Guapo,11,8,12,8,8,,18.0,39 (10),0,Me duele la cara de ser tan guapo,Alfonso Aguado (Los Inhumanos),,España,Cataluña,Barcelona,M,36,Humorista
+5,10,"A puro dolor, de Ángel López (Son by Four)",David Guapo,5,5,6,8,7,,13.0,24 (6),0,,,,España,Cataluña,Barcelona,M,36,Humorista
+5,11,"I'm Yours, de Jason Mraz",David Guapo,10,8,7,10,5,,14.0,35 (9),0,I'm Yours,Jason Mraz,,España,Cataluña,Barcelona,M,36,Humorista
+5,12,"Sofía, de Álvaro Soler (Original y Copia)",David Guapo,5,5,5,4,4,,9.0,19 (5),0,,,Original,España,Cataluña,Barcelona,M,36,Humorista
+5,13,"Una vez más, de David Otero (Original y copia)",David Guapo,12,12,12,12,9,,21.0,48 (12),0,Una vez más,David Otero (Original y copia),Original,España,Cataluña,Barcelona,M,36,Humorista
+5,14,"Sweet Home Alabama, de Lynyrd Skynyrd",David Guapo,9,6,5,5,5,,11.0,25 (6),0,Sweet Home Alabama,Lynyrd Skynyrd,,España,Cataluña,Barcelona,M,36,Humorista
+5,15,"Cuéntame un cuento, de Jesús Cifuentes (Celtas Cortos)",David Guapo,8,6,4,4,4,,10.0,22 (6),0,Cuéntame un cuento,Jesús Cifuentes (Celtas Cortos),,España,Cataluña,Barcelona,M,36,Humorista
+5,16,"Cien gaviotas, de Mikel Erentxun (Duncan Dhu)",David Guapo,9,5,5,9,6,,14.0,28 (8),0,Cien gaviotas,Mikel Erentxun (Duncan Dhu),,España,Cataluña,Barcelona,M,36,Humorista
+5,17,"Folsom Prison Blues, de Johnny Cash",David Guapo,10,8,6,7,6,,13.0,31 (7),0,Folsom Prison Blues,Johnny Cash,,España,Cataluña,Barcelona,M,36,Humorista
+5,1,"El ritmo de la noche, de María Chica Sánchez (Mystic)",Yolanda Ramos,5,5,5,4,4,,9.0,24 (5),0,El ritmo de la noche,María Chica Sánchez (Mystic),,España,Cataluña,Sabadell,F,47,Humorista
+5,2,"Un pueblo es, María Ostiz",Yolanda Ramos,5,4,5,5,4,,9.0,19 (5),0,,,,España,Cataluña,Sabadell,F,47,Humorista
+5,3,"Pippi Calzaslargas, de Pippi Långstrump (Pipi Calzaslargas)",Yolanda Ramos,4,4,12,10,7,,15.0,30 (8),0,Pippi Calzaslargas,Pippi Långstrump (Pipi Calzaslargas),,España,Cataluña,Sabadell,F,47,Humorista
+5,4,"La salchipapa, de Leticia Sabater",Yolanda Ramos,10,6,7,10,7,,16.0,33 (9),0,La salchipapa,Leticia Sabater,,España,Cataluña,Sabadell,F,47,Humorista
+5,5,"Hola, mi amor, de Junco",Yolanda Ramos,7,6,5,11,4,,11.0,29 (7),0,"Hola, mi amor",Junco,,España,Cataluña,Sabadell,F,47,Humorista
+5,6,"Big Spender, de Norma Duval",Yolanda Ramos,5,7,8,5,6,,12.0,25 (6),0,Big Spender,Norma Duval,,España,Cataluña,Sabadell,F,47,Humorista
+5,7,"Maman, maman, de Jean Jacques",Yolanda Ramos,6,6,8,8,5,,13.0,28 (8),0,"Maman, maman",Jean Jacques,,España,Cataluña,Sabadell,F,47,Humorista
+5,8,"Piece of my heart, de Janis Joplin con Las Supremas de Móstoles como coristas",Yolanda Ramos,4,4,4,4,6,,10.0,16 (4),0,Piece of my heart,Janis Joplin con Las Supremas de Móstoles como coristas,,España,Cataluña,Sabadell,F,47,Humorista
+5,9,"Fever, de Peggy Lee",Yolanda Ramos,4,4,4,4,4,,8.0,16 (4),0,Fever,Peggy Lee,,España,Cataluña,Sabadell,F,47,Humorista
+5,10,"Soy un gnomo, de David el gnomo (David el Gnomo)",Yolanda Ramos,4,4,4,4,6,,10.0,16 (4),0,Soy un gnomo,David el gnomo (David el Gnomo),,España,Cataluña,Sabadell,F,47,Humorista
+5,11,"Cuando zarpa el amor, de Dionisio Martín con Carlos Marco como Ángeles Muñoz (Camela) (Trae un amigo)",Yolanda Ramos,12,6,6,9,7,,15.0,33 (8),0,Cuando zarpa el amor,Dionisio Martín con Carlos Marco como Ángeles Muñoz (Camela) (Trae un amigo),Trae un amigo,España,Cataluña,Sabadell,F,47,Humorista
+5,12,"¿Quién maneja mi barca?, de Remedios Amaya",Yolanda Ramos,4,4,4,5,5,,9.0,17 (4),0,¿Quién maneja mi barca?,Remedios Amaya,,España,Cataluña,Sabadell,F,47,Humorista
+5,13,"Ça plane pour moi, de Plastic Bertrand",Yolanda Ramos,4,10,5,6,6,,12.0,25 (6),0,Ça plane pour moi,Plastic Bertrand,,España,Cataluña,Sabadell,F,47,Humorista
+5,14,"Suspiros de España, de Estrellita Castro",Yolanda Ramos,4,4,4,4,4,,8.0,16 (4),0,Suspiros,"España, de Estrellita Castro",,España,Cataluña,Sabadell,F,47,Humorista
+5,15,"La yenka, de Enrique y Ana (Dos en uno)",Yolanda Ramos,4,4,6,6,6,,11.0,20 (5),0,La yenka,Enrique y Ana (Dos en uno),Dos,España,Cataluña,Sabadell,F,47,Humorista
+5,16,"Kung Fu Fighting, de Carl Douglas",Yolanda Ramos,4,4,4,4,8,,12.0,16 (4),0,Kung Fu Fighting,Carl Douglas,,España,Cataluña,Sabadell,F,47,Humorista
+5,17,"Dora la exploradora, de Dora la Exploradora (Dora la Exploradora)",Yolanda Ramos,5,6,11,12,8,,17.0,34 (9),0,Dora la exploradora,Dora la Exploradora (Dora la Exploradora),,España,Cataluña,Sabadell,F,47,Humorista
+6,1,"Lo haré por ti, de Paulina Rubio",Pepa Aniorte,12,10,8,11,11,,23.0,41 (12),0,Lo haré por ti,Paulina Rubio,,España,Valencia,Orihuela,F,44,Cine
+6,2,"Killing Me Softly with His Song, de Roberta Flack",Pepa Aniorte,5,8,9,8,5,,12.0,30 (7),0,Killing Me Softly with His Song,Roberta Flack,,España,Valencia,Orihuela,F,44,Cine
+6,3,"Ella, de Bebe",Pepa Aniorte,10,6,6,6,8,,15.0,28 (7),0,Ella,Bebe,,España,Valencia,Orihuela,F,44,Cine
+6,4,"Cómo hemos cambiado, de Sole Giménez (Presuntos Implicados) (Training Vip)",Pepa Aniorte,9,9,7,5,9,,16.0,30 (7),0,Cómo hemos cambiado,Sole Giménez (Presuntos Implicados) (Training Vip),Training,España,Valencia,Orihuela,F,44,Cine
+6,5,"Yo tenía un novio (que tocaba en un conjunto beat), de Rubi (Rubi y Los Casinos)",Pepa Aniorte,10,7,8,8,6,,14.0,33 (8),0,Yo tenía un novio (que tocaba en un conjunto beat),Rubi (Rubi y Los Casinos),,España,Valencia,Orihuela,F,44,Cine
+6,6,"Yo no te pido la luna, de Daniela Romo",Pepa Aniorte,10,9,11,10,11,,22.0,40 (11),0,Yo no te pido la luna,Daniela Romo,,España,Valencia,Orihuela,F,44,Cine
+6,7,"Dile que la quiero, de David Civera (Training Vip)",Pepa Aniorte,5,6,5,5,9,,14.0,21 (5),0,Dile que la quiero,David Civera (Training Vip),Training,España,Valencia,Orihuela,F,44,Cine
+6,8,"Look at me, de Geri Halliwell",Pepa Aniorte,5,5,7,8,6,,12.0,25 (6),0,Look at me,Geri Halliwell,,España,Valencia,Orihuela,F,44,Cine
+6,9,"Desde mi libertad, de Ana Belén",Pepa Aniorte,6,4,6,4,7,,11.0,20 (4),0,Desde mi libertad,Ana Belén,,España,Valencia,Orihuela,F,44,Cine
+6,10,"El talismán, de Rosana",Pepa Aniorte,7,8,9,8,8,,15.0,32 (7),0,El talismán,Rosana,,España,Valencia,Orihuela,F,44,Cine
+6,11,"Mediterráneo, de Lolita Flores con Secun de la Rosa como Joan Manuel Serrat (Trae un amigo)",Pepa Aniorte,5,7,8,5,5,,11.0,25 (6),0,Mediterráneo,Lolita Flores con Secun de la Rosa como Joan Manuel Serrat (Trae un amigo),Trae un amigo,España,Valencia,Orihuela,F,44,Cine
+6,12,"Oye, de Elsa Baeza",Pepa Aniorte,8,7,8,7,7,,14.0,30 (7),0,Oye,Elsa Baeza,,España,Valencia,Orihuela,F,44,Cine
+6,13,"Serenade, de Cristina Llanos (Dover)",Pepa Aniorte,12,10,11,11,11,,22.0,44 (11),0,Serenade,Cristina Llanos (Dover),,España,Valencia,Orihuela,F,44,Cine
+6,14,"Ni tú ni yo, de Jennifer Lopez",Pepa Aniorte,6,5,4,4,4,,8.0,19 (4),0,Ni tú ni yo,Jennifer Lopez,,España,Valencia,Orihuela,F,44,Cine
+6,15,"Celos, de Tamara (Original y copia)",Pepa Aniorte,6,9,8,9,9,,17.0,32 (8),0,Celos,Tamara (Original y copia),Original,España,Valencia,Orihuela,F,44,Cine
+6,16,"Vivo cantando, de Salomé",Pepa Aniorte,11,10,11,11,10,,21.0,43 (11),0,Vivo cantando,Salomé,,España,Valencia,Orihuela,F,44,Cine
+6,17,"Lo eres todo, de Luz Casal",Pepa Aniorte,8,9,10,12,11,,21.0,39 (10),0,Lo eres todo,Luz Casal,,España,Valencia,Orihuela,F,44,Cine
+6,18,"Tocaré, de Aurora Beltrán (Tahúres Zurdos)",Pepa Aniorte,12,10,10,7,9,,19.0,39 (10),0,Tocaré,Aurora Beltrán (Tahúres Zurdos),,España,Valencia,Orihuela,F,44,Cine
+6,19,"El beso, de Esperanza Roy",Pepa Aniorte,5,8,8,8,7,,14.0,29 (7),0,El beso,Esperanza Roy,,España,Valencia,Orihuela,F,44,Cine
+6,1,"Angels, de Robbie Williams",Miquel Fernández,7,9,10,10,12,,20.0,36 (8),0,Angels,Robbie Williams,,España,Cataluña,Barcelona,M,37,Cine
+6,2,"Attention, de Charlie Puth",Miquel Fernández,10,9,10,12,8,,18.0,41 (10),0,Attention,Charlie Puth,,España,Cataluña,Barcelona,M,37,Cine
+6,3,"Tell Him, de Céline Dion y Barbra Streisand (Dos en uno)",Miquel Fernández,8,11,11,12,11,,22.0,42 (11),0,Tell Him,Céline Dion y Barbra Streisand (Dos en uno),Dos,España,Cataluña,Barcelona,M,37,Cine
+6,4,"Amar pelos dois, de Salvador Sobral",Miquel Fernández,12,12,12,12,12,,24.0,48 (12),0,Amar pelos dois,Salvador Sobral,,España,Cataluña,Barcelona,M,37,Cine
+6,5,"Celebration, de James ""J.T."" Taylor (Kool & The Gang)",Miquel Fernández,8,10,9,7,8,,17.0,34 (9),0,Celebration,"James ""J.T."" Taylor (Kool & The Gang)",,España,Cataluña,Barcelona,M,37,Cine
+6,6,"Pájaros de barro, de Manolo García",Miquel Fernández,7,5,6,5,8,,13.0,23 (5),0,Pájaros de barro,Manolo García,,España,Cataluña,Barcelona,M,37,Cine
+6,7,"I Still Haven't Found What I'm Looking For, de Bono (U2)",Miquel Fernández,11,11,11,11,12,,23.0,44 (11),0,I Still Haven't Found What I'm Looking For,Bono (U2),,España,Cataluña,Barcelona,M,37,Cine
+6,8,"Stand by my woman, de Lenny Kravitz",Miquel Fernández,10,8,9,10,7,,16.0,37 (9),0,Stand by my woman,Lenny Kravitz,,España,Cataluña,Barcelona,M,37,Cine
+6,9,"Sign of the Times, de Harry Styles",Miquel Fernández,10,12,11,11,12,,23.0,44 (11),0,Sign of the Times,Harry Styles,,España,Cataluña,Barcelona,M,37,Cine
+6,10,"Life on Mars?, de David Bowie",Miquel Fernández,12,12,11,11,12,,24.0,46 (12),0,Life on Mars?,David Bowie,,España,Cataluña,Barcelona,M,37,Cine
+6,11,"More Than Words, de Gary Cherone (Extreme)",Miquel Fernández,6,6,9,9,12,,19.0,30 (7),0,More Than Words,Gary Cherone (Extreme),,España,Cataluña,Barcelona,M,37,Cine
+6,12,"Dream On, de Steven Tyler  (Aerosmith)",Miquel Fernández,9,11,11,8,11,,21.0,39 (10),0,Dream On,Steven Tyler  (Aerosmith),,España,Cataluña,Barcelona,M,37,Cine
+6,13,"When I Fall in Love, de Nat King Cole",Miquel Fernández,11,12,9,4,12,,22.0,36 (10),0,When I Fall in Love,Nat King Cole,,España,Cataluña,Barcelona,M,37,Cine
+6,14,"Dead Ringer for Love, de Meat Loaf con Ruth Lorenzo como Cher (Trae un amigo)",Miquel Fernández,8,11,8,8,7,,16.0,35 (9),0,Dead Ringer for Love,Meat Loaf con Ruth Lorenzo como Cher (Trae un amigo),Trae un amigo,España,Cataluña,Barcelona,M,37,Cine
+6,15,"Love Me, de Elvis Presley",Miquel Fernández,12,11,10,10,12,,23.0,43 (11),0,Love Me,Elvis Presley,,España,Cataluña,Barcelona,M,37,Cine
+6,16,"Nel blu dipinto di blu (Volare), de Domenico Modugno",Miquel Fernández,9,11,9,10,8,,17.0,39 (9),0,Nel blu dipinto di blu (Volare),Domenico Modugno,,España,Cataluña,Barcelona,M,37,Cine
+6,17,"You Make Me Feel (Mighty Real), de Sylvester",Miquel Fernández,10,11,9,9,10,,19.0,39 (9),0,You Make Me Feel (Mighty Real),Sylvester,,España,Cataluña,Barcelona,M,37,Cine
+6,18,"I Believe I Can Fly, de R Kelly",Miquel Fernández,10,11,11,8,12,,23.0,40 (11),0,I Believe I Can Fly,R Kelly,,España,Cataluña,Barcelona,M,37,Cine
+6,1,"Sevilla, de Miguel Bosé",Fran Dieli,11,11,12,6,9,,20.0,40 (11),0,Sevilla,Miguel Bosé,,España,Andalucía,Granada,M,37,Cantante
+6,2,"Kiss, de Prince",Fran Dieli,12,12,12,7,12,,23.0,43 (11),0,Kiss,Prince,,España,Andalucía,Granada,M,37,Cantante
+6,3,"Take me to Church, de Hozier",Fran Dieli,5,8,8,5,10,,15.0,26 (5),0,Take me to Church,Hozier,,España,Andalucía,Granada,M,37,Cantante
+6,4,"Crazy, de Cee Lo Green (Gnarls Barkley)",Fran Dieli,7,6,8,10,7,,16.0,31 (9),0,Crazy,Cee Lo Green (Gnarls Barkley),,España,Andalucía,Granada,M,37,Cantante
+6,5,"Send My Love (To Your New Lover), de Adele",Fran Dieli,6,8,7,9,7,,14.0,30 (7),0,Send My Love (To Your New Lover),Adele,,España,Andalucía,Granada,M,37,Cantante
+6,6,"Por fin, de Pablo Alborán",Fran Dieli,8,10,9,11,12,,22.0,38 (10),0,Por fin,Pablo Alborán,,España,Andalucía,Granada,M,37,Cantante
+6,7,"If I'm Lucky, de Jason Derulo",Fran Dieli,7,9,9,9,5,,15.0,34 (10),0,If I'm Lucky,Jason Derulo,,España,Andalucía,Granada,M,37,Cantante
+6,8,"La jota de la Dolores, de Imperio Argentina",Fran Dieli,12,12,12,11,11,,23.0,47 (12),0,La jota de la Dolores,Imperio Argentina,,España,Andalucía,Granada,M,37,Cantante
+6,9,"Animals, de Adam Levine (Maroon 5)",Fran Dieli,11,10,12,12,11,,23.0,45 (12),0,Animals,Adam Levine (Maroon 5),,España,Andalucía,Granada,M,37,Cantante
+6,10,"Take on Me, de Morten Harket (A-Ha)",Fran Dieli,11,11,10,12,11,,22.0,44 (11),0,Take on Me,Morten Harket (A-Ha),,España,Andalucía,Granada,M,37,Cantante
+6,11,"Vente pa' ca, de Ricky Martin",Fran Dieli,9,8,6,12,8,,17.0,35 (9),0,Vente pa' ca,Ricky Martin,,España,Andalucía,Granada,M,37,Cantante
+6,12,"Sorry y Love Yourself, de Justin Bieber",Fran Dieli,5,6,6,4,5,,10.0,21 (5),0,Sorry y Love Yourself,Justin Bieber,,España,Andalucía,Granada,M,37,Cantante
+6,13,"Earned It, de The Weeknd",Fran Dieli,10,11,12,12,6,,18.0,45 (12),0,Earned It,The Weeknd,,España,Andalucía,Granada,M,37,Cantante
+6,14,"Aunque tú no lo sepas, de Enrique Urquijo (Enrique Urquijo y Los Problemas)",Fran Dieli,12,10,11,11,11,,22.0,44 (11),0,Aunque tú no lo sepas,Enrique Urquijo (Enrique Urquijo y Los Problemas),,España,Andalucía,Granada,M,37,Cantante
+6,15,"Perfect, de Ed Sheeran",Fran Dieli,9,10,11,12,10,,20.0,42 (10),0,Perfect,Ed Sheeran,,España,Andalucía,Granada,M,37,Cantante
+6,16,"Dancing in the Rain, de Ruth Lorenzo",Fran Dieli,8,6,7,6,9,,16.0,27 (7),0,Dancing in the Rain,Ruth Lorenzo,,España,Andalucía,Granada,M,37,Cantante
+6,17,"Cry me a river, de Justin Timberlake",Fran Dieli,11,12,12,11,12,,24.0,46 (12),0,Cry me a river,Justin Timberlake,,España,Andalucía,Granada,M,37,Cantante
+6,18,"Gwendolyne, de Pitingo",Fran Dieli,11,12,12,12,11,,23.0,47 (12),0,Gwendolyne,Pitingo,,España,Andalucía,Granada,M,37,Cantante
+6,19,"Only You (And You Alone), de Tony Williams (The Platters)",Fran Dieli,7,6,11,9,12,,21.0,33 (9),0,Only You (And You Alone),Tony Williams (The Platters),,España,Andalucía,Granada,M,37,Cantante
+6,1,"When Love Takes Over, de Kelly Rowland",Diana Navarro,8,12,9,9,10,,19.0,38 (9),0,When Love Takes Over,Kelly Rowland,,España,Andalucía,Málaga,F,39,Cantante
+6,2,"Parole parole, de Mina con Luis Larrodera como Alberto Lupo (Trae un amigo)",Diana Navarro,11,11,11,11,11,,23.0,44 (12),0,Parole parole,Mina con Luis Larrodera como Alberto Lupo (Trae un amigo),Trae un amigo,España,Andalucía,Málaga,F,39,Cantante
+6,3,"Think, de Aretha Franklin",Diana Navarro,12,12,12,11,12,,24.0,47 (12),0,Think,Aretha Franklin,,España,Andalucía,Málaga,F,39,Cantante
+6,4,"El 7 de septiembre, de Ana Torroja (Mecano)",Diana Navarro,8,8,9,6,8,,16.0,31 (8),0,El 7 de septiembre,Ana Torroja (Mecano),,España,Andalucía,Málaga,F,39,Cantante
+6,5,"Titanium, de Sia",Diana Navarro,7,6,6,6,11,,17.0,25 (6),0,Titanium,Sia,,España,Andalucía,Málaga,F,39,Cantante
+6,6,"In your bed, de Blas Cantó (Original y copia)",Diana Navarro,4,4,4,4,7,,11.0,16 (4),0,In your bed,Blas Cantó (Original y copia),Original,España,Andalucía,Málaga,F,39,Cantante
+6,7,"Casta Diva, de Maria Callas",Diana Navarro,4,8,10,8,11,,18.0,30 (7),0,Casta Diva,Maria Callas,,España,Andalucía,Málaga,F,39,Cantante
+6,8,"Con los años que me quedan, de Gloria Estefan",Diana Navarro,7,7,8,9,10,,18.0,31 (8),0,Con los años que me quedan,Gloria Estefan,,España,Andalucía,Málaga,F,39,Cantante
+6,9,"Sueño imposible, de Paloma San Basilio",Diana Navarro,12,11,10,9,10,,20.0,42 (10),0,Sueño imposible,Paloma San Basilio,,España,Andalucía,Málaga,F,39,Cantante
+6,10,"Halo, de Beyoncé",Diana Navarro,8,10,8,7,4,,12.0,33 (8),0,Halo,Beyoncé,,España,Andalucía,Málaga,F,39,Cantante
+6,11,"Las vespas, de Concha Velasco",Diana Navarro,12,12,12,11,7,,19.0,47 (12),0,Las vespas,Concha Velasco,,España,Andalucía,Málaga,F,39,Cantante
+6,12,"Otro amor vendrá, de Lara Fabian",Diana Navarro,10,9,7,10,12,,21.0,36 (9),0,Otro amor vendrá,Lara Fabian,,España,Andalucía,Málaga,F,39,Cantante
+6,13,"I love to love, de Tina Charles",Diana Navarro,9,6,10,8,9,,18.0,33 (9),0,I love to love,Tina Charles,,España,Andalucía,Málaga,F,39,Cantante
+6,14,"El rosario de mi madre, de María Dolores Pradera",Diana Navarro,9,9,9,9,10,,20.0,36 (10),0,El rosario de mi madre,María Dolores Pradera,,España,Andalucía,Málaga,F,39,Cantante
+6,15,"Encrucijada, de Marifé de Triana",Diana Navarro,11,12,12,11,11,,23.0,46 (12),0,Encrucijada,Marifé de Triana,,España,Andalucía,Málaga,F,39,Cantante
+6,16,"Quédate conmigo, de Pastora Soler",Diana Navarro,10,12,10,9,12,,22.0,41 (10),0,Quédate conmigo,Pastora Soler,,España,Andalucía,Málaga,F,39,Cantante
+6,17,"Inmensidad, de Mónica Naranjo",Diana Navarro,7,6,6,4,6,,12.0,23 (6),0,Inmensidad,Mónica Naranjo,,España,Andalucía,Málaga,F,39,Cantante
+6,18,"The Boy From Ipanema, de Ella Fitzgerald",Diana Navarro,8,9,8,9,10,,19.0,34 (9),0,The Boy From Ipanema,Ella Fitzgerald,,España,Andalucía,Málaga,F,39,Cantante
+6,19,"Anytime You Need a Friend, de Mariah Carey",Diana Navarro,6,7,7,7,9,,15.0,27 (6),0,Anytime You Need a Friend,Mariah Carey,,España,Andalucía,Málaga,F,39,Cantante
+6,1,"Malibu, de Miley Cyrus",Lucía Gil,9,8,11,12,8,,18.0,40 (10),0,Malibu,Miley Cyrus,,España,Madrid,Madrid,F,19,Cantante
+6,2,"Tengo 17 años, de Rocío Dúrcal",Lucía Gil,7,6,5,5,7,,13.0,23 (6),0,Tengo 17 años,Rocío Dúrcal,,España,Madrid,Madrid,F,19,Cantante
+6,3,"Mayores, de Becky G",Lucía Gil,6,5,5,10,9,,15.0,26 (6),0,Mayores,Becky G,,España,Madrid,Madrid,F,19,Cantante
+6,4,"Candyman, de Christina Aguilera",Lucía Gil,11,11,11,11,11,,22.0,44 (11),0,Candyman,Christina Aguilera,,España,Madrid,Madrid,F,19,Cantante
+6,5,"What About Us, de Pink",Lucía Gil,11,11,11,12,10,,21.0,45 (11),0,What About Us,Pink,,España,Madrid,Madrid,F,19,Cantante
+6,6,"Algo contigo, de Rosario Flores",Lucía Gil,5,7,7,8,4,,10.0,27 (6),0,Algo contigo,Rosario Flores,,España,Madrid,Madrid,F,19,Cantante
+6,7,"Las ocho y diez, de Conchita (Original y copia)",Lucía Gil,12,12,12,12,10,,22.0,48 (12),0,Las ocho y diez,Conchita (Original y copia),Original,España,Madrid,Madrid,F,19,Cantante
+6,8,"I Wanna Dance With Somebody (Who Loves Me), de Whitney Houston",Lucía Gil,9,11,11,12,12,,23.0,43 (11),0,I Wanna Dance With Somebody (Who Loves Me),Whitney Houston,,España,Madrid,Madrid,F,19,Cantante
+6,9,"Look What You Made Me Do, de Taylor Swift",Lucía Gil,8,6,7,6,4,,11.0,27 (7),0,Look What You Ma,"Me Do, de Taylor Swift",,España,Madrid,Madrid,F,19,Cantante
+6,10,"Travesuras, de Nicky Jam",Lucía Gil,5,5,6,6,6,,12.0,22 (6),0,Travesuras,Nicky Jam,,España,Madrid,Madrid,F,19,Cantante
+6,11,"Frente a frente, de Jeanette",Lucía Gil,11,11,7,10,11,,22.0,39 (11),0,Frente a frente,Jeanette,,España,Madrid,Madrid,F,19,Cantante
+6,12,"Say It Right, de Nelly Furtado",Lucía Gil,6,4,5,6,4,,10.0,21 (6),0,Say It Right,Nelly Furtado,,España,Madrid,Madrid,F,19,Cantante
+6,13,"Toda, de Malú",Lucía Gil,5,8,8,10,10,,17.0,31 (7),0,Toda,Malú,,España,Madrid,Madrid,F,19,Cantante
+6,14,"Breathless, de Andrea Corr (The Corrs)",Lucía Gil,10,8,7,5,9,,16.0,30 (7),0,Breathless,Andrea Corr (The Corrs),,España,Madrid,Madrid,F,19,Cantante
+6,15,"Gitana, de Shakira",Lucía Gil,10,8,9,7,8,,17.0,34 (9),0,Gitana,Shakira,,España,Madrid,Madrid,F,19,Cantante
+6,16,"Dime, de Beth",Lucía Gil,4,4,4,5,5,,9.0,17 (4),0,Dime,Beth,,España,Madrid,Madrid,F,19,Cantante
+6,17,"Dreams, de Dolores O'Riordan (The Cranberries)",Lucía Gil,6,7,8,8,8,,15.0,29 (7),0,Dreams,Dolores O'Riordan (The Cranberries),,España,Madrid,Madrid,F,19,Cantante
+6,18,"Better in Time, de Leona Lewis",Lucía Gil,6,6,9,11,8,,16.0,32 (8),0,Better in Time,Leona Lewis,,España,Madrid,Madrid,F,19,Cantante
+6,19,"Stop, de Sam Brown",Lucía Gil,10,10,10,10,11,,21.0,40 (10),0,Stop,Sam Brown,,España,Madrid,Madrid,F,19,Cantante
+6,1,"Mi gente, de J Balvin",David Amor,4,5,4,7,7,,12.0,20 (5),0,Mi gente,J Balvin,,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,2,"Desde que estamos juntos, de Melendi",David Amor,4,4,4,4,4,,8.0,16 (4),0,Desde que estamos juntos,Melendi,,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,3,"Baby Don't Forget my Number y Girl You Know It's True, de Fab Morvan con David Fernández como Rob Pilatus (Milli Vanilli)",David Amor,4,4,4,4,4,,8.0,16 (4),0,Baby Don't Forget my Number y Girl You Know It's True,Fab Morvan con David Fernández como Rob Pilatus (Milli Vanilli),,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,4,"I'm Too Sexy, de Richard Fairbrass (Right Said Fred)",David Amor,4,7,6,7,6,,12.0,24 (6),0,I'm Too Sexy,Richard Fairbrass (Right Said Fred),,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,5,"D'Artacán y los tres mosqueperros, de D'Artacán (D'Artacán y los tres mosqueperros)",David Amor,5,5,5,5,5,,10.0,20 (5),0,D'Artacán y los tres mosqueperros,D'Artacán (D'Artacán y los tres mosqueperros),,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,6,"Mambo No. 5, de Lou Bega",David Amor,11,6,5,6,5,,12.0,28 (7),0,Mambo No. 5,Lou Bega,,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,7,"Arriquitaun, de Lain",David Amor,6,4,4,4,4,,8.0,18 (4),0,Arriquitaun,Lain,,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,8,"Mi agüita amarilla, de Pablo Carbonell (Los Toreros Muertos) (Training VIP)",David Amor,4,4,4,4,4,,8.0,16 (4),0,Mi agüita amarilla,Pablo Carbonell (Los Toreros Muertos) (Training VIP),Training,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,9,"Sangre caliente, de Kiko Rivera (Training VIP)",David Amor,4,5,5,7,5,,10.0,21 (5),0,Sangre caliente,Kiko Rivera (Training VIP),Training,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,10,"Sopa de caracol, de Julio Ardón (Banda Blanca)",David Amor,9,7,12,9,10,,20.0,37 (10),0,Sopa de caracol,Julio Ardón (Banda Blanca),,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,11,"Tarzan Boy, de Jimmy McShane (Baltimora)",David Amor,4,4,4,4,4,,8.0,16 (4),0,Tarzan Boy,Jimmy McShane (Baltimora),,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,12,"Que se mueran los feos, de Antonio Miquel Cervero ""Leslie"" (Los Sírex)",David Amor,4,5,4,5,6,,10.0,18 (4),0,Que se mueran los feos,"Antonio Miquel Cervero ""Leslie"" (Los Sírex)",,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,13,"Bailaré sobre tu tumba, de Miguel Costas (Siniestro Total)",David Amor,6,5,6,6,7,,12.0,23 (5),0,Bailaré sobre tu tumba,Miguel Costas (Siniestro Total),,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,14,"Hotline Bling, de Drake",David Amor,4,4,6,6,5,,10.0,20 (5),0,Hotline Bling,Drake,,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,15,"Velaske, yo soi guapa?, de Margarita de Austria y Diego Velázquez (Playground Fire) (Dos en uno)",David Amor,8,7,7,8,7,,14.0,30 (7),0,"Velaske, yo soi guapa?",Margarita de Austria y Diego Velázquez (Playground Fire) (Dos en uno),Dos,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,16,"A-ba-ni-bi, de Izhar Cohen",David Amor,5,7,5,7,4,,9.0,24 (5),0,A-ba-ni-bi,Izhar Cohen,,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,17,"Échame la culpa, de Luis Fonsi con Adriana Abenia como Demi Lovato (Trae un amigo)",David Amor,4,4,5,6,5,,10.0,19 (5),0,Échame la culpa,Luis Fonsi con Adriana Abenia como Demi Lovato (Trae un amigo),Trae un amigo,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,18,"Arriba y abajo, de Coyote Dax",David Amor,4,4,4,4,5,,9.0,16 (4),0,Arriba y abajo,Coyote Dax,,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,19,"Do You Remember Rock 'n' Roll Radio?, de Joey Ramone (Ramones)",David Amor,11,5,5,5,8,,13.0,26 (5),0,Do You Remember Rock 'n' Roll Radio?,Joey Ramone (Ramones),,España,Galicia,Salceda de Caselas,M,37,Humorista
+6,1,"That Don't Impress Me Much, de Shania Twain",Lucía Jiménez,6,6,7,5,6,,12.0,24 (6),0,That Don't Impress Me Much,Shania Twain,,España,Castilla y León,Segovia,F,39,Cine
+6,2,"Cómo hablar, de Eva Amaral (Amaral)",Lucía Jiménez,9,10,8,10,10,,19.0,37 (9),0,Cómo hablar,Eva Amaral (Amaral),,España,Castilla y León,Segovia,F,39,Cine
+6,3,"Chained to the Rhythm, de Katy Perry",Lucía Jiménez,7,10,10,7,5,,13.0,34 (8),0,Chained to the Rhythm,Katy Perry,,España,Castilla y León,Segovia,F,39,Cine
+6,4,"Time After Time, de Cyndi Lauper",Lucía Jiménez,10,10,10,9,10,,20.0,39 (10),0,Time After Time,Cyndi Lauper,,España,Castilla y León,Segovia,F,39,Cine
+6,5,"Terriblemente cruel, de Leiva",Lucía Jiménez,9,9,10,10,9,,19.0,38 (10),0,Terriblemente cruel,Leiva,,España,Castilla y León,Segovia,F,39,Cine
+6,6,"Baby, Can I Hold You, de Tracy Chapman",Lucía Jiménez,9,11,8,9,9,,18.0,37 (9),0,"Baby, Can I Hold You",Tracy Chapman,,España,Castilla y León,Segovia,F,39,Cine
+6,7,"All I Wanna Do, de Sheryl Crow",Lucía Jiménez,8,10,6,6,6,,12.0,30 (6),0,All I Wanna Do,Sheryl Crow,,España,Castilla y León,Segovia,F,39,Cine
+6,8,"Havana, de Camila Cabello",Lucía Jiménez,11,10,10,6,5,,15.0,37 (10),0,Havana,Camila Cabello,,España,Castilla y León,Segovia,F,39,Cine
+6,9,"Andar conmigo, de Julieta Venegas",Lucía Jiménez,7,7,8,8,8,,16.0,30 (8),0,Andar conmigo,Julieta Venegas,,España,Castilla y León,Segovia,F,39,Cine
+6,10,"Natural Woman, de Carole King",Lucía Jiménez,10,9,7,10,9,,18.0,36 (9),0,Natural Woman,Carole King,,España,Castilla y León,Segovia,F,39,Cine
+6,11,"I Don't Want A Lover, de Sharleen Spiteri (Texas)",Lucía Jiménez,8,10,11,6,9,,17.0,35 (8),0,I Don't Want A Lover,Sharleen Spiteri (Texas),,España,Castilla y León,Segovia,F,39,Cine
+6,12,"New York, New York, de Liza Minnelli con Edu Soto como Luciano Pavarotti (Trae un amigo)",Lucía Jiménez,12,12,12,12,10,,22.0,48 (12),0,"New York, New York",Liza Minnelli con Edu Soto como Luciano Pavarotti (Trae un amigo),Trae un amigo,España,Castilla y León,Segovia,F,39,Cine
+6,13,"Fame, de Irene Cara (Fame)",Lucía Jiménez,4,4,4,5,5,,9.0,17 (4),0,Fame,Irene Cara (Fame),,España,Castilla y León,Segovia,F,39,Cine
+6,14,"Stay, de Rihanna",Lucía Jiménez,5,6,5,7,6,,12.0,23 (6),0,Stay,Rihanna,,España,Castilla y León,Segovia,F,39,Cine
+6,15,"Estando contigo, de Pepa Flores",Lucía Jiménez,4,4,4,5,5,,9.0,17 (4),0,Estando contigo,Pepa Flores,,España,Castilla y León,Segovia,F,39,Cine
+6,16,"Waterloo, de Anni-Frid Lyngstad con Olga Hueso como Agnetha Fältskog (ABBA)",Lucía Jiménez,6,8,6,4,6,,12.0,24 (6),0,Waterloo,Anni-Frid Lyngstad con Olga Hueso como Agnetha Fältskog (ABBA),,España,Castilla y León,Segovia,F,39,Cine
+6,17,"Love Me Like You Do, de Ellie Goulding",Lucía Jiménez,9,8,7,7,7,,15.0,31 (8),0,Love Me Like You Do,Ellie Goulding,,España,Castilla y León,Segovia,F,39,Cine
+6,18,"Torn, de Natalie Imbruglia",Lucía Jiménez,9,7,7,6,7,,13.0,29 (6),0,Torn,Natalie Imbruglia,,España,Castilla y León,Segovia,F,39,Cine
+6,19,"Tengo un trato, de Mala Rodríguez",Lucía Jiménez,9,12,12,12,10,,22.0,45 (12),0,Tengo un trato,Mala Rodríguez,,España,Castilla y León,Segovia,F,39,Cine
+6,1,"El brujito de Gulubú, de Rosa León",Raúl Pérez,10,7,6,8,5,,12.0,31 (7),0,El brujito,"Gulubú, de Rosa León",,España,Madrid,Madrid,M,41,Humorista
+6,2,"Our House, de Suggs (Madness)",Raúl Pérez,8,7,7,9,9,,17.0,31 (8),0,Our House,Suggs (Madness),,España,Madrid,Madrid,M,41,Humorista
+6,3,"Maggie, despierta, de Carlos Tarque (M-Clan)",Raúl Pérez,9,9,9,8,6,,16.0,35 (10),0,"Maggie, despierta",Carlos Tarque (M-Clan),,España,Madrid,Madrid,M,41,Humorista
+6,4,"Carita de buena, de Iván Torres (Efecto Pasillo) (Original y copia)",Raúl Pérez,6,5,5,4,5,,9.0,20 (4),0,Carita de buena,Iván Torres (Efecto Pasillo) (Original y copia),Original,España,Madrid,Madrid,M,41,Humorista
+6,5,"Digan lo que digan, de Raphael",Raúl Pérez,12,12,12,11,12,,24.0,47 (12),0,Digan lo que digan,Raphael,,España,Madrid,Madrid,M,41,Humorista
+6,6,"Viva la Vida, de Chris Martin (Coldplay)",Raúl Pérez,6,8,10,7,6,,14.0,31 (8),0,Viva la Vida,Chris Martin (Coldplay),,España,Madrid,Madrid,M,41,Humorista
+6,7,"Casatshock, de Georgie Dann",Raúl Pérez,9,5,7,10,7,,15.0,31 (8),0,Casatshock,Georgie Dann,,España,Madrid,Madrid,M,41,Humorista
+6,8,"You Can't Hurry Love, de Phil Collins",Raúl Pérez,8,9,6,5,8,,15.0,28 (7),0,You Can't Hurry Love,Phil Collins,,España,Madrid,Madrid,M,41,Humorista
+6,9,Dance Me to the End of Love de Leonard Cohen,Raúl Pérez,9,9,9,10,9,,18.0,37 (9),0,Dance Me to the End of Love,Leonard Cohen,,España,Madrid,Madrid,M,41,Humorista
+6,10,"Para no verte más, de Guillermo Novellis (La Mosca Tsé-Tsé)",Raúl Pérez,6,6,4,5,7,,12.0,21 (5),0,Para no verte más,Guillermo Novellis (La Mosca Tsé-Tsé),,España,Madrid,Madrid,M,41,Humorista
+6,11,"Say You Won't Let Go, de James Arthur",Raúl Pérez,10,9,10,8,10,,20.0,37 (10),0,Say You Won't Let Go,James Arthur,,España,Madrid,Madrid,M,41,Humorista
+6,12,"Quiero ser, de Amaia Montero",Raúl Pérez,7,8,9,9,9,,17.0,33 (8),0,Quiero ser,Amaia Montero,,España,Madrid,Madrid,M,41,Humorista
+6,13,"El cielo no entiende, de Jordi Sánchez (OBK)",Raúl Pérez,8,9,7,9,8,,16.0,33 (8),0,El cielo no entiende,Jordi Sánchez (OBK),,España,Madrid,Madrid,M,41,Humorista
+6,14,"Historia de un amor, de Diego el Cigala",Raúl Pérez,7,7,10,10,8,,16.0,34 (8),0,Historia de un amor,Diego el Cigala,,España,Madrid,Madrid,M,41,Humorista
+6,15,"Time is Running Out, de Matt Bellamy (Muse)",Raúl Pérez,7,6,6,6,6,,12.0,25 (6),0,Time is Running Out,Matt Bellamy (Muse),,España,Madrid,Madrid,M,41,Humorista
+6,16,"Bailar pegados, de Sergio Dalma",Raúl Pérez,12,9,12,12,11,,23.0,45 (12),0,Bailar pegados,Sergio Dalma,,España,Madrid,Madrid,M,41,Humorista
+6,17,"Y sin embargo, de Joaquín Sabina",Raúl Pérez,12,10,11,10,9,,20.0,43 (11),0,Y sin embargo,Joaquín Sabina,,España,Madrid,Madrid,M,41,Humorista
+6,18,"Contigo soy feliz, de Nino Bravo",Raúl Pérez,7,8,6,10,4,,11.0,31 (7),0,Contigo soy feliz,Nino Bravo,,España,Madrid,Madrid,M,41,Humorista
+6,19,"Te quiero igual, de Andrés Calamaro",Raúl Pérez,8,9,9,6,6,,14.0,32 (8),0,Te quiero igual,Andrés Calamaro,,España,Madrid,Madrid,M,41,Humorista
+6,1,"Pepa Bandera, de Encarnita Polo",La Terremoto de Alcorcón,5,4,5,4,4,,8.0,18 (4),0,Pepa Bandera,Encarnita Polo,,España,Madrid,Madrid,F,47,Cantante
+6,2,"Xanadu, de Olivia Newton-John (Xanadu)",La Terremoto de Alcorcón,6,5,6,6,6,,11.0,23 (5),0,Xanadu,Olivia Newton-John (Xanadu),,España,Madrid,Madrid,F,47,Cantante
+6,3,"La chica del 17, de Lina Morgan",La Terremoto de Alcorcón,11,7,7,9,7,,16.0,34 (9),0,La chica del 17,Lina Morgan,,España,Madrid,Madrid,F,47,Cantante
+6,4,"1+1=2 enamorados, de Luis Miguel",La Terremoto de Alcorcón,5,4,4,8,4,,9.0,21 (5),0,1+1=2 enamorados,Luis Miguel,,España,Madrid,Madrid,F,47,Cantante
+6,5,"Can't Remember to Forget You, de Shakira con Silvia Abril como Rihanna (Trae un amigo)",La Terremoto de Alcorcón,4,4,4,4,4,,8.0,16 (4),0,Can't Remember to Forget You,Shakira con Silvia Abril como Rihanna (Trae un amigo),Trae un amigo,España,Madrid,Madrid,F,47,Cantante
+6,6,"Papi chulo... te traigo el mmmm, de Lorna",La Terremoto de Alcorcón,12,12,12,12,10,,22.0,48 (12),0,Papi chulo... te traigo el mmmm,Lorna,,España,Madrid,Madrid,F,47,Cantante
+6,7,"El morrongo, de Marujita Díaz",La Terremoto de Alcorcón,10,7,8,7,8,,17.0,32 (9),0,El morrongo,Marujita Díaz,,España,Madrid,Madrid,F,47,Cantante
+6,8,"Yo, dueña de la noche, de Lucía Galán (Pimpinela)",La Terremoto de Alcorcón,6,6,5,7,9,,14.0,24 (5),0,"Yo, dueña de la noche",Lucía Galán (Pimpinela),,España,Madrid,Madrid,F,47,Cantante
+6,9,"Viva la gente, de Rosalía Garrido",La Terremoto de Alcorcón,5,8,4,5,6,,12.0,22 (6),0,Viva la gente,Rosalía Garrido,,España,Madrid,Madrid,F,47,Cantante
+6,10,All the Lovers de Kylie Minogue,La Terremoto de Alcorcón,4,4,5,4,5,,9.0,17 (4),0,All the Lovers,Kylie Minogue,,España,Madrid,Madrid,F,47,Cantante
+6,11,"Ring My Bell, de Anita Ward",La Terremoto de Alcorcón,7,5,5,7,6,,11.0,24 (5),0,Ring My Bell,Anita Ward,,España,Madrid,Madrid,F,47,Cantante
+6,12,"Soy la vedette, de Gracita Morales",La Terremoto de Alcorcón,11,10,10,11,8,,19.0,42 (11),0,Soy la vedette,Gracita Morales,,España,Madrid,Madrid,F,47,Cantante
+6,13,"No sé no sé, de José Sardaña (Rumba Tres)",La Terremoto de Alcorcón,7,7,5,7,4,,10.0,26 (6),0,No sé no sé,José Sardaña (Rumba Tres),,España,Madrid,Madrid,F,47,Cantante
+6,14,"El amor, de Massiel",La Terremoto de Alcorcón,11,12,12,12,12,,24.0,47 (12),0,El amor,Massiel,,España,Madrid,Madrid,F,47,Cantante
+6,15,"New Rules, de Dua Lipa",La Terremoto de Alcorcón,5,5,5,4,4,,9.0,19 (5),0,New Rules,Dua Lipa,,España,Madrid,Madrid,F,47,Cantante
+6,16,"La, la, la, de Massiel",La Terremoto de Alcorcón,7,5,8,8,7,,15.0,28 (8),0,"La, la, la",Massiel,,España,Madrid,Madrid,F,47,Cantante
+6,17,"Bailando, de María Isabel García Asensio (Paradisio)",La Terremoto de Alcorcón,5,5,4,5,4,,8.0,19 (4),0,Bailando,María Isabel García Asensio (Paradisio),,España,Madrid,Madrid,F,47,Cantante
+6,18,"Se nos rompió el amor, de Rocío Jurado",La Terremoto de Alcorcón,5,5,5,5,6,,11.0,20 (5),0,Se nos rompió el amor,Rocío Jurado,,España,Madrid,Madrid,F,47,Cantante
+6,19,"Diamonds are Forever, de Shirley Bassey",La Terremoto de Alcorcón,12,11,6,11,5,,16.0,40 (11),0,Diamonds are Forever,Shirley Bassey,,España,Madrid,Madrid,F,47,Cantante
+7,1,Swish Swish de Katy Perry,Soraya Arnelas,11,11,12,12,12,,24.0,46 (12),0,Swish Swish,Katy Perry,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,2,Jolene de Dolly Parton,Soraya Arnelas,10,9,10,10,9,,19.0,39 (10),0,Jolene,Dolly Parton,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,3,Veneno de Isabel Pantoja,Soraya Arnelas,5,8,10,9,10,,18.0,32 (8),0,Veneno,Isabel Pantoja,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,4,I put a spell on you de Annie Lennox,Soraya Arnelas,12,12,11,12,12,,24.0,47 (12),0,I put a spell on you,Annie Lennox,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,5,Malamente de Rosalía,Soraya Arnelas,10,11,11,11,11,,22.0,43 (11),0,Malamente,Rosalía,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,6,One Kiss de Dua Lipa,Soraya Arnelas,6,6,10,10,9,,16.0,32 (7),0,One Kiss,Dua Lipa,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,7,Still Loving You de Klaus Meine (Scorpions),Soraya Arnelas,4,5,6,7,8,,14.0,22 (6),0,Still Loving You,Klaus Meine (Scorpions),,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,8,Where Have You Been de Rihanna,Soraya Arnelas,12,12,12,12,10,,22.0,48 (12),0,Where Have You Been,Rihanna,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,9,Una estrella en mi jardín de Mari Trini (Te lo robo - Anabel Alonso),Soraya Arnelas,9,8,9,9,9,,18.0,35 (9),0,Una estrella en mi jardín,Mari Trini (Te lo robo - Anabel Alonso),Te lo robo,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,10,Young and Beautiful de Lana del Rey,Soraya Arnelas,12,11,9,10,10,,20.0,42 (10),0,Young and Beautiful,Lana del Rey,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,11,Get Outta My Way de Kylie Minogue,Soraya Arnelas,9,10,9,7,6,,14.0,35 (8),0,Get Outta My Way,Kylie Minogue,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,12,En un mundo nuevo de Karina,Soraya Arnelas,11,12,11,10,9,,20.0,44 (11),0,En un mundo nuevo,Karina,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,13,Sunday Girl de Deborah Harry (Blondie),Soraya Arnelas,11,11,9,8,9,,20.0,39 (11),0,Sunday Girl,Deborah Harry (Blondie),,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,14,Queen of the night de Whitney Houston,Soraya Arnelas,10,9,10,9,11,,20.0,38 (9),0,Queen of the night,Whitney Houston,,España,Extremadura,Valencia de Alcántara,F,35,Cantante
+7,1,Fuego de Eleni Foureira,Mimi Doblas,10,8,11,9,11,,22.0,38 (11),0,Fuego,Eleni Foureira,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,2,Tú y yo de Thalía,Mimi Doblas,12,11,11,12,12,,24.0,46 (12),0,Tú y yo,Thalía,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,3,It's Oh So Quiet de Björk,Mimi Doblas,9,10,11,10,8,,18.0,40 (10),0,It's Oh So Quiet,Björk,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,4,Sin pijama de Natti Natasha con Ana Guerra como Becky G (Trae un amigo),Mimi Doblas,9,7,10,11,11,,20.0,37 (9),0,Sin pijama,Natti Natasha con Ana Guerra como Becky G (Trae un amigo),Trae un amigo,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,5,El anillo de Jennifer Lopez,Mimi Doblas,11,10,10,9,10,,20.0,40 (10),0,El anillo,Jennifer Lopez,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,6,American Idiot de Billie Joe Armstrong (Green Day) (Te lo robo - Carlos Baute),Mimi Doblas,7,4,5,5,6,,11.0,21 (5),0,American Idiot,Billie Joe Armstrong (Green Day) (Te lo robo - Carlos Baute),Te lo robo,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,7,Dirrty de Christina Aguilera,Mimi Doblas,10,9,9,9,9,,18.0,37 (9),0,Dirrty,Christina Aguilera,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,8,I Try de Macy Gray,Mimi Doblas,10,10,11,9,12,,22.0,40 (10),0,I Try,Macy Gray,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,9,Malo de Bebe,Mimi Doblas,11,11,11,12,11,,22.0,45 (11),0,Malo,Bebe,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,10,...Baby One More Time de Britney Spears,Mimi Doblas,5,6,7,5,9,,14.0,23 (5),0,...Baby One More Time,Britney Spears,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,11,Love Is a Losing Game de Amy Winehouse,Mimi Doblas,11,11,12,12,12,,24.0,46 (12),0,Love Is a Losing Game,Amy Winehouse,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,12,Buttons de Nicole Scherzinger (Pussycat Dolls) con las bailarinas de Lola Indigo (Trae un amigo),Mimi Doblas,9,9,9,9,8,,17.0,36 (9),0,Buttons,Nicole Scherzinger (Pussycat Dolls) con las bailarinas de Lola Indigo (Trae un amigo),Trae un amigo,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,13,Down de Junior,Mimi Doblas,10,6,10,11,10,,20.0,37 (10),0,Down,Junior,,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,14,Diamonds are a girl's best friend de Nicole Kidman (Moulin Rouge!),Mimi Doblas,9,7,9,7,9,,17.0,32 (8),0,Diamonds are a girl's best friend,Nicole Kidman (Moulin Rouge!),,España,Andalucía,Huétor Tájar,F,26,Cantante
+7,1,Rock DJ de Robbie Williams,Jordi Coll,8,12,9,8,10,,19.0,37 (9),0,Rock DJ,Robbie Williams,,España,Cataluña,Mataró,M,32,Cine
+7,2,Será que no me amas de Luis Miguel,Jordi Coll,4,4,4,6,7,,11.0,18 (4),0,Será que no me amas,Luis Miguel,,España,Cataluña,Mataró,M,32,Cine
+7,3,Freedom! '90 de George Michael,Jordi Coll,6,6,6,7,6,,12.0,25 (6),0,Freedom! '90,George Michael,,España,Cataluña,Mataró,M,32,Cine
+7,4,Sopa fría de Carlos Tarque (M Clan),Jordi Coll,5,8,6,7,6,,12.0,26 (6),0,Sopa fría,Carlos Tarque (M Clan),,España,Cataluña,Mataró,M,32,Cine
+7,5,Hung Up de Madonna,Jordi Coll,8,8,7,8,8,,16.0,31 (8),0,Hung Up,Madonna,,España,Cataluña,Mataró,M,32,Cine
+7,6,La cintura de Álvaro Soler (Original y copia),Jordi Coll,5,7,7,6,5,,11.0,25 (6),0,,,Original,España,Cataluña,Mataró,M,32,Cine
+7,7,Super Freak de Rick James,Jordi Coll,11,11,12,12,12,,24.0,46 (12),0,Super Freak,Rick James,,España,Cataluña,Mataró,M,32,Cine
+7,8,Only the lonely de Roy Orbison,Jordi Coll,9,11,10,11,11,,22.0,41 (11),0,Only the lonely,Roy Orbison,,España,Cataluña,Mataró,M,32,Cine
+7,9,Personal Jesus de Dave Gahan (Depeche Mode),Jordi Coll,12,10,10,8,10,,20.0,40 (10),0,Personal Jesus,Dave Gahan (Depeche Mode),,España,Cataluña,Mataró,M,32,Cine
+7,10,Demons y Radioactive de Dan Reynolds (Imagine Dragons),Jordi Coll,10,10,11,12,11,,22.0,43 (11),0,Demons y Radioactive,Dan Reynolds (Imagine Dragons),,España,Cataluña,Mataró,M,32,Cine
+7,11,Al calor del amor en un bar de Jaime Urrutia (Gabinete Caligari) (Te lo robo - Brays Efe),Jordi Coll,4,6,5,4,5,,10.0,19 (5),0,Al calor del amor en un bar,Jaime Urrutia (Gabinete Caligari) (Te lo robo - Brays Efe),Te lo robo,España,Cataluña,Mataró,M,32,Cine
+7,12,Gettin' Jiggy Wit It de Will Smith,Jordi Coll,7,8,8,11,12,,20.0,34 (8),0,Gettin' Jiggy Wit It,Will Smith,,España,Cataluña,Mataró,M,32,Cine
+7,13,El sitio de mi recreo de Antonio Vega,Jordi Coll,8,10,8,7,11,,19.0,33 (8),0,El sitio de mi recreo,Antonio Vega,,España,Cataluña,Mataró,M,32,Cine
+7,14,Song 2 de Damon Albarn (Blur),Jordi Coll,12,12,12,12,8,,20.0,48 (12),0,Song 2,Damon Albarn (Blur),,España,Cataluña,Mataró,M,32,Cine
+7,1,Blanco y negro de Malú,María Villalón,12,9,6,10,9,,19.0,37 (10),0,Blanco y negro,Malú,,España,Andalucía,Ronda,F,29,Cantante
+7,2,Skyfall de Adele,María Villalón,7,12,9,4,8,,17.0,32 (9),0,Skyfall,Adele,,España,Andalucía,Ronda,F,29,Cantante
+7,3,Sueños inalcanzables de Ángeles Muñoz (Camela),María Villalón,11,12,12,12,11,,23.0,47 (12),0,,,,España,Andalucía,Ronda,F,29,Cantante
+7,4,Me enamoré de Shakira,María Villalón,4,4,4,6,4,,8.0,18 (4),0,Me enamoré,Shakira,,España,Andalucía,Ronda,F,29,Cantante
+7,5,"Cocinero, cocinero de Antonio Molina",María Villalón,12,12,12,12,12,,24.0,48 (12),0,"Cocinero, cocinero",Antonio Molina,,España,Andalucía,Ronda,F,29,Cantante
+7,6,La flor de la canela de María Dolores Pradera,María Villalón,12,12,11,12,10,,22.0,47 (12),0,La flor de la canela,María Dolores Pradera,,España,Andalucía,Ronda,F,29,Cantante
+7,7,Friends de Anne-Marie,María Villalón,12,10,10,11,10,,21.0,43 (11),0,Friends,Anne-Marie,,España,Andalucía,Ronda,F,29,Cantante
+7,8,Nada que perder de Conchita,María Villalón,8,8,8,7,8,,15.0,31 (7),0,Nada que perder,Conchita,,España,Andalucía,Ronda,F,29,Cantante
+7,9,Symphony  de Zara Larsson,María Villalón,8,9,8,7,8,,16.0,32 (8),0,Symphony,Zara Larsson,,España,Andalucía,Ronda,F,29,Cantante
+7,10,A la pelota de Dolores Vargas,María Villalón,11,12,12,11,12,,24.0,46 (12),0,A la pelota,Dolores Vargas,,España,Andalucía,Ronda,F,29,Cantante
+7,11,Él no soy yo de Blas Cantó (Original y Copia),María Villalón,7,7,8,6,9,,16.0,28 (7),0,Él no soy yo,Blas Cantó (Original y Copia),Original,España,Andalucía,Ronda,F,29,Cantante
+7,12,Je veux de Zaz,María Villalón,10,11,10,6,11,,21.0,37 (10),0,Je veux,Zaz,,España,Andalucía,Ronda,F,29,Cantante
+7,13,Hasta el amanecer de Nicky Jam,María Villalón,6,7,11,10,6,,15.0,34 (9),0,Hasta el amanecer,Nicky Jam,,España,Andalucía,Ronda,F,29,Cantante
+7,14,Celoso de Lele Pons,María Villalón,7,8,7,8,10,,17.0,30 (7),0,Celoso,Lele Pons,,España,Andalucía,Ronda,F,29,Cantante
+7,1,Chambea de Bad Bunny,Brays Efe,9,7,8,11,7,,15.0,35 (8),0,Chambea,Bad Bunny,,España,Canarias,Las Palmas,M,29,Cine
+7,2,Toy de Netta Barzilai,Brays Efe,6,8,8,8,10,,17.0,30 (7),0,Toy,Netta Barzilai,,España,Canarias,Las Palmas,M,29,Cine
+7,3,Wonderwall de Liam Gallagher (Oasis),Brays Efe,7,7,7,8,7,,14.0,29 (7),0,Wonderwall,Liam Gallagher (Oasis),,España,Canarias,Las Palmas,M,29,Cine
+7,4,Un rayo de sol de Agustín Ramírez (Los Diablos),Brays Efe,7,5,9,5,7,,14.0,26 (7),0,Un rayo de sol,Agustín Ramírez (Los Diablos),,España,Canarias,Las Palmas,M,29,Cine
+7,5,Your song de Rita Ora,Brays Efe,6,4,4,4,4,,8.0,18 (4),0,Your song,Rita Ora,,España,Canarias,Las Palmas,M,29,Cine
+7,6,La quiero a morir de Manzanita,Brays Efe,10,10,8,7,7,,16.0,35 (9),0,La quiero a morir,Manzanita,,España,Canarias,Las Palmas,M,29,Cine
+7,7,Besos en guerra de Juan Pablo Isaza (Morat),Brays Efe,5,4,5,5,5,,9.0,19 (4),0,Besos en guerra,Juan Pablo Isaza (Morat),,España,Canarias,Las Palmas,M,29,Cine
+7,8,Mala mujer de C. Tangana,Brays Efe,7,9,9,8,7,,15.0,33 (8),0,Mala mujer,C. Tangana,,España,Canarias,Las Palmas,M,29,Cine
+7,9,Mira ven ven de Chayanne,Brays Efe,6,4,6,4,6,,11.0,20 (5),0,Mira ven ven,Chayanne,,España,Canarias,Las Palmas,M,29,Cine
+7,10,Hey! de Julio Iglesias,Brays Efe,7,8,8,7,6,,13.0,30 (7),0,Hey!,Julio Iglesias,,España,Canarias,Las Palmas,M,29,Cine
+7,11,Nadie me ama de Sara Montiel,Brays Efe,10,8,7,10,8,,17.0,35 (9),0,Nadie me ama,Sara Montiel,,España,Canarias,Las Palmas,M,29,Cine
+7,12,Dame otra oportunidad y Cántame de María del Monte,Brays Efe,6,7,6,7,7,,14.0,26 (7),0,Dame otra oportunidad y Cántame,María del Monte,,España,Canarias,Las Palmas,M,29,Cine
+7,13,Lose Yourself de Eminem,Brays Efe,7,9,7,9,8,,15.0,32 (7),0,Lose Yourself,Eminem,,España,Canarias,Las Palmas,M,29,Cine
+7,14,"Hello, Dolly! y Rock Rockefeller de José Luis Moreno y Rockefeller",Brays Efe,11,10,8,11,4,,15.0,40 (11),0,"Hello, Dolly! y Rock Rockefeller",José Luis Moreno y Rockefeller,,España,Canarias,Las Palmas,M,29,Cine
+7,1,It's now or never de Elvis Presley,Carlos Baute,7,10,10,6,8,,15.0,33 (7),0,It's now or never,Elvis Presley,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,2,Corazón de Maluma,Carlos Baute,9,7,7,9,5,,13.0,32 (8),0,Corazón,Maluma,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,3,I Like It de Cardi B,Carlos Baute,10,11,9,11,12,,23.0,41 (11),0,I Like It,Cardi B,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,4,Sweet child o' mine de Axl Rose (Guns N' Roses),Carlos Baute,8,6,7,8,9,,17.0,29 (8),0,Sweet child o' mine,Axl Rose (Guns N' Roses),,Internacional,Venezuela,Caracas,M,44,Cantante
+7,5,Cachito de Nat King Cole,Carlos Baute,9,9,9,7,9,,18.0,34 (9),0,Cachito,Nat King Cole,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,6,Beat it de Michael Jackson,Carlos Baute,9,9,6,9,11,,19.0,33 (8),0,Beat it,Michael Jackson,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,7,Recuérdame y Un poco loco de Miguel Rivera (Coco),Carlos Baute,9,12,11,8,11,,21.0,40 (10),0,Recuérdame y Un poco loco,Miguel Rivera (Coco),,Internacional,Venezuela,Caracas,M,44,Cantante
+7,8,La cosa más bella de Eros Ramazzotti,Carlos Baute,6,6,7,5,6,,12.0,24 (6),0,La cosa más bella,Eros Ramazzotti,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,9,Treasure de Bruno Mars,Carlos Baute,10,12,12,11,12,,24.0,45 (12),0,Treasure,Bruno Mars,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,10,Pégate de Ricky Martin,Carlos Baute,6,7,10,8,7,,15.0,31 (8),0,Pégate,Ricky Martin,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,11,Ladies choice de Zac Efron (Hairspray),Carlos Baute,8,9,11,9,10,,20.0,37 (10),0,Ladies choice,Zac Efron (Hairspray),,Internacional,Venezuela,Caracas,M,44,Cantante
+7,12,Se me olvidó otra vez de Juan Gabriel (Te lo robo - Manu Sánchez),Carlos Baute,12,10,12,12,10,,22.0,46 (12),0,Se me olvidó otra vez,Juan Gabriel (Te lo robo - Manu Sánchez),Te lo robo,Internacional,Venezuela,Caracas,M,44,Cantante
+7,13,Endless Love de Lionel Richie con Ruth Lorenzo como Diana Ross (Trae un amigo),Carlos Baute,12,12,12,12,12,,24.0,48 (12),0,Endless Love,Lionel Richie con Ruth Lorenzo como Diana Ross (Trae un amigo),Trae un amigo,Internacional,Venezuela,Caracas,M,44,Cantante
+7,14,Puttin' on the Ritz de Fred Astaire,Carlos Baute,8,11,11,10,12,,22.0,40 (10),0,Puttin' on the Ritz,Fred Astaire,,Internacional,Venezuela,Caracas,M,44,Cantante
+7,1,Dame tu cosita de El Chombo,Anabel Alonso,4,5,5,5,6,,11.0,19 (5),0,Dame tu cosita,El Chombo,,España,Euskadi,Baracaldo,F,53,Humorista
+7,2,Y yo sigo aquí de Paulina Rubio,Anabel Alonso,5,6,6,7,6,,12.0,24 (6),0,Y yo sigo aquí,Paulina Rubio,,España,Euskadi,Baracaldo,F,53,Humorista
+7,3,Mi novio es un zombi de Alaska (Alaska y Dinarama) (Te lo robo - Soraya Arnelas),Anabel Alonso,4,5,4,4,5,,9.0,17 (4),0,Mi novio es un zombi,Alaska (Alaska y Dinarama) (Te lo robo - Soraya Arnelas),Te lo robo,España,Euskadi,Baracaldo,F,53,Humorista
+7,4,Nothing's gonna stop me now de Samantha Fox,Anabel Alonso,6,9,5,4,10,,15.0,24 (5),0,Nothing's gonna stop me now,Samantha Fox,,España,Euskadi,Baracaldo,F,53,Humorista
+7,5,Ese hombre de Rocío Jurado,Anabel Alonso,4,7,8,10,7,,14.0,29 (7),0,Ese hombre,Rocío Jurado,,España,Euskadi,Baracaldo,F,53,Humorista
+7,6,Cinco tres cinco tres cuatro cinco seis de Raffaella Carrà,Anabel Alonso,8,11,12,11,12,,23.0,42 (11),0,Cinco tres cinco tres cuatro cinco seis,Raffaella Carrà,,España,Euskadi,Baracaldo,F,53,Humorista
+7,7,Mambo tequila de Encarna Salazar con Bibiana Fernández como Toñi Salazar (Azúcar Moreno) (Trae un amigo),Anabel Alonso,8,7,8,4,7,,14.0,27 (7),0,Mambo tequila,Encarna Salazar con Bibiana Fernández como Toñi Salazar (Azúcar Moreno) (Trae un amigo),Trae un amigo,España,Euskadi,Baracaldo,F,53,Humorista
+7,8,Eres diferente de Estela Raval (Los Cinco Latinos),Anabel Alonso,11,7,6,10,9,,18.0,34 (9),0,Eres diferente,Estela Raval (Los Cinco Latinos),,España,Euskadi,Baracaldo,F,53,Humorista
+7,9,En tu cruz me clavaste de Chenoa,Anabel Alonso,5,5,5,6,7,,13.0,21 (6),0,En tu cruz me clavaste,Chenoa,,España,Euskadi,Baracaldo,F,53,Humorista
+7,10,Pobre secretaria de Daniela Romo,Anabel Alonso,4,4,4,4,4,,8.0,16 (4),0,Pobre secretaria,Daniela Romo,,España,Euskadi,Baracaldo,F,53,Humorista
+7,11,Él de  Lucía,Anabel Alonso,6,5,6,8,7,,13.0,25 (6),0,Él,Lucía,,España,Euskadi,Baracaldo,F,53,Humorista
+7,12,Yé Ké Yé Ké de Mory Kanté,Anabel Alonso,8,6,5,5,6,,11.0,24 (5),0,Yé Ké Yé Ké,Mory Kanté,,España,Euskadi,Baracaldo,F,53,Humorista
+7,13,Lady Veneno de Massiel,Anabel Alonso,9,8,6,6,7,,13.0,29 (6),0,Lady Veneno,Massiel,,España,Euskadi,Baracaldo,F,53,Humorista
+7,14,Cabecita loca de Conchita Bautista,Anabel Alonso,4,4,5,4,6,,10.0,17 (4),0,Cabecita loca,Conchita Bautista,,España,Euskadi,Baracaldo,F,53,Humorista
+7,1,Pavo real de El Puma,José Corbacho,6,6,7,7,4,,10.0,26 (6),0,Pavo real,El Puma,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,2,God Save the Queen de Johnny Rotten (Sex Pistols),José Corbacho,8,5,5,5,4,,9.0,23 (5),0,God Save the Queen,Johnny Rotten (Sex Pistols),,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,3,Cómeme el donut de Jirafa Rey (Glitch Gyals) con Silvia Abril como Lapili (Trae un amigo),José Corbacho,12,9,8,6,9,,18.0,35 (9),0,Cómeme el donut,Jirafa Rey (Glitch Gyals) con Silvia Abril como Lapili (Trae un amigo),Trae un amigo,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,4,Aquarius de Raphael,José Corbacho,11,10,12,10,5,,16.0,43 (11),0,Aquarius,Raphael,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,5,Rock & roll en la plaza del pueblo de Alejo Stivel (Tequila) (Original y copia),José Corbacho,7,5,5,5,5,,10.0,22 (5),0,Rock & roll en la plaza del pueblo,Alejo Stivel (Tequila) (Original y copia),Original,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,6,La revolución sexual de Guille Milkyway (La Casa Azul),José Corbacho,4,5,4,4,4,,8.0,17 (4),0,La revolución sexual,Guille Milkyway (La Casa Azul),,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,7,De pata negra de Melody,José Corbacho,6,6,4,6,6,,11.0,22 (5),0,De pata negra,Melody,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,8,Súbeme la radio de Enrique Iglesias,José Corbacho,4,4,4,4,5,,9.0,16 (4),0,Súbeme la radio,Enrique Iglesias,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,9,Champú de huevo de Tino Casal,José Corbacho,7,7,7,10,5,,12.0,31 (7),0,Champú de huevo,Tino Casal,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,10,Mazinger Z de Mazinger Z (Mazinger Z),José Corbacho,8,5,5,6,5,,11.0,24 (6),0,Mazinger Z,Mazinger Z (Mazinger Z),,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,11,Fever y Disco Inferno de Tina Turner,José Corbacho,12,12,10,11,11,,22.0,45 (11),0,Fever y Disco Inferno,Tina Turner,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,12,Mi Salamanca de Rafael Farina,José Corbacho,5,5,7,8,5,,11.0,25 (6),0,Mi Salamanca,Rafael Farina,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,13,This is love de Will.i.am con Lucía Gil como Eva Simons (Trae un amigo),José Corbacho,5,5,5,5,4,,9.0,20 (5),0,This is love,Will.i.am con Lucía Gil como Eva Simons (Trae un amigo),Trae un amigo,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,14,Así me gusta a mí de Azuquita,José Corbacho,5,5,4,5,5,,10.0,19 (5),0,Así me gusta a mí,Azuquita,,España,Canarias,Hospitalet de Llobregat,M,52,Humorista
+7,1,Have You Ever Seen the Rain? de Rod Stewart,Manu Sánchez,5,4,4,4,5,,9.0,17 (4),0,Have You Ever Seen the Rain?,Rod Stewart,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,2,Lo mal que estoy (y lo poco que me quejo) de El Kanka,Manu Sánchez,11,10,12,11,11,,22.0,44 (11),0,Lo mal que estoy (y lo poco que me quejo),El Kanka,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,3,Vida loca de Pancho Céspedes,Manu Sánchez,8,4,5,5,4,,9.0,22 (5),0,Vida loca,Pancho Céspedes,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,4,El Inspector Gadget de Inspector Gadget (El Inspector Gadget),Manu Sánchez,10,11,8,9,8,,18.0,38 (10),0,El Inspector Gadget,Inspector Gadget (El Inspector Gadget),,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,5,U Can't Touch This de MC Hammer,Manu Sánchez,5,6,6,6,6,,12.0,23 (6),0,U Can't Touch This,MC Hammer,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,6,Sin miedo a nada de Álex Ubago con Melody como Amaia Montero (Trae un amigo),Manu Sánchez,11,8,9,8,8,,18.0,36 (10),0,,,Trae un amigo,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,7,Ellos las prefieren gordas de Javier Gurruchaga (Orquesta Mondragón) (Te lo robo - José Corbacho),Manu Sánchez,7,8,7,10,4,,12.0,32 (8),0,Ellos las prefieren gordas,Javier Gurruchaga (Orquesta Mondragón) (Te lo robo - José Corbacho),Te lo robo,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,8,Ay qué gustito pa mis orejas de Raimundo Amador,Manu Sánchez,5,5,5,6,4,,9.0,21 (5),0,Ay qué gustito pa mis orejas,Raimundo Amador,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,9,Esta vez de Cepeda (Original y copia),Manu Sánchez,4,6,4,5,4,,8.0,19 (4),0,Esta vez,Cepeda (Original y copia),Original,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,10,Me dediqué a perderte de Alejandro Fernández,Manu Sánchez,9,9,6,9,8,,17.0,33 (9),0,Me dediqué a perderte,Alejandro Fernández,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,11,She's a Lady de  Tom Jones,Manu Sánchez,5,4,4,5,4,,8.0,18 (4),0,She's a Lady,Tom Jones,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,12,Angelito de Carlos Baute,Manu Sánchez,4,4,4,4,4,,8.0,16 (4),0,Angelito,Carlos Baute,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,13,Yo debí enamorarme de tu madre de Bertín Osborne,Manu Sánchez,4,4,4,4,5,,9.0,16 (4),0,Yo debí enamorarme de tu madre,Bertín Osborne,,España,Andalucía,Dos Hermanas,M,32,Humorista
+7,14,La Llorona de Chavela Vargas,Manu Sánchez,6,6,6,6,7,,13.0,24 (6),0,La Llorona,Chavela Vargas,,España,Andalucía,Dos Hermanas,M,32,Humorista
+8,1,Soldi de Mahmood,Jorge González,11,12,12,11,12,,24.0,46 (12),0,Soldi,Mahmood,,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,2,En el último minuto de Miguel Poveda,Jorge González,6,11,10,4,11,,19.0,31 (8),0,En el último minuto,Miguel Poveda,,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,3,Mariana mambo de Chayanne,Jorge González,9,11,10,11,10,,21.0,41 (11),0,Mariana mambo,Chayanne,,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,4,"Relax, Take It Easy de Mika",Jorge González,9,9,8,9,6,,14.0,35 (8),0,"Relax, Take It Easy",Mika,,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,5,No me des guerra de Bambino,Jorge González,10,11,11,10,11,,21.0,42 (10),0,No me des guerra,Bambino,,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,6,Superstition de Stevie Wonder,Jorge González,8,6,6,6,8,,15.0,26 (7),0,Superstition,Stevie Wonder,,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,7,(I've Had) The Time of My Life de Bill Medley con Gisela como Jennifer Warnes (Dirty Dancing) (Trae un amigo),Jorge González,11,11,11,7,11,,22.0,40 (11),0,(I've Had) The Time of My Life,Bill Medley con Gisela como Jennifer Warnes (Dirty Dancing) (Trae un amigo),Trae un amigo,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,8,"Se dice de mí de Yolanda Rayo (Yo soy Betty, la fea)",Jorge González,11,0,12,11,12,,23.0,34 (11),12,Se dice de mí,"Yolanda Rayo (Yo soy Betty, la fea)",,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,9,Lo saben mis zapatos de Pablo López,Jorge González,7,12,11,8,10,,21.0,38 (11),0,Lo saben mis zapatos,Pablo López,,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,10,Girls Like You de Adam Levine (Maroon 5),Jorge González,10,11,12,12,7,,19.0,45 (12),0,Girls Like You,Adam Levine (Maroon 5),,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,11,Alegría de vivir de Enrique Heredia (La Barbería del Sur),Jorge González,10,11,11,10,11,,21.0,42 (10),0,Alegría de vivir,Enrique Heredia (La Barbería del Sur),,España,Madrid,Villarejo de Salvanés,M,31,Cantante
+8,1,Desátame de Mónica Naranjo,Cristina Ramos,12,11,11,8,10,,21.0,42 (11),0,Desátame,Mónica Naranjo,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,2,Let's get Loud de Jennifer Lopez,Cristina Ramos,5,4,6,5,7,,11.0,20 (4),0,Let's get Loud,Jennifer Lopez,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,3,Hot Stuff de Donna Summer,Cristina Ramos,11,12,12,12,11,,23.0,47 (12),0,Hot Stuff,Donna Summer,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,4,No de Shakira (Te lo robo - Rocío Madrid),Cristina Ramos,11,11,11,10,9,,20.0,43 (11),0,No,Shakira (Te lo robo - Rocío Madrid),Te lo robo,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,5,Dressed for Success de Marie Fredriksson (Roxette),Cristina Ramos,6,4,7,4,5,,9.0,21 (4),0,Dressed for Success,Marie Fredriksson (Roxette),,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,6,Stone Cold de Demi Lovato,Cristina Ramos,11,10,12,9,11,,22.0,42 (11),0,Stone Cold,Demi Lovato,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,7,"No, por favor de José Vélez",Cristina Ramos,7,5,5,8,6,,11.0,25 (5),0,"No, por favor",José Vélez,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,8,Se nos rompió el amor de Rocío Jurado (Homenaje a Lola Flores),Cristina Ramos,12,0,11,12,11,,23.0,35 (12),11,Se nos rompió el amor,Rocío Jurado (Homenaje a Lola Flores),,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,9,Mamma Knows Best de Jessie J,Cristina Ramos,6,10,10,10,8,,16.0,36 (8),0,Mamma Knows Best,Jessie J,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,10,Marte de Melani García,Cristina Ramos,8,7,6,6,10,,16.0,27 (6),0,Marte,Melani García,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,11,Only Love Can Hurt Like This de Paloma Faith,Cristina Ramos,11,10,8,8,8,,17.0,37 (9),0,Only Love Can Hurt Like This,Paloma Faith,,España,Canarias,Las Palmas de Gran Canaria,F,42,Cantante
+8,1,Bad Guy de Billie Eilish,María Isabel,10,8,9,9,11,,20.0,36 (9),0,Bad Guy,Billie Eilish,,España,Andalucía,Ayamonte,F,25,Cantante
+8,2,Eres mia de Romeo Santos,María Isabel,9,9,8,9,8,,17.0,35 (9),0,Eres mia,Romeo Santos,,España,Andalucía,Ayamonte,F,25,Cantante
+8,3,Así fue de Isabel Pantoja,María Isabel,6,4,6,5,8,,13.0,21 (5),0,Así fue,Isabel Pantoja,,España,Andalucía,Ayamonte,F,25,Cantante
+8,4,Inmortal de Leire Martínez (La Oreja de Van Gogh),María Isabel,12,10,12,12,12,,24.0,46 (12),0,Inmortal,Leire Martínez (La Oreja de Van Gogh),,España,Andalucía,Ayamonte,F,25,Cantante
+8,5,Punto G y Mi cama de Karol G,María Isabel,7,6,4,5,4,,9.0,22 (5),0,Punto G y Mi cama,Karol G,,España,Andalucía,Ayamonte,F,25,Cantante
+8,6,Mujer bruja de Mimi Doblas (Lola Índigo) (Training VIP),María Isabel,7,7,7,4,9,,15.0,25 (6),0,Mujer bruja,Mimi Doblas (Lola Índigo) (Training VIP),Training,España,Andalucía,Ayamonte,F,25,Cantante
+8,7,Dámelo ya de Pastora Soler (Te lo robo - Cristina Ramos),María Isabel,9,10,9,6,8,,17.0,34 (9),0,Dámelo ya,Pastora Soler (Te lo robo - Cristina Ramos),Te lo robo,España,Andalucía,Ayamonte,F,25,Cantante
+8,8,Fiera inquieta de  Rosario Montes (Pasión de gavilanes),María Isabel,5,0,10,7,8,,16.0,22 (8),8,Fiera inquieta,Rosario Montes (Pasión de gavilanes),,España,Andalucía,Ayamonte,F,25,Cantante
+8,9,No me acuerdo de Natti Natasha con Ana Mena como Thalía (Trae un amigo),María Isabel,11,8,6,5,6,,12.0,30 (6),0,No me acuerdo,Natti Natasha con Ana Mena como Thalía (Trae un amigo),Trae un amigo,España,Andalucía,Ayamonte,F,25,Cantante
+8,10,Don't Call Me Up de Mabel,María Isabel,7,8,8,9,5,,14.0,32 (9),0,Don't Call Me Up,Mabel,,España,Andalucía,Ayamonte,F,25,Cantante
+8,11,Abre tu mente de Merche,María Isabel,4,4,4,4,7,,11.0,16 (4),0,Abre tu mente,Merche,,España,Andalucía,Ayamonte,F,25,Cantante
+8,1,I only want to be with you de Dusty Springfield,Nerea Rodríguez,8,9,10,10,9,,19.0,37 (10),0,I only want to be with you,Dusty Springfield,,España,Cataluña,Gavá,F,21,Cantante
+8,2,God Is a Woman de Ariana Grande,Nerea Rodríguez,11,8,11,12,9,,20.0,42 (11),0,God Is a Woman,Ariana Grande,,España,Cataluña,Gavá,F,21,Cantante
+8,3,Todas las flores de Soledad Giménez (Presuntos Implicados),Nerea Rodríguez,7,9,8,10,7,,16.0,34 (9),0,Todas las flores,Soledad Giménez (Presuntos Implicados),,España,Cataluña,Gavá,F,21,Cantante
+8,4,Lush Life de Zara Larsson,Nerea Rodríguez,10,8,9,11,8,,18.0,38 (10),0,Lush Life,Zara Larsson,,España,Cataluña,Gavá,F,21,Cantante
+8,5,Señorita de Camila Cabello con Raoul Vázquez como Shawn Mendes (Trae un amigo),Nerea Rodríguez,8,5,8,6,10,,17.0,27 (7),0,Señorita,Camila Cabello con Raoul Vázquez como Shawn Mendes (Trae un amigo),Trae un amigo,España,Cataluña,Gavá,F,21,Cantante
+8,6,La de la mochila azul de Pedrito Fernández,Nerea Rodríguez,12,12,11,12,12,,24.0,47 (12),0,La de la mochila azul,Pedrito Fernández,,España,Cataluña,Gavá,F,21,Cantante
+8,7,Dear Future Husband de Meghan Trainor,Nerea Rodríguez,5,6,8,9,5,,12.0,28 (7),0,Dear Future Husband,Meghan Trainor,,España,Cataluña,Gavá,F,21,Cantante
+8,8,Step Back In Time de Kylie Minogue (El programa de Hermida),Nerea Rodríguez,10,0,9,6,10,,20.0,25 (10),10,Step Back In Time,Kylie Minogue (El programa de Hermida),,España,Cataluña,Gavá,F,21,Cantante
+8,9,Fallin' de Alicia Keys,Nerea Rodríguez,5,5,7,6,9,,14.0,23 (5),0,Fallin',Alicia Keys,,España,Cataluña,Gavá,F,21,Cantante
+8,10,Vas a volverme loca de Natalia (Training VIP),Nerea Rodríguez,12,9,10,8,9,,19.0,39 (10),0,Vas a volverme loca,Natalia (Training VIP),Training,España,Cataluña,Gavá,F,21,Cantante
+8,11,Into the Unknown de Elsa (Frozen II),Nerea Rodríguez,9,12,12,9,12,,23.0,42 (11),0,Into the Unknown,Elsa (Frozen II),,España,Cataluña,Gavá,F,21,Cantante
+8,1,Que te quería de Natalia Jiménez (La Quinta Estación),Rocío Madrid,6,7,7,6,8,,14.0,26 (6),0,Que te quería,Natalia Jiménez (La Quinta Estación),,España,Andalucía,Málaga,F,41,TV
+8,2,Trébole de Rocío Dúrcal,Rocío Madrid,7,5,4,7,5,,10.0,23 (5),0,Trébole,Rocío Dúrcal,,España,Andalucía,Málaga,F,41,TV
+8,3,Nada sale mal de Aitana Ocaña,Rocío Madrid,12,7,9,8,9,,19.0,36 (10),0,Nada sale mal,Aitana Ocaña,,España,Andalucía,Málaga,F,41,TV
+8,4,La mandanga de El Fary,Rocío Madrid,7,7,7,7,11,,18.0,28 (7),0,La mandanga,El Fary,,España,Andalucía,Málaga,F,41,TV
+8,5,Don't Start Now de Dua Lipa,Rocío Madrid,9,8,9,8,6,,15.0,34 (9),0,Don't Start Now,Dua Lipa,,España,Andalucía,Málaga,F,41,TV
+8,6,"Lady, Lady de Amaya Saizar (Bravo)",Rocío Madrid,10,11,9,11,10,,20.0,41 (10),0,"Lady, Lady",Amaya Saizar (Bravo),,España,Andalucía,Málaga,F,41,TV
+8,7,Lovefool de Nina Persson (The Cardigans),Rocío Madrid,10,7,10,11,7,,17.0,38 (10),0,Lovefool,Nina Persson (The Cardigans),,España,Andalucía,Málaga,F,41,TV
+8,8,No te fallaré de Greta y los Garbo (Compañeros),Rocío Madrid,9,0,7,5,5,,12.0,21 (7),5,No te fallaré,Greta y los Garbo (Compañeros),,España,Andalucía,Málaga,F,41,TV
+8,9,Shallow de Lady Gaga con Alex O'Dogherty como Bradley Cooper (Ha nacido una estrella) (Trae un amigo),Rocío Madrid,8,7,12,12,11,,23.0,39 (12),0,Shallow,Lady Gaga con Alex O'Dogherty como Bradley Cooper (Ha nacido una estrella) (Trae un amigo),Trae un amigo,España,Andalucía,Málaga,F,41,TV
+8,10,Arráncame de Vanesa Martín (Original y copia),Rocío Madrid,9,10,7,5,8,,15.0,31 (7),0,Arráncame,Vanesa Martín (Original y copia),Original,España,Andalucía,Málaga,F,41,TV
+8,11,El morrongo de Carmen Sevilla (Te lo robo - Nerea Rodríguez),Rocío Madrid,8,6,7,6,5,,12.0,27 (7),0,El morrongo,Carmen Sevilla (Te lo robo - Nerea Rodríguez),Te lo robo,España,Andalucía,Málaga,F,41,TV
+8,1,Contando lunares de Don Patricio y Cruz Cafuné,Gemeliers,9,10,8,5,6,,14.0,32 (8),0,Contando lunares,Don Patricio y Cruz Cafuné,,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,2,Dos hombres y un destino de David Bustamante y Àlex Casademunt,Gemeliers,12,12,12,11,12,,24.0,47 (12),0,Dos hombres y un destino,David Bustamante y Àlex Casademunt,,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,3,Mayores de Bad Bunny y Becky G,Gemeliers,5,10,11,6,6,,13.0,32 (7),0,Mayores,Bad Bunny y Becky G,,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,4,I Don't Care de Ed Sheeran y Justin Bieber,Gemeliers,8,12,10,6,10,,19.0,36 (9),0,I Don't Care,Ed Sheeran y Justin Bieber,,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,5,Solamente tú y Prometo de Pablo Alborán,Gemeliers,11,10,12,12,12,,24.0,45 (12),0,Solamente tú y Prometo,Pablo Alborán,,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,6,Sucker de Nick y Joe Jonas con Juan Carlos Oviedo como Kevin Jonas (Jonas Brothers) (Trae un amigo),Gemeliers,9,8,8,8,6,,14.0,33 (8),0,Sucker,Nick y Joe Jonas con Juan Carlos Oviedo como Kevin Jonas (Jonas Brothers) (Trae un amigo),Trae un amigo,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,7,Yo te esperaré de Cali y El Dandee,Gemeliers,4,9,7,5,10,,16.0,25 (6),0,Yo te esperaré,Cali y El Dandee,,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,8,Morenita de Miguel Ángel Muñoz y Pablo Puyol (Upa Dance) (Un paso adelante),Gemeliers,8,0,5,8,7,,12.0,21 (5),7,Morenita,Miguel Ángel Muñoz y Pablo Puyol (Upa Dance) (Un paso adelante),,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,9,"Torero de Julio Iglesias y José Luis Rodríguez ""El Puma""",Gemeliers,10,11,9,7,7,,17.0,37 (10),0,Torero,"Julio Iglesias y José Luis Rodríguez ""El Puma""",,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,10,Tanto la quería de Andy y Lucas (Original y copia),Gemeliers,11,12,11,10,12,,23.0,44 (11),0,Tanto la quería,Andy y Lucas (Original y copia),Original,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,11,Old Town Road de Billy Ray Cyrus y Lil Nas X,Gemeliers,7,9,9,11,9,,17.0,36 (8),0,Old Town Road,Billy Ray Cyrus y Lil Nas X,,España,Andalucía,Mairena del Aljarafe,M,21,Cantante
+8,1,Con calma de Daddy Yankee,El Monaguillo,7,6,6,4,7,,12.0,23 (5),0,Con calma,Daddy Yankee,,España,Andalucía,Marbella,M,46,Humorista
+8,2,Echo de menos de Kiko Veneno,El Monaguillo,8,7,7,6,4,,11.0,28 (7),0,Echo de menos,Kiko Veneno,,España,Andalucía,Marbella,M,46,Humorista
+8,3,"Don't Worry, Be Happy de Bobby McFerrin",El Monaguillo,4,5,4,4,4,,8.0,17 (4),0,"Don't Worry, Be Happy",Bobby McFerrin,,España,Andalucía,Marbella,M,46,Humorista
+8,4,Vamos muy bien de Fortu Sánchez (Obús),El Monaguillo,4,4,5,4,5,,9.0,17 (4),0,Vamos muy bien,Fortu Sánchez (Obús),,España,Andalucía,Marbella,M,46,Humorista
+8,5,Galilea de Sergio Dalma (Training VIP),El Monaguillo,12,9,10,11,8,,19.0,42 (11),0,Galilea,Sergio Dalma (Training VIP),Training,España,Andalucía,Marbella,M,46,Humorista
+8,6,Makafushigi Adventure! de Son Goku (Dragon Ball),El Monaguillo,4,4,4,5,4,,8.0,17 (4),0,Makafushigi Adventure!,Son Goku (Dragon Ball),,España,Andalucía,Marbella,M,46,Humorista
+8,7,Macho Man de Victor Willis (Village People),El Monaguillo,6,4,4,4,9,,13.0,18 (4),0,Macho Man,Victor Willis (Village People),,España,Andalucía,Marbella,M,46,Humorista
+8,8,El perdón de Nicky Jam (El hormiguero 3.0),El Monaguillo,4,0,4,4,4,,8.0,12 (4),4,El perdón,Nicky Jam (El hormiguero 3.0),,España,Andalucía,Marbella,M,46,Humorista
+8,9,Me llamas de José Luis Perales (Te lo robo - Mario Vaquerizo),El Monaguillo,12,6,5,9,5,,12.0,32 (7),0,Me llamas,José Luis Perales (Te lo robo - Mario Vaquerizo),Te lo robo,España,Andalucía,Marbella,M,46,Humorista
+8,10,Charlie Brown de Lou Deprijck (Two Man Sound),El Monaguillo,4,5,5,7,4,,9.0,21 (5),0,Charlie Brown,Lou Deprijck (Two Man Sound),,España,Andalucía,Marbella,M,46,Humorista
+8,11,Rey del glam de Alaska (Alaska y Dinarama),El Monaguillo,6,7,6,5,6,,12.0,24 (6),0,Rey del glam,Alaska (Alaska y Dinarama),,España,Andalucía,Marbella,M,46,Humorista
+8,1,"Mamá, dame cien pesetas de Raffaella Carrà",Mario Vaquerizo,5,5,5,12,5,,12.0,27 (7),0,"Mamá, dame cien pesetas",Raffaella Carrà,,España,Madrid,Madrid,M,45,Cantante
+8,2,I Was Made for Loving' You de Paul Stanley (Kiss),Mario Vaquerizo,4,6,5,10,10,,16.0,25 (6),0,I Was Made for Loving' You,Paul Stanley (Kiss),,España,Madrid,Madrid,M,45,Cantante
+8,3,Summer nights de John Travolta con Eva Soriano como Olivia Newton-John (Grease) (Te lo robo - Gemeliers),Mario Vaquerizo,10,8,5,9,12,,20.0,32 (8),0,Summer nights,John Travolta con Eva Soriano como Olivia Newton-John (Grease) (Te lo robo - Gemeliers),Te lo robo,España,Madrid,Madrid,M,45,Cantante
+8,4,Fotonovela de Iván,Mario Vaquerizo,6,6,6,8,7,,13.0,26 (6),0,Fotonovela,Iván,,España,Madrid,Madrid,M,45,Cantante
+8,5,La bomba gitana de Lola Flores,Mario Vaquerizo,4,12,5,9,9,,17.0,30 (8),0,La bomba gitana,Lola Flores,,España,Madrid,Madrid,M,45,Cantante
+8,6,Bye bye de David Civera,Mario Vaquerizo,6,5,5,7,7,,12.0,23 (5),0,Bye bye,David Civera,,España,Madrid,Madrid,M,45,Cantante
+8,7,"Tócala, Uli de Jaime Urrutia (Gabinete Caligari)",Mario Vaquerizo,8,8,6,10,4,,12.0,32 (8),0,"Tócala, Uli",Jaime Urrutia (Gabinete Caligari),,España,Madrid,Madrid,M,45,Cantante
+8,8,Amigos para siempre de Joan Herrero (Los Manolos) con Marta Vaquerizo y Juan Pedro del Moral (De tú a tú),Mario Vaquerizo,6,0,6,9,6,,12.0,21 (6),6,Amigos para siempre,Joan Herrero (Los Manolos) con Marta Vaquerizo y Juan Pedro del Moral (De tú a tú),,España,Madrid,Madrid,M,45,Cantante
+8,9,Boys will be Boys de Paulina Rubio,Mario Vaquerizo,4,4,4,4,4,,8.0,16 (4),0,Boys will be Boys,Paulina Rubio,,España,Madrid,Madrid,M,45,Cantante
+8,10,Flaca de Andrés Calamaro,Mario Vaquerizo,5,6,9,11,11,,19.0,31 (8),0,Flaca,Andrés Calamaro,,España,Madrid,Madrid,M,45,Cantante
+8,11,Call Me de Sabrina con Alaska como Samantha Fox (Trae un amigo),Mario Vaquerizo,12,8,10,12,4,,16.0,42 (12),0,Call Me,Sabrina con Alaska como Samantha Fox (Trae un amigo),Trae un amigo,España,Madrid,Madrid,M,45,Cantante
+8,1,True Blue de Madonna,Belinda Washington,4,4,4,7,4,,8.0,19 (4),0,True Blue,Madonna,,España,Madrid,Altrincham,F,56,TV
+8,2,Ahora estoy mejor de Isa P,Belinda Washington,10,10,9,8,6,,16.0,37 (10),0,Ahora estoy mejor,Isa P,,España,Madrid,Altrincham,F,56,TV
+8,3,Because the Night de Patti Smith,Belinda Washington,8,6,7,7,5,,11.0,28 (6),0,Because the Night,Patti Smith,,España,Madrid,Altrincham,F,56,TV
+8,4,You Gotta Be de Des'ree,Belinda Washington,5,5,4,5,4,,9.0,19 (5),0,You Gotta Be,Des'ree,,España,Madrid,Altrincham,F,56,TV
+8,5,Be My Baby de Veronica Bennett (The Ronettes),Belinda Washington,5,7,6,7,7,,13.0,25 (6),0,Be My Baby,Veronica Bennett (The Ronettes),,España,Madrid,Altrincham,F,56,TV
+8,6,Pa ti no estoy de Rosana (Original y copia),Belinda Washington,5,9,10,10,5,,14.0,34 (9),0,Pa ti no estoy,Rosana (Original y copia),Original,España,Madrid,Altrincham,F,56,TV
+8,7,Dance Monkey de Tones and I,Belinda Washington,12,12,12,12,12,,24.0,48 (12),0,Dance Monkey,Tones and I,,España,Madrid,Altrincham,F,56,TV
+8,8,The Shoop Shoop Song (It's in His Kiss) de Cher (Sorpresa ¡Sorpresa!),Belinda Washington,7,0,8,10,9,,18.0,25 (9),9,The Shoop Shoop Song (It's in His Kiss),Cher (Sorpresa ¡Sorpresa!),Sorpresa,España,Madrid,Altrincham,F,56,TV
+8,9,Human de Rag'n'Bone Man,Belinda Washington,9,9,8,11,12,,21.0,37 (9),0,Human,Rag'n'Bone Man,,España,Madrid,Altrincham,F,56,TV
+8,10,Gigi l'amoroso de Dalida,Belinda Washington,6,4,4,4,6,,10.0,18 (4),0,Gigi l'amoroso,Dalida,,España,Madrid,Altrincham,F,56,TV
+8,11,L.O.V.E de Natalie Cole,Belinda Washington,5,5,5,7,10,,15.0,22 (5),0,L.O.V.E,Natalie Cole,,España,Madrid,Altrincham,F,56,TV

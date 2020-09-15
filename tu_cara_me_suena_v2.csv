@@ -1,0 +1,1037 @@
+temporada,programa,cancion,artista,j1,j2,j3,j4,publico,bonus,final,total,j5
+1,1,"Born This Way, de Lady Gaga",Angy,12,12.0,10,12,0,Toñi,,56,0
+1,1,"Pena, penita, pena, de Lola Flores",Toñi Salazar,10,10.0,12,10,0,Angy,,52,0
+1,1,"Amante bandido, de Miguel Bosé",Josema Yuste,8,9.0,8,8,0,Julio,,38,0
+1,1,"Vivir así es morir de amor, de Camilo Sesto",Francisco,7,8.0,9,7,0,Angy,,31,0
+1,1,"With or Without You, de Bono (U2)","Julio Iglesias, Jr.",5,5.0,5,5,0,Sylvia,,30,0
+1,1,"En el amor todo es empezar, de Raffaella Carrá",Carolina Ferre,9,6.0,7,6,0,Toñi,,28,0
+1,1,"Ven a bailar, de Jennifer Lopez",Sylvia Pantoja,6,4.0,6,4,0,Josema,,25,0
+1,1,"19 días y 500 noches, de Joaquín Sabina",Santiago Segura,4,7.0,4,9,0,Julio,,24,0
+1,2,"Cabaret, de Liza Minnelli (Cabaret)",Sylvia Pantoja,12,10.0,10,12,0,Santiago,0.0,68,9
+1,2,"Private Dancer, de Tina Turner","Julio Iglesias, Jr.",9,12.0,12,10,0,Santiago,0.0,60,12
+1,2,"I Just Called to Say I Love You, de Stevie Wonder",Santiago Segura,7,8.0,7,9,0,Sylvia,0.0,51,10
+1,2,"Me gustas mucho, de Rocío Dúrcal",Angy,10,9.0,6,7,0,Sylvia,0.0,45,8
+1,2,"Nessun dorma, de Luciano Pavarotti",Francisco,8,6.0,9,6,0,Julio,0.0,36,7
+1,2,"El chiringuito, El africano y La barbacoa, de Georgie Dann",Josema Yuste,6,7.0,8,8,0,Angy,0.0,34,5
+1,2,"La, la, la, de Massiel",Toñi Salazar,4,5.0,4,4,0,Sylvia,0.0,28,6
+1,2,"Like a Virgin, de Madonna",Carolina Ferre,5,4.0,5,5,0,Toñi,0.0,23,4
+1,3,Como una ola  de Rocío Jurado,Francisco,6,6.0,7,9,0,Toñi,0.0,63,10
+1,3,Soy gitano de Camarón de la Isla,Toñi Salazar,10,10.0,9,10,0,Francisco,0.0,58,9
+1,3,Escándalo de Raphael,Santiago Segura,12,12.0,12,12,0,Francisco,0.0,56,8
+1,3,Las flechas del amor de Karina,Carolina Ferre,8,7.0,10,8,0,Francisco,0.0,45,12
+1,3,Only Girl (In the World) de Rihanna,Angy,9,9.0,5,7,0,Julio,0.0,36,6
+1,3,It's My Life de Jon Bon Jovi (Bon Jovi),"Julio Iglesias, Jr.",5,5.0,6,6,0,Francisco,0.0,32,5
+1,3,Loca de Shakira,Sylvia Pantoja,7,8.0,4,5,0,Toñi,0.0,31,7
+1,3,Imagine de John Lennon,Josema Yuste,4,4.0,8,4,0,Francisco,0.0,24,4
+1,4,Girls Just Want to Have Fun de Cyndi Lauper,Angy,12,9.0,10,10,0,Carolina,0.0,59,8
+1,4,Bomba de King África,Carolina Ferre,8,8.0,12,9,0,Angy,0.0,57,10
+1,4,Esta cobardía de Chiquetete,Sylvia Pantoja,10,10.0,9,8,0,Julio,0.0,49,12
+1,4,"No Woman, No Cry de Bob Marley","Julio Iglesias, Jr.",9,12.0,8,6,0,Angy,0.0,47,7
+1,4,No hago otra cosa que pensar en ti de Joan Manuel Serrat,Josema Yuste,7,6.0,6,12,0,Santiago,0.0,40,4
+1,4,Are You Lonesome Tonight? de Elvis Presley,Francisco,6,5.0,5,7,0,Santiago,0.0,32,9
+1,4,I've Got You Under My Skin de Frank Sinatra,Santiago Segura,4,4.0,4,4,0,Josema,0.0,31,5
+1,4,A quién le importa de Alaska (Alaska y Dinarama),Toñi Salazar,5,7.0,7,5,0,Carolina,0.0,30,6
+1,5,Se acabó de María Jiménez,Toñi Salazar,10,10.0,12,12,0,Sylvia,0.0,57,8
+1,5,I Wanna Be Loved By You de Marilyn Monroe (Con faldas y a lo loco),Sylvia Pantoja,8,7.0,7,6,0,Toñi,0.0,47,9
+1,5,(I Can't Get No) Satisfaction de Mick Jagger (The Rolling Stones),"Julio Iglesias, Jr.",12,9.0,10,5,0,Carolina,0.0,46,10
+1,5,Dile de Luis Aguilé,Josema Yuste,9,8.0,9,8,0,Carolina,0.0,44,5
+1,5,Thriller de Michael Jackson,Angy,7,6.0,5,7,0,Toñi,0.0,42,12
+1,5,Dos gardenias de Antonio Machín,Francisco,6,12.0,8,9,0,Josema,0.0,42,7
+1,5,Ni una sola palabra de Paulina Rubio,Carolina Ferre,4,4.0,6,10,0,Sylvia,0.0,38,4
+1,5,"Mamá, quiero ser artista y La chica ye-ye de Concha Velasco",Santiago Segura,5,5.0,4,4,0,Angy,0.0,24,6
+1,6,Un año más de Ana Torroja (Mecano),Josema Yuste,10,12.0,12,9,0,Sylvia,0.0,65,12
+1,6,Mi jaca de Estrellita Castro,Sylvia Pantoja,12,10.0,10,8,0,Toñi,0.0,60,10
+1,6,Sarandonga de Lolita Flores,Carolina Ferre,7,7.0,9,7,0,Josema,0.0,49,9
+1,6,Hey y Me olvidé de vivir de Julio Iglesias,"Julio Iglesias, Jr.",8,9.0,7,10,0,Francisco,0.0,42,8
+1,6,"Me va, me va y Bamboleo de Julio Iglesias",Santiago Segura,9,8.0,6,12,0,Carolina,0.0,42,7
+1,6,Hero de Mariah Carey,Angy,6,6.0,8,6,0,Carolina,0.0,32,6
+1,6,Yo viviré de Celia Cruz,Toñi Salazar,5,4.0,5,4,0,Sylvia,0.0,28,5
+1,6,It's not Unusual de Tom Jones,Francisco,4,5.0,4,5,0,Josema,0.0,27,4
+1,7,El gato que está triste y azul y Un millón de amigos de Roberto Carlos,Santiago Segura,8,12.0,10,8,0,Toñi,0.0,61,8
+1,7,Smells Like Teen Spirit de Kurt Cobain (Nirvana),"Julio Iglesias, Jr.",9,6.0,9,12,0,Santiago,0.0,60,9
+1,7,Maldito duende de Enrique Bunbury (Héroes del Silencio),Francisco,12,10.0,12,9,0,Santiago,0.0,49,6
+1,7,Bulería de David Bisbal,Angy,10,9.0,7,10,0,Julio,0.0,48,12
+1,7,Bienvenidos de Miguel Ríos,Josema Yuste,7,8.0,8,7,0,Sylvia,0.0,37,7
+1,7,Marinero de luces de Isabel Pantoja,Toñi Salazar,4,7.0,6,5,0,Julio,0.0,32,5
+1,7,Cuando tú vas de Chenoa,Carolina Ferre,6,5.0,5,4,0,Julio,0.0,30,10
+1,7,Al son del tambor de Rosario Flores,Sylvia Pantoja,5,4.0,4,6,0,Santiago,0.0,28,4
+1,8,Rehab de Amy Winehouse,"Julio Iglesias, Jr.",10,12.0,10,5,0,Toñi,0.0,62,10
+1,8,Karma Chameleon de Boy George (Culture Club),Santiago Segura,12,9.0,9,10,0,Julio,0.0,57,12
+1,8,El partido de fútbol de Rita Pavone,Carolina Ferre,7,10.0,12,6,0,Sylvia,0.0,48,8
+1,8,Loca de Luz Casal,Toñi Salazar,9,8.0,7,7,0,Julio,0.0,47,6
+1,8,Soy yo de Marta Sánchez,Sylvia Pantoja,5,5.0,5,9,0,Carolina,0.0,38,9
+1,8,"Pavo real de José Luis Rodríguez ""El Puma""",Josema Yuste,8,6.0,8,8,0,Toñi,0.0,37,7
+1,8,Left Outside Alone de Anastacia,Angy,6,7.0,6,12,0,Santiago,0.0,35,4
+1,8,Vivo cantando de Salomé,Francisco,4,4.0,4,4,0,Julio,0.0,21,5
+1,9,Si bastasen un par de canciones y Fantástico amor de Eros Ramazzotti,Santiago Segura,12,10.0,10,8,0,Angy,0.0,55,0
+1,9,Don't Stop Me Now de Freddie Mercury (Queen),Angy,9,12.0,12,10,0,Sylvia,0.0,48,0
+1,9,Su canción de Betty Missiego,Josema Yuste,10,9.0,9,9,0,Carolina,0.0,42,0
+1,9,Torero de Chayanne,Carolina Ferre,4,6.0,7,12,0,Santiago,0.0,39,0
+1,9,Last Dance de Donna Summer,Sylvia Pantoja,7,5.0,5,7,0,Josema,0.0,29,0
+1,9,Lo siento mi amor de Falete,Toñi Salazar,8,7.0,8,4,0,Santiago,0.0,27,0
+1,9,Gloria de Umberto Tozzi,"Julio Iglesias, Jr.",6,8.0,6,6,0,Santiago,0.0,26,0
+1,9,Cobarde de David Bustamante,Francisco,5,4.0,4,5,0,Carolina,0.0,18,0
+2,1,"These Boots Are Made for Walkin', de Nancy Sinatra",Roko,12,12.0,12,9,0,Daniel,0.0,57,12
+2,1,"Aire, de Pedro Marín",Arturo Valls,8,10.0,10,12,0,Daniel,0.0,50,10
+2,1,Viaje con nosotros y Caperucita feroz de Javier Gurruchaga (Orquesta Mondragón),Santiago Segura,9,9.0,8,4,0,María,0.0,48,8
+2,1,"Can't Get You Out of My Head , de Kylie Minogue",Anna Simon,10,8.0,7,10,0,Santiago,0.0,44,9
+2,1,"I will always love you, de Whitney Houston",Daniel Diges,5,5.0,9,8,0,Santiago,0.0,41,4
+2,1,"Se fue, de Laura Pausini",Ángeles Muñoz,4,7.0,6,7,0,María,0.0,35,6
+2,1,"Bailar pegados, de Sergio Dalma",Javier Herrero,7,6.0,4,6,0,Ángeles,0.0,35,7
+2,1,"El bimbó, El negro no puede, El africano y La barbacoa, de Georgie Dann",María del Monte,6,4.0,5,5,0,Javier,0.0,35,5
+2,2,"Soy minero, de Antonio Molina",Daniel Diges,10,10.0,12,12,0,Javier,0.0,63,9
+2,2,"Lágrimas negras, de Diego el Cigala",Javier Herrero,9,12.0,7,7,0,María,0.0,55,10
+2,2,"Juntos, de Paloma San Basilio",Roko,12,9.0,9,8,0,Arturo,0.0,45,7
+2,2,"Quizás, quizás, quizás, Ansiedad, Cachito, Yo vendo unos ojos negros y Capullito de alhelí, de Nat King Cole",Santiago Segura,4,7.0,10,9,0,Anna,0.0,42,12
+2,2,"Mi tierra, de Gloria Estefan",María del Monte,7,6.0,4,10,0,Anna,0.0,40,8
+2,2,"Fly away, de Lenny Kravitz",Anna Simon,6,4.0,5,5,0,Daniel,0.0,35,5
+2,2,"Por la boca vive el pez, de Fito Cabrales (Fito y Fitipaldis)",Ángeles Muñoz,8,5.0,8,6,0,Daniel,0.0,33,6
+2,2,"Faith, de George Michael",Arturo Valls,5,8.0,6,4,0,Javier,0.0,32,4
+2,3,"Que nadie sepa mi sufrir, de María Dolores Pradera",María del Monte,12,10.0,10,12,0,Santiago,0.0,69,10
+2,3,"Noelia, de Nino Bravo",Daniel Diges,10,9.0,9,10,0,Anna,0.0,55,12
+2,3,"Baby, de Justin Bieber",Roko,9,12.0,8,9,0,Marìa,0.0,50,7
+2,3,"Que me coma el tigre, de Lola Flores",Anna Simon,7,7.0,12,6,0,Marìa,0.0,46,9
+2,3,"Ilarié, de Xuxa",Ángeles Muñoz,8,8.0,6,8,0,Roko,0.0,36,6
+2,3,"Solo pienso en ti y Nada sabe tan dulce como su boca, de Víctor Manuel",Santiago Segura,6,6.0,5,4,0,Daniel,0.0,34,8
+2,3,"Sola (con un desconocido), de Marta Sánchez (Olé Olé)",Arturo Valls,4,5.0,7,7,0,Marìa,0.0,33,5
+2,3,"Mañanas de terciopelo, de Demis Roussos",Javier Herrero,5,4.0,4,5,0,Arturo,0.0,22,4
+2,4,"Dulce locura, de Amaia Montero (La Oreja de Van Gogh)",Anna Simon,12,12.0,12,12,0,Ángeles,0.0,78,10
+2,4,"Como un vagabundo, de Bertín Osborne",Arturo Valls,8,10.0,9,10,0,Anna,0.0,56,9
+2,4,"Volver, de Carlos Gardel",María del Monte,7,8.0,10,8,0,Arturo,0.0,45,12
+2,4,"Sevillanas de los bloques (Estoy atacá), de Martirio",Roko,9,9.0,4,7,0,Anna,0.0,41,7
+2,4,"Eloise, de Tino Casal",Daniel Diges,10,7.0,5,5,0,Arturo,0.0,35,8
+2,4,"Love me tender y Viva Las Vegas, de Elvis Presley",Santiago Segura,6,6.0,8,9,0,Roko,0.0,35,6
+2,4,"Fue tan poco tu cariño, de Rocío Dúrcal",Ángeles Muñoz,5,5.0,6,6,0,Anna,0.0,31,4
+2,4,"La flaca, de Pau Donés (Jarabe de Palo)",Javier Herrero,4,4.0,7,4,0,Anna,0.0,24,5
+2,5,"Yo no soy esa, de Mari Trini",Javier Herrero,5,4.0,5,4,0,Ángeles,0.0,58,5
+2,5,"Someone like you, de Adele",Roko,9,12.0,12,12,0,Javier,0.0,54,9
+2,5,"Fumando espero, de Sara Montiel (El último cuplé)",María del Monte,12,10.0,10,8,0,Javier,0.0,50,10
+2,5,"Super Superman, de Miguel Bosé",Arturo Valls,10,9.0,6,9,0,Javier,0.0,46,12
+2,5,"El toro guapo y Apatrullando la ciudad, de El Fary",Santiago Segura,7,7.0,7,10,0,Javier,0.0,38,7
+2,5,"Bad romance, de Lady Gaga",Anna Simon,6,8.0,8,7,0,Javier,0.0,37,8
+2,5,"No soy un superman, de David Bustamante",Daniel Diges,8,6.0,9,5,0,Javier,0.0,34,6
+2,5,"No dudaría, de Antonio Flores",Ángeles Muñoz,4,5.0,4,6,0,Javier,0.0,28,4
+2,6,"Never gonna give you up, de Rick Astley",Arturo Valls,10,12.0,12,7,0,María,0.0,61,0
+2,6,"La bien pagá, de Miguel de Molina",Roko,12,10.0,9,12,0,Ángeles,0.0,48,0
+2,6,"Mujer latina, de Thalía",Ángeles Muñoz,6,7.0,8,8,0,Arturo,0.0,34,0
+2,6,"Ai Se Eu Te Pego, de Michel Teló",María del Monte,7,9.0,7,6,0,Arturo,0.0,34,0
+2,6,"Visa para un sueño, La bilirrubina y Ojalá que llueva café, de Juan Luis Guerra",Santiago Segura,5,4.0,5,9,0,Arturo,0.0,33,0
+2,6,"Yo quiero bailar, de Sonia Madoc  con Patricia Pérez como Selena Leo (Sonia y Selena)",Anna Simon,8,8.0,10,5,0,"Anna:Arturo
+Patricia: Santiago",0.0,31,0
+2,6,"The Final Countdown, de Joey Tempest (Europe)",Daniel Diges,9,6.0,6,10,0,Roko,0.0,31,0
+2,6,"Perdóname, de Camilo Sesto",Javier Herrero,4,5.0,4,4,0,Santiago,0.0,17,0
+2,7,"Mi gente, de Lucrecia",Ángeles Muñoz,5,5.0,7,5,0,Arturo,0.0,62,0
+2,7,"Price Tag, de Jessie J",Roko,12,12.0,10,12,0,Ángeles,0.0,46,0
+2,7,"Estando contigo y Tómbola, de Marisol",Anna Simon,9,10.0,12,9,0,Ángeles,0.0,40,0
+2,7,"Amor de hombre, de Amaya Uranga (Mocedades)",María del Monte,10,9.0,9,10,0,Ángeles,0.0,38,0
+2,7,"Experiencia religiosa, de Enrique Iglesias",Arturo Valls,8,8.0,8,8,0,Ángeles,0.0,37,0
+2,7,"Será que no me amas, de Luis Miguel",Daniel Diges,6,7.0,4,6,0,Ángeles,0.0,23,0
+2,7,"Killing Me Softly, de Pitingo",Javier Herrero,7,6.0,6,4,0,Ángeles,0.0,23,0
+2,7,"Sólo se vive una vez, de Encarna Salazar con Julio Iglesias Jr. como Toñi Salazar (Azúcar Moreno)",Santiago Segura,4,4.0,5,7,0,"Julio:Ángeles
+Santiago:Ángeles",0.0,20,0
+2,8,"Gangnam Style, de PSY",Santiago Segura,12,12.0,12,12,0,Ángeles,0.0,80,12
+2,8,"Hijo de la luna, de Montserrat Caballé",Daniel Diges,10,10.0,10,9,0,Santiago,0.0,54,10
+2,8,"Este amor no se toca, de Yuri",Roko,9,9.0,9,8,0,Anna,0.0,44,4
+2,8,"Entre mis recuerdos, de Luz Casal",Ángeles Muñoz,5,7.0,7,10,0,Santiago,0.0,42,8
+2,8,"California Gurls, de Katy Perry",Anna Simon,8,8.0,8,6,0,Santiago,0.0,41,6
+2,8,"Gavilán o paloma, de Pablo Abraira",Javier Herrero,6,5.0,6,5,0,Santiago,0.0,31,9
+2,8,"Umbrella, de Rihanna",Arturo Valls,7,6.0,5,4,0,Daniel,0.0,29,7
+2,8,"Soy rebelde y Por qué te vas, de Jeanette",María del Monte,4,4.0,4,7,0,Roko,0.0,24,5
+2,9,"Euphoria, de Loreen",Roko,12,12.0,10,12,0,Marìa,0.0,73,12
+2,9,"Canta y sé feliz, de Peret",María del Monte,10,10.0,12,9,0,Roko,0.0,64,8
+2,9,"Bailemos un vals, de José Vélez",Arturo Valls,8,9.0,9,10,0,Santiago,0.0,46,10
+2,9,"Marionetas en la cuerda, de Sandie Shaw",Anna Simon,9,7.0,8,8,0,Roko,0.0,38,6
+2,9,"Baila el chiki chiki, de Rodolfo Chiquilicuatre",Santiago Segura,5,6.0,6,5,0,Marìa,0.0,27,9
+2,9,"Europe's living a celebration, de Rosa López",Daniel Diges,7,8.0,7,6,0,Marìa,0.0,21,7
+2,9,"Diva, de Dana International",Ángeles Muñoz,6,5.0,5,7,0,Javier,0.0,20,4
+2,9,"Gwendolyne, de Julio Iglesias",Javier Herrero,4,4.0,4,4,0,Roko,0.0,25,5
+2,10,"Francisco Alegre, de Juanita Reina",María del Monte,12,12.0,12,12,0,Ángeles,0.0,72,9
+2,10,"My baby just cares for me, de Nina Simone",Roko,10,9.0,10,10,0,María,0.0,56,12
+2,10,"Pretty woman, de Roy Orbison",Daniel Diges,9,10.0,6,8,0,Arturo,0.0,48,10
+2,10,"El baile del gorila, de Melody",Ángeles Muñoz,7,6.0,9,9,0,Roko,0.0,44,8
+2,10,"Así me gusta a mí y La tía Enriqueta, de Chimo Bayo",Arturo Valls,4,8.0,7,7,0,María,0.0,35,4
+2,10,"Dance Again, de Jennifer Lopez",Anna Simon,6,5.0,4,5,0,María,0.0,32,7
+2,10,"Maria Caipirinha, de Carlinhos Brown",Santiago Segura,8,7.0,8,4,0,Anna,0.0,32,5
+2,10,"Nada fue un error, de Coti",Javier Herrero,5,4.0,5,6,0,Daniel,0.0,26,6
+2,11,"Fiesta, de Raffaella Carrá",Santiago Segura,9,10.0,10,12,0,Roko,0.0,51,0
+2,11,"Ni tu ni nadie, de Alaska",Anna Simon,10,12.0,12,10,0,María,0.0,44,0
+2,11,"Suerte, de Shakira",Roko,12,9.0,9,9,0,Arturo,0.0,44,0
+2,11,"Corazón partío, de Alejandro Sanz",Javier Herrero,4,5.0,6,8,0,Daniel,0.0,33,0
+2,11,"Y, ¿si fuera ella?, de Alejandro Sanz",Daniel Diges,7,8.0,4,6,0,Javier,0.0,30,0
+2,11,"Loba, de Shakira",Arturo Valls,5,7.0,5,7,0,Javier,0.0,29,0
+2,11,"Bailando, de Alaska",María del Monte,8,4.0,7,5,0,Santiago,0.0,29,0
+2,11,"Hay que venir al sur, de Raffaella Carrá",Ángeles Muñoz,6,6.0,8,4,0,Santiago,0.0,24,0
+2,12,"Luz de luna, de Chavela Vargas",María del Monte,12,12.0,12,12,0,Ángeles,0.0,70,12
+2,12,"Violetas imperiales, de Luis Mariano",Daniel Diges,10,8.0,9,9,0,Santiago,0.0,56,10
+2,12,"Hola don Pepito, Susanita, Mi familia, Chinito de amor y El auto nuevo, de Fofito (Los Payasos de la Tele)",Santiago Segura,7,9.0,10,8,0,Daniel,0.0,46,7
+2,12,"Starman, de David Bowie",Arturo Valls,9,10.0,8,10,0,Javier,0.0,45,8
+2,12,"Se me enamora el alma, de Isabel Pantoja",Ángeles Muñoz,5,6.0,6,7,0,María,0.0,39,5
+2,12,"Help, ayúdame, de Tony Ronald",Javier Herrero,4,4.0,5,4,0,María,0.0,31,9
+2,12,"Call me maybe, de Carly Rae Jepsen",Anna Simon,6,7.0,7,6,0,Daniel,0.0,30,4
+2,12,"Starships, de Nicki Minaj",Roko,8,5.0,4,5,0,Ángeles,0.0,28,6
+2,13,"Qué será, de José Feliciano",Arturo Valls,12,12.0,8,12,0,María,0.0,68,9
+2,13,"Valió la pena, de Marc Anthony",Daniel Diges,10,9.0,10,9,0,Ángeles,0.0,50,7
+2,13,"Tenía tanto que darte, de Mai Meneses (Nena Daconte)",Ángeles Muñoz,6,7.0,12,10,0,María,0.0,46,6
+2,13,"Purple rain, de Prince",Santiago Segura,9,10.0,9,8,0,Daniel,0.0,46,10
+2,13,"Un ramito de violetas, de Manzanita",María del Monte,7,6.0,6,6,0,Arturo,0.0,43,8
+2,13,"Love is the only way, de Macaco",Roko,8,8.0,5,5,0,Arturo,0.0,36,5
+2,13,"El baile de los pajaritos, de María Jesús y su acordeón",Javier Herrero,4,5.0,4,4,0,Arturo,0.0,29,12
+2,13,"La madre de José, de Dani Martín (El Canto del Loco)",Anna Simon,5,4.0,7,7,0,Roko,0.0,27,4
+2,14,"One way or another, de Deborah Harry (Blondie)",Anna Simon,12,9.0,12,12,0,Javier,0.0,55,0
+2,14,"Ma Baker, Rasputin y Daddy Cool, de Bobby Farrell (Boney M)",Santiago Segura,9,12.0,9,9,0,Anna,0.0,49,0
+2,14,"Party rock anthem y Sexy and I know it, de Redfoo (LMFAO)",Arturo Valls,8,10.0,10,10,0,Anna,0.0,38,0
+2,14,"Tú me camelas, de Niña Pastori",Daniel Diges,6,6.0,6,6,0,Santiago,0.0,34,0
+2,14,"Búscate un hombre que te quiera e Himno del Sevilla, de El Arrebato",María del Monte,10,8.0,8,8,0,Daniel,0.0,34,0
+2,14,"Barbie girl, de Lene Nystrøm (Aqua)",Ángeles Muñoz,7,7.0,7,7,0,Daniel,0.0,28,0
+2,14,"¿Y cómo es él?, de José Luis Perales",Javier Herrero,5,5.0,5,5,0,Santiago,0.0,25,0
+3,1,"Girl on Fire, de Alicia Keys",Edurne,11,12.0,11,12,0,Santi,0.0,56,0
+3,1,"Laura no está, de Nek",Xuso Jones,9,11.0,10,11,0,Edurne,0.0,46,0
+3,1,"Arrasando, de Thalía",Melody,12,10.0,12,9,0,Florentino,0.0,43,0
+3,1,"The best, de Tina Turner",Ángela Carrasco,8,9.0,7,8,0,Santi,0.0,42,0
+3,1,"No controles, de Vicky Larraz (Olé Olé)",Llum Barrera,10,7.0,9,10,0,Ángela,0.0,36,0
+3,1,"Veo, veo, de Teresa Rabal",Santi Rodríguez,6,6.0,8,5,0,Xuso,0.0,35,0
+3,1,"Me encanta, de Mario Vaquerizo (Nancys Rubias)",Florentino Fernández,7,5.0,6,7,0,Los Chunguitos,0.0,30,0
+3,1,"Sex Bomb, de Tom Jones",José Manuel Soto,5,8.0,4,6,0,Edurne,0.0,23,0
+3,1,"La raja de tu falda, de Estopa",Los Chunguitos,4,4.0,5,4,0,Ángela,0.0,22,0
+3,2,"Paco, Paco, Paco, de Encarnita Polo",Llum Barrera,11,12.0,12,11,0,Florentino,0.0,61,0
+3,2,"Aprendiz, de Malú",Melody,12,10.0,11,12,0,Los Chunguitos,0.0,45,0
+3,2,"Por ti volaré, de Andrea Bocelli",Florentino Fernández,6,8.0,10,7,0,Llum,0.0,41,0
+3,2,"Sweet child o' mine, de Axl Rose",Edurne,10,11.0,8,10,0,Angela,0.0,39,0
+3,2,"La gata bajo la lluvia, de Rocio Dúrcal",Angela Carrasco,7,9.0,6,9,0,Los Chunguitos,0.0,36,0
+3,2,"Resistiré, de Dúo Dinámico",Los Chunguitos,4,4.0,4,5,0,Florentino,0.0,32,0
+3,2,"I know you want me, de Pitbull",Santi Rodríguez,9,6.0,9,6,0,Llum,0.0,30,0
+3,2,"El emigrante, de Juanito Valderrama",José Manuel Soto,5,5.0,7,8,0,Los Chunguitos,0.0,25,0
+3,2,"Locked out of heaven, de Bruno Mars",Xuso Jones,8,7.0,5,4,0,Llum,0.0,24,0
+3,3,"Holding out for a hero, de Bonnie Tyler",Melody,12,11.0,12,11,0,José Manuel,0.0,71,0
+3,3,"Devuélveme a mi chica, de David Summers (Hombres G)",Xuso Jones,10,10.0,11,12,0,Melody,0.0,48,0
+3,3,"El ritmo del garaje, de Loquillo",Santi Rodríguez,11,8.0,10,10,0,Melody,0.0,39,0
+3,3,"¡Chas! y aparezco a tu lado, de Christina Rosenvinge (Álex y Christina)",Llum Barrera,9,9.0,9,9,0,Melody,0.0,36,0
+3,3,"There Must Be an Angel (Playing with My Heart), de Annie Lennox (Eurythmics)",Edurne,8,12.0,8,8,0,Xuso,0.0,36,0
+3,3,"Santa Lucía, de Miguel Ríos",José Manuel Soto,5,5.0,5,4,0,Ángela,0.0,29,0
+3,3,"Simply Irresistible, de Robert Palmer",Florentino Fernández,7,7.0,7,7,0,José Manuel,0.0,28,0
+3,3,"A esa, de Pimpinela",Los Chunguitos,6,6.0,6,6,0,Melody,0.0,24,0
+3,3,"Si tú eres mi hombre y yo tu mujer, de Jennifer Rush",Ángela Carrasco,4,4.0,4,5,0,Melody,0.0,22,0
+3,4,"El manisero, de Antonio Machín",Ángela Carrasco,12,11.0,11,11,0,Xuso,0.0,65,0
+3,4,"Let me entertain you, de Robbie Williams",Xuso Jones,10,8.0,12,10,0,Santi,0.0,50,0
+3,4,Agradecido de Rosendo,Florentino Fernández,7,9.0,6,12,0,Ángela,0.0,39,0
+3,4,"I dreamed a dream, de Susan Boyle",Llum Barrera,9,12.0,10,6,0,Xuso,0.0,37,0
+3,4,"Firework, de Katy Perry",Melody,11,10.0,8,8,0,Ángela,0.0,37,0
+3,4,"Sin ti no soy nada, de Eva Amaral (Amaral)",Edurne,8,7.0,9,9,0,Florentino,0.0,33,0
+3,4,"Mi limón, mi limonero, de Henry Stephen",Santi Rodríguez,6,6.0,7,7,0,Ángela,0.0,31,0
+3,4,"Te he echado de menos, de Pablo Alborán",José Manuel Soto,5,5.0,5,5,0,Ángela,0.0,25,0
+3,4,"Bandido, de Azúcar Moreno",Los Chunguitos,4,4.0,4,4,0,José Manuel,0.0,16,0
+3,5,"El chow chow y Que güeno que estoy, de El Sevilla (Mojinos Escozíos)",Florentino Fernández,11,7.0,12,11,0,Los Chunguitos,0.0,61,0
+3,5,"Try, de P!nk",Edurne,12,12.0,11,12,0,José Manuel,0.0,57,0
+3,5,"Todos me miran, de Gloria Trevi",Melody,10,11.0,10,8,0,Edurne,0.0,39,0
+3,5,"El tío Calambres, de Luis Aguilé",Llum Barrera,8,10.0,9,10,0,Edurne,0.0,37,0
+3,5,"El puente, de Helena Bianco (Los Mismos)",Angela Carrasco,9,9.0,6,6,0,José Manuel,0.0,30,0
+3,5,"Candle in the wind, de Elton John",José Manuel Soto,5,5.0,5,5,0,Florentino,0.0,30,0
+3,5,"Rolling in the deep, de Adele",Xuso Jones,7,8.0,8,7,0,Florentino,0.0,30,0
+3,5,"Toda, de Jesulín de Ubrique",Santi Rodríguez,6,6.0,7,9,0,Florentino,0.0,28,0
+3,5,"Son de amores, de Andy y Lucas",Los Chunguitos,4,4.0,4,4,0,Florentino,0.0,21,0
+3,6,"Opá, yo viazé un corrá, de El Koala",José Manuel Soto,10,7.0,7,8,0,Xuso,0.0,72,0
+3,6,"Blurred Lines, de Robin Thicke",Xuso Jones,8,9.0,12,12,0,José Manuel,0.0,46,0
+3,6,"Cariño trianero, de Carmen Sevilla",Edurne,12,11.0,11,10,0,José Manuel,0.0,44,0
+3,6,"La copa de la vida, de Ricky Martin",Melody,11,12.0,10,9,0,José Manuel,0.0,42,0
+3,6,"Sweet Dreams (Are Made of This), de Marilyn Manson",Florentino Fernández,9,10.0,9,11,0,José Manuel,0.0,39,0
+3,6,"Tik Tok, de Ke$ha",Llum Barrera,7,8.0,8,6,0,José Manuel,0.0,29,0
+3,6,"Que pasa contigo tío, de Los Golfos",Los Chunguitos,6,6.0,6,4,0,José Manuel,0.0,22,0
+3,6,"She Works Hard for the Money, de Donna Summer",Ángela Carrasco,5,5.0,4,7,0,José Manuel,0.0,21,0
+3,6,"Time goes by con Loli, de La Terremoto de Alcorcón",Santi Rodríguez,4,4.0,5,5,0,José Manuel,0.0,18,0
+3,7,"Aquí no hay playa, de Bernardo J. Vázquez (The Refrescos)",Xuso Jones,12,8.0,9,9,0,Ángela,0.0,63,10
+3,7,"Waka Waka (Esto es África), de Shakira",Edurne,10,11.0,10,10,0,Llum,0.0,57,11
+3,7,"El camaleón, Saltando sin parar y La bomba, de King África",Florentino Fernández,8,10.0,11,11,0,Santi,0.0,52,12
+3,7,"I will survive, de Gloria Gaynor",Melody,11,12.0,12,12,0,Xuso,0.0,51,4
+3,7,"Cartagena, Pulpa de tamarindo y Me lo dijo Pérez, de Alma María Vaesken (Los 3 Sudamericanos)",Llum Barrera,9,9.0,8,8,0,Xuso,0.0,47,8
+3,7,"La bilirrubina, de Juan Luis Guerra",Ángela Carrasco,6,6.0,5,6,0,Xuso,0.0,40,7
+3,7,"A-ba-ni-bi, de El Chaval de la Peca",José Manuel Soto,7,7.0,7,7,0,Los Chunguitos,0.0,37,9
+3,7,"Eva María y Vacaciones de verano, de Paco Pastor (Fórmula V)",Santi Rodríguez,4,4.0,6,5,0,Ángela,0.0,29,5
+3,7,"Macarena, de Los Del Río",Los Chunguitos,5,5.0,4,4,0,Edurne,0.0,29,6
+3,8,"Cantinero de Cuba, de Sergio y Estíbaliz",Los Chunguitos,4,4.0,12,11,0,José Manuel,0.0,66,0
+3,8,"Man! I feel like a woman, de Shania Twain",Edurne,11,11.0,9,12,0,Los Chunguitos,0.0,48,0
+3,8,"Achilipú, de Dolores Vargas",Melody,12,12.0,10,8,0,Los Chunguitos,0.0,42,0
+3,8,"La culpa fue del cha-cha-cha, de Jaime Urrutia (Gabinete Caligari)",Santi Rodríguez,7,6.0,11,10,0,Edurne,0.0,34,0
+3,8,"Enséñame a cantar, de Micky",José Manuel Soto,6,7.0,5,9,0,Los Chunguitos,0.0,32,0
+3,8,"This Love, de Adam Levine (Maroon 5)",Xuso Jones,9,10.0,8,4,0,Los Chunguitos,0.0,31,0
+3,8,"Rata de dos patas, de Paquita la del Barrio",Florentino Fernández,8,9.0,6,7,0,Los Chunguitos,0.0,30,0
+3,8,"El Noa-Noa, de Massiel",Llum Barrera,10,8.0,7,5,0,Los Chunguitos,0.0,30,0
+3,8,"Qué hiciste, de Jennifer Lopez",Ángela Carrasco,5,5.0,4,6,0,Los Chunguitos,0.0,20,0
+3,9,"Antes muerta que sencilla, de María Isabel",Llum Barrera,12,12.0,12,12,0,Ángela,0.0,53,0
+3,9,"Dame veneno y Me sabe a humo, de Los Chunguitos",Florentino Fernández,11,6.0,11,5,0,Los Chunguitos,0.0,43,0
+3,9,"Dame veneno y Me sabe a humo, de Los Chunguitos",Santi Rodríguez,11,6.0,11,5,0,Los Chunguitos,0.0,43,0
+3,9,"Toxic, de Britney Spears",Xuso Jones,10,7.0,9,11,0,Llum,0.0,42,0
+3,9,"Poker face, de Lady Gaga",Edurne,9,11.0,10,10,0,Xuso,0.0,40,0
+3,9,"Quédate conmigo, de Pastora Soler",Melody,8,10.0,5,6,0,Santi y Florentino,0.0,39,0
+3,9,"Tico tico no fubá y Mamãe eu quero, de Carmen Miranda",Ángela Carrasco,7,9.0,8,9,0,Melody,0.0,38,0
+3,9,"Tatuaje, de Concha Marquez Piquer",José Manuel Soto,6,8.0,7,8,0,Melody,0.0,29,0
+3,9,"Te estoy amando locamente, de Las Grecas",Los Chunguitos,5,5.0,6,7,0,Santi y Florentino,0.0,28,0
+3,10,"Ma quale idea, de Pino D'Angiò",Santi Rodríguez,7,9.0,12,7,0,Ángela,0.0,70,0
+3,10,"Impossible, de James Arthur",Xuso Jones,11,12.0,11,12,0,Santi,0.0,46,0
+3,10,"The Shoop Shoop Song (It's in His Kiss), de Cher",Melody,12,11.0,9,11,0,Los Chunguitos,0.0,43,0
+3,10,"Grace Kelly, de Mika",Edurne,10,10.0,8,10,0,Santi,0.0,38,0
+3,10,Cómo pudiste hacerme esto a mí de Alaska (Alaska y Dinarama/Fangoria),Llum Barrera,9,8.0,10,8,0,Santi,0.0,35,0
+3,10,"Credo, de Elsa Baeza",Ángela Carrasco,6,6.0,6,9,0,Santi,0.0,32,0
+3,10,"El probe Miguel, de Esperanza la del Maera (Triana Pura)",Florentino Fernández,8,7.0,7,5,0,Santi,0.0,27,0
+3,10,"La media vuelta, de Luis Miguel",José Manuel Soto,5,5.0,5,6,0,Santi,0.0,21,0
+3,10,"Me pongo colorada, de Papá Levante",Los Chunguitos,4,4.0,4,4,0,Santi,0.0,21,0
+3,11,"Salomé, de Chayanne",Xuso Jones,8,8.0,10,11,0,Ángela,0.0,49,0
+3,11,"Morena mía, de Miguel Bosé",Santi Rodríguez,12,12.0,11,8,0,Edurne,0.0,45,0
+3,11,"El príncipe de Bel-Air y Gettin' Jiggy With It, de Will Smith",Florentino Fernández,7,11.0,9,10,0,Xuso,0.0,42,0
+3,11,"Don't speak, de Gwen Stefani (No Doubt)",Melody,9,10.0,12,9,0,Xuso,0.0,42,0
+3,11,"Knock on wood, de Amii Stewart",Edurne,10,9.0,8,7,0,Los Chunguitos,0.0,38,0
+3,11,"Necesito respirar, de Manuel Martínez (Medina Azahara)",José Manuel Soto,11,5.0,6,6,0,Los Chunguitos,0.0,33,0
+3,11,"Boys don't cry, de Robert Smith (The Cure)",Llum Barrera,5,7.0,7,12,0,Xuso,0.0,31,0
+3,11,"La vida es bella, de Noa",Ángela Carrasco,6,6.0,5,5,0,Santi,0.0,27,0
+3,11,"Loco Mia, de Locomia",Los Chunguitos,4,4.0,4,4,0,José Manuel,0.0,26,0
+3,12,"Bring me to life, de Amy Lee (Evanescence)",Edurne,12,12.0,11,12,0,Llum,0.0,62,0
+3,12,"Amigo conductor, de Perlita de Huelva",Llum Barrera,11,6.0,10,11,0,Edurne,0.0,48,0
+3,12,"Quiéreme, de El Barrio",José Manuel Soto,10,9.0,12,10,0,Llum,0.0,46,0
+3,12,"La gota fría, de Carlos Vives",Ángela Carrasco,8,10.0,8,9,0,Edurne,0.0,45,0
+3,12,"As Long as You Love Me, de Justin Bieber",Xuso Jones,6,11.0,9,8,0,Edurne,0.0,39,0
+3,12,"Carolina, de Carlos Tarque (M Clan)",Santi Rodríguez,9,8.0,6,7,0,José Manuel,0.0,30,0
+3,12,"Clavado en un bar, de Fernando Olvera (Maná)",Melody,7,7.0,7,6,0,Angela,0.0,27,0
+3,12,"The Fox, de Bård Ylvisåker con Miki Nadal como Vegard Ylvisåker (Ylvis)",Florentino Fernández,5,5.0,5,5,0,Xuso,0.0,20,0
+3,12,"La puerta de Alcalá, de Ana Belén y Víctor Manuel",Los Chunguitos,4,4.0,4,4,0,Angela,0.0,16,0
+3,13,"What's Up?, de Linda Perry (4 Non Blondes)",Edurne,12,12.0,12,12,0,Melody,0.0,53,0
+3,13,"Yo no te pido la luna, de Fiordaliso",Melody,11,11.0,8,8,0,José Manuel,0.0,53,0
+3,13,"Irressistible/Ouragan, de Estefanía de Mónaco",Llum Barrera,7,7.0,9,10,0,Santi,0.0,38,0
+3,13,"Nada cambiará mi amor por ti, de Glenn Medeiros",Xuso Jones,9,10.0,10,9,0,Melody,0.0,38,0
+3,13,"Dolce vita, de Ryan Paris",José Manuel Soto,5,8.0,7,6,0,Melody,0.0,36,0
+3,13,"Born to be alive, de Patrick Hernández",Florentino Fernández,8,6.0,11,7,0,Edurne,0.0,32,0
+3,13,"Hasiendo el amor, de Dinio",Santi Rodríguez,10,5.0,6,4,0,Llum,0.0,30,0
+3,13,"No rompas más (Mi pobre corazón), de Coyote Dax",Ángela Carrasco,6,9.0,4,11,0,Los Chunguitos,0.0,30,0
+3,13,"Vamos a la playa, de Righeira",Los Chunguitos,4,4.0,5,5,0,José Manuel,0.0,23,0
+3,14,"The boy does nothing, de Alesha Dixon",Melody,11,10.0,10,11,0,Llum,0.0,57,0
+3,14,"Crazy in love, de Beyoncé",Edurne,12,12.0,12,12,0,Santi,0.0,53,0
+3,14,"Hey ya!, de André 3000 (Outkast)",Xuso Jones,10,11.0,11,9,0,Florentino,0.0,46,0
+3,14,"Rufino, de Luz Casal",Llum Barrera,8,6.0,9,10,0,Melody,0.0,38,0
+3,14,"Historia de un amor, de Eydie Gormé con Café Quijano como Los Panchos",Ángela Carrasco,7,9.0,8,6,0,Melody,0.0,35,0
+3,14,"Don't leave me this way, de Jimmy Sommerville",Florentino Fernández,9,8.0,5,8,0,Ángela,0.0,35,0
+3,14,"La Lola, de Manuel Quijano (Café Quijano)",Santi Rodríguez,4,7.0,7,5,0,Xuso,0.0,28,0
+3,14,"Romeo y Julieta, de Karina",José Manuel Soto,5,4.0,6,7,0,Melody,0.0,22,0
+3,14,"Amigos para siempre, de Los Manolos",Los Chunguitos,6,5.0,4,4,0,Edurne,0.0,19,0
+3,15,"Cuban Pete, de Jim Carrey (La Máscara)",Florentino Fernández,9,9.0,8,7,0,Llum,0.0,58,0
+3,15,"Like a prayer, de Madonna",Llum Barrera,11,10.0,11,11,0,Florentino,0.0,48,0
+3,15,"Hijo de la luna, de Ana Torroja (Mecano)",Melody,12,11.0,6,6,0,Edurne,0.0,40,0
+3,15,"Y ahora, de Manuel Carrasco",José Manuel Soto,7,6.0,9,10,0,Florentino,0.0,37,0
+3,15,"Bleeding Love, de Leona Lewis",Edurne,10,12.0,4,5,0,Florentino,0.0,36,0
+3,15,"Ayer, de Gloria Estefan",Ángela Carrasco,5,8.0,12,8,0,Florentino,0.0,33,0
+3,15,"Cuanto más acelero, de Javi Cantero",Santi Rodríguez,6,5.0,10,9,0,Florentino,0.0,30,0
+3,15,"Torero, de Julio Iglesias y José Luis Rodríguez ""El Puma""",Los Chunguitos,4,4.0,7,12,0,Melody,0.0,27,0
+3,15,"No puedo vivir sin ti, de Coque Malla (Los Ronaldos)",Xuso Jones,8,7.0,5,4,0,José Manuel,0.0,24,0
+3,16,"Do What U Want, de Lady Gaga con Angy como Christina Aguilera",Melody,12,12.0,12,12,0,Florentino,0.0,63,0
+3,16,"Vivo por ella, de Marta Sánchez con Daniel Diges como Andrea Bocelli",Edurne,10,11.0,11,9,0,Ángela,0.0,46,0
+3,16,"You're my heart, you're my soul y Brother Louie, de Thomas Anders con Edu Soto como Dieter Bohlen (Modern Talking)",Xuso Jones,11,9.0,8,11,0,Llum,0.0,44,0
+3,16,"All the things she said, de Julia Volkova con Carolina Ferre como Lena Katina (t.A.T.u)",Llum Barrera,9,10.0,9,8,0,Los Chunguitos,0.0,41,0
+3,16,"La yenka y Super disco chino, de Enrique del Pozo con Anna Simon como Ana Anguita (Enrique y Ana)",Florentino Fernández,8,4.0,10,7,0,Melody,0.0,34,0
+3,16,"Corazón contento, de Marisol con Roberto Leal como Palito Ortega",Ángela Carrasco,6,7.0,5,10,0,Edurne,0.0,33,0
+3,16,"Eso es el amor, de María Durán, Mayra Gómez Kemp con Toñi Salazar como Beatriz Escudero (Trío Acuario)",Los Chunguitos,7,5.0,4,5,0,Melody,0.0,26,0
+3,16,"Dos hombres y un destino, de David Bustamante con Francisco como Alex Casademunt",José Manuel Soto,5,8.0,6,6,0,Xuso,0.0,25,0
+3,16,"La lista de la compra, de Lichis (La Cabra Mecánica) con Loles León como María Jiménez",Santi Rodríguez,4,6.0,7,4,0,Melody,0.0,21,0
+3,17,"In the Ghetto, de El Príncipe Gitano",Santi Rodríguez,9,10.0,12,12,0,Los Chunguitos,0.0,58,0
+3,17,"Torre de arena, de Marifé de Triana",Edurne,12,12.0,11,11,0,Melody,0.0,56,0
+3,17,"Puedes contar conmigo, de Amaia Montero (La Oreja de Van Gogh)",Melody,11,11.0,10,9,0,Edurne,0.0,46,0
+3,17,"Tu nombre me sabe a yerba, de Joan Manuel Serrat",José Manuel Soto,10,9.0,9,10,0,Santi,0.0,38,0
+3,17,"No estamos lokos, de Ketama",Los Chunguitos,8,5.0,5,7,0,Ángela,0.0,35,0
+3,17,"Talk dirty, de Jason Derülo",Xuso Jones,7,8.0,8,8,0,Santi,0.0,31,0
+3,17,"Fuck You!, de Cee Lo Green",Florentino Fernández,6,7.0,7,6,0,Edurne,0.0,26,0
+3,17,"Flashdance... What a Feeling, de Irene Cara",Llum Barrera,5,6.0,6,5,0,Santi,0.0,22,0
+3,17,"Luna de miel, de Paloma San Basilio",Ángela Carrasco,4,4.0,4,4,0,Los Chunguitos,0.0,21,0
+3,18,"Señora, de Rocío Jurado",Melody,12,12.0,10,12,0,Los Chunguitos,0.0,56,0
+3,18,"With a little help from my friends, de Joe Cocker con Las Supremas de Móstoles como coristas",Florentino Fernández,11,11.0,12,11,0,Melody,0.0,50,0
+3,18,"Como el agua, de Camarón de la Isla y Paco de Lucía",Los Chunguitos,8,8.0,9,8,0,Melody,0.0,48,0
+3,18,"I Don't Want to Miss a Thing, de Steven Tyler (Aerosmith)",Xuso Jones,9,10.0,11,10,0,Florentino,0.0,40,0
+3,18,"Hopelessly devoted to you, de Olivia Newton-John (Grease)",Llum Barrera,7,7.0,7,9,0,José Manuel,0.0,35,0
+3,18,"Mucho mejor, de Andrés Calamaro (Los Rodríguez)",Santi Rodríguez,10,9.0,6,7,0,Llum,0.0,32,0
+3,18,"La minifalda y Mujeres y vino, de Manolo Escobar",José Manuel Soto,6,6.0,8,5,0,Los Chunguitos,0.0,30,0
+3,18,"Me voy, de Julieta Venegas",Ángela Carrasco,5,5.0,5,6,0,Los Chunguitos,0.0,21,0
+4,1,"The Edge of Glory, de Lady Gaga",Ruth Lorenzo,11,11.0,12,10,12,Pablo,24.0,44 (12),0
+4,1,"Sugar, de Adam Levine (Maroon 5)",Pablo Puyol,12,10.0,10,9,10,Edu,21.0,44 (11),0
+4,1,"Al son del tambor, de Rosario Flores",Edu Soto,10,5.0,6,11,11,Falete,19.0,35 (8),0
+4,1,"¡Qué dolor!, de Raffaella Carrà",Silvia Abril,9,6.0,11,12,8,El Sevilla,18.0,41 (10),0
+4,1,"Where Are Ü Now, de Justin Bieber",Adrián Rodríguez,7,12.0,8,7,9,El Sevilla,16.0,34 (7),0
+4,1,"Te amo, de Umberto Tozzi",Falete,8,9.0,9,8,7,Ana,16.0,37 (9),0
+4,1,"Sólo le pido a Dios, de Ana Belén",Vicky Larraz,6,8.0,7,6,6,Silvia,11.0,27 (5),0
+4,1,"Walking on Sunshine, de Katrina Leskanich (Katrina & The Waves)",Ana Morgade,5,7.0,5,5,5,El Sevilla,11.0,28 (6),0
+4,1,"Venezia, de David Summers (Hombres G)",El Sevilla,4,4.0,4,4,4,Ana,8.0,25 (4),0
+4,2,"Algo de mí, de Camilo Sesto",Edu Soto,10,12.0,8,11,12,Pablo,24.0,44 (12),0
+4,2,"Barcelona, de Freddie Mercury y Montserrat Caballé (Dos en uno)[18]​",Ruth Lorenzo,9,9.0,11,9,11,Pablo,22.0,44 (11),0
+4,2,"I'm Outta Love, de Anastacia",Pablo Puyol,8,10.0,6,10,10,Ruth,19.0,40 (9),0
+4,2,"Amor eterno, de Juan Gabriel",Falete,12,11.0,12,8,9,El Sevilla,19.0,43 (10),0
+4,2,"Ángel malherido, de El Barrio",Adrián Rodríguez,11,8.0,7,12,8,Edu,16.0,38 (8),0
+4,2,"Dark Horse, de Katy Perry",Vicky Larraz,7,7.0,10,6,6,Ana,12.0,30 (6),0
+4,2,"Pégate, de Ylenia",Silvia Abril,4,4.0,4,5,7,El Sevilla,11.0,20 (4),0
+4,2,"La isla bonita, de Madonna",Ana Morgade,6,6.0,9,7,4,Ruth,11.0,31 (7),0
+4,2,"Quiero ser como tú, de El Rey Mono (El Libro de la Selva)",El Sevilla,5,5.0,5,4,5,Silvia,10.0,25 (5),0
+4,3,"Con dos camas vacías, de María Jiménez (Reto)[19]​",Falete,12,12.0,12,12,12,Ruth,24.0,51 (12),0
+4,3,"El perdón, de Nicky Jam",Adrián Rodríguez,11,11.0,10,10,11,Pablo,22.0,42 (11),0
+4,3,"Entre dos tierras, de Enrique Bunbury (Héroes del Silencio)",Pablo Puyol,10,10.0,7,9,10,Silvia,20.0,39 (10),0
+4,3,"Porque te vas, de Jeanette",El Sevilla,5,7.0,11,11,9,Ana,17.0,34 (8),0
+4,3,"Losing My Religion, de Michael Stipe (R.E.M.)",Edu Soto,7,6.0,6,7,8,Ana,13.0,29 (5),0
+4,3,"All Around the World, de Lisa Stansfield",Vicky Larraz,9,9.0,5,8,6,Ruth,13.0,34 (7),0
+4,3,"Shake It Off, de Taylor Swift",Ana Morgade,6,8.0,9,6,4,Vicky,13.0,35 (9),0
+4,3,"No One, de Sor Cristina",Silvia Abril,4,5.0,4,4,7,Edu,11.0,20 (4),0
+4,3,"Se me olvidó otra vez, de María Jiménez",Ruth Lorenzo,8,4.0,8,5,5,Falete,11.0,31 (6),0
+4,4,"Part-Time Lover, de Stevie Wonder",Pablo Puyol,11,12.0,10,11,12,Vicky,23.0,44 (11),0
+4,4,"Nothing Compares 2 U, de Sinéad O'Connor",Ruth Lorenzo,12,10.0,11,10,11,Vicky,21.0,43 (10),0
+4,4,"Mi nuevo vicio, de Paulina Rubio",Adrián Rodríguez,4,8.0,12,7,10,Vicky,19.0,34 (9),0
+4,4,"Thinking Out Loud, de Ed Sheeran",Vicky Larraz,10,11.0,7,12,5,Adrián,17.0,55 (12),0
+4,4,"Y nos dieron las diez, de Joaquín Sabina",El Sevilla,7,5.0,8,6,9,Vicky,15.0,29 (6),0
+4,4,"Disparé, de Mai Meneses (Nena Daconte)",Ana Morgade,9,9.0,4,9,7,Silvia,15.0,31 (8),0
+4,4,"Don Diablo, de Miguel Bosé",Silvia Abril,6,7.0,5,8,8,Edu,13.0,29 (5),0
+4,4,"Mammy blue, de José Mercé",Edu Soto,8,6.0,9,5,6,El Sevilla,13.0,31 (7),0
+4,4,"Historias de amor, de Jordi Sánchez (OBK)",Falete,5,4.0,6,4,4,Vicky,8.0,19 (4),0
+4,5,"Proud Mary, de Tina Turner",Ruth Lorenzo,12,12.0,12,12,12,Adrián,24.0,51 (12),0
+4,5,"Qué será, será (Whatever Will Be, Will Be), de Doris Day (El hombre que sabía demasiado)",Silvia Abril,11,4.0,9,10,11,Adrián,20.0,37 (9),0
+4,5,"Heart of glass, de Deborah Harry (Blondie)",Ana Morgade,10,9.0,11,8,9,Edu,20.0,41 (11),0
+4,5,"América, de Nino Bravo",Adrián Rodríguez,5,5.0,4,9,10,Ruth,18.0,35 (8),0
+4,5,"Demasiado corazón, de Willy DeVille",Edu Soto,8,8.0,8,11,8,Adrián,18.0,38 (10),0
+4,5,"La mordidita, de Ricky Martin",Pablo Puyol,9,10.0,10,5,5,Adrián,12.0,34 (7),0
+4,5,"Remolino, de Pancho Céspedes",Falete,4,6.0,7,6,7,Ana,11.0,23 (4),0
+4,5,"Baila morena, de Zucchero",El Sevilla,7,7.0,6,4,6,Silvia,11.0,27 (5),0
+4,5,"Tómame o déjame, de Amaya Uranga (Mocedades)",Vicky Larraz,6,11.0,5,7,4,El Sevilla,10.0,29 (6),0
+4,6,"Angelitos negros, de Antonio Machín",Edu Soto,12,12.0,10,9,12,Sevilla,24.0,49 (12),0
+4,6,"Loca, de Malena Gracia (Sorpresa, Sorpresa)",Ana Morgade,9,10.0,12,12,10,Falete,21.0,46 (11),0
+4,6,"Highway to Hell, de Brian Johnson (AC/DC)",El Sevilla,5,9.0,8,11,11,Ana,20.0,36 (9),0
+4,6,"Es mi hombre, de Sara Montiel",Falete,11,11.0,11,10,9,Ruth,19.0,46 (10),0
+4,6,"Cheerleader, de OMI",Adrián Rodríguez,10,8.0,7,7,7,Edu,15.0,32 (8),0
+4,6,"Toda la noche en la calle, de Eva Amaral (Amaral)",Ruth Lorenzo,7,7.0,6,6,8,Silvia,14.0,29 (6),0
+4,6,"Don't Go Breaking My Heart, de Elton John y RuPaul (Dos en uno)[18]​",Pablo Puyol,8,5.0,9,8,5,Silvia,12.0,30 (7),0
+4,6,"Womanizer, de Britney Spears",Silvia Abril,4,4.0,4,4,6,Vicky,10.0,22 (4),0
+4,6,"Voyage voyage, de Desireless",Vicky Larraz,6,6.0,5,5,4,Edu,9.0,25 (5),0
+4,7,"Abuelito dime tú, de Heidi (Heidi)",Silvia Abril,9,12.0,7,10,12,Vicky,24.0,53 (12),0
+4,7,"Personal Jesus, de Marilyn Manson",Ruth Lorenzo,10,9.0,11,11,11,Silvia,21.0,41 (10),0
+4,7,"Propuesta indecente, de Romeo Santos",Adrián Rodríguez,12,10.0,12,8,10,Vicky,21.0,45 (11),0
+4,7,"El jardín prohibido, de Sandro Giacobbe",Pablo Puyol,11,8.0,9,12,9,Silvia,18.0,40 (9),0
+4,7,"Black Is Black, de Mike Kennedy (Los Bravos)",Edu Soto,8,11.0,10,7,8,Silvia,16.0,36 (8),0
+4,7,"La gozadera, de Alexander Delgado Hernández (Gente de Zona) con Xuso Jones como Marc Anthony (Trae un amigo)",El Sevilla,7,6.0,5,9,6,Silvia,12.0,27 (6),0
+4,7,"If I Could Turn Back Time, de Cher",Vicky Larraz,4,4.0,8,6,5,Adrián,12.0,31 (7),0
+4,7,"Saturday Night , de Whigfield",Ana Morgade,5,5.0,6,4,7,Silvia,11.0,20 (4),0
+4,7,"Lobo hombre en París, de Rafa Sánchez (La Unión)",Falete,6,7.0,4,5,4,Vicky,9.0,22 (5),0
+4,8,"Uptown Funk, de Bruno Mars",Pablo Puyol,8,12.0,10,12,12,Ruth,24.0,48 (12),0
+4,8,"All by Myself, de Céline Dion",Ruth Lorenzo,11,11.0,12,10,11,Pablo,22.0,47 (11),0
+4,8,"Cero, de Dani Martín",Adrián Rodríguez,12,7.0,8,8,10,El Sevilla,18.0,41 (8),0
+4,8,"Sway, de Michael Bublé",Edu Soto,9,10.0,11,11,8,Adrián,18.0,44 (10),0
+4,8,"Hawaii-Bombay, de Ana Torroja (Mecano)",Silvia Abril,7,6.0,7,5,9,El Sevilla,16.0,25 (7),0
+4,8,"Comando G, de Tino Fernández ""Ficha Roja"" (Parchís) (Comando G)",El Sevilla,10,9.0,9,9,5,Pablo,14.0,43 (9),0
+4,8,"Salta, de Alejo Stivel (Tequila)",Ana Morgade,4,8.0,5,7,7,Falete,13.0,24 (6),0
+4,8,"El mismo sol, de Jennifer Lopez y Álvaro Soler (Original y Copia)",Vicky Larraz[20]​,6,5.0,4,6,6,Edu,10.0,21 (4),0
+4,8,"I Am What I Am, de Gloria Gaynor",Falete,5,4.0,6,4,4,Adrián,9.0,22 (5),0
+4,9,"Noche de bodas, de Chavela Vargas",El Sevilla,12,12.0,12,12,12,Adrián,24.0,69 (12),0
+4,9,"Back to black, de Amy Winehouse",Ruth Lorenzo,9,10.0,10,10,11,El Sevilla,21.0,39 (10),0
+4,9,"Smooth criminal , de Michael Jackson",Edu Soto,10,11.0,11,11,10,El Sevilla,21.0,46 (11),0
+4,9,"Livin' on a Prayer, de Jon Bon Jovi (Bon Jovi)",Pablo Puyol,11,8.0,9,9,9,El Sevilla,18.0,37 (9),0
+4,9,"Supernatural, de Marta Sánchez (Olé Olé)",Ana Morgade,7,7.0,5,8,8,El Sevilla,15.0,27 (7),0
+4,9,"You Can't Hurry Love, de Diana Ross & The Supremes",Vicky Larraz,8,9.0,8,5,7,El Sevilla,15.0,30 (8),0
+4,9,"Humanos a Marte, de Chayanne",Adrián Rodríguez,6,6.0,6,6,6,Edu,12.0,27 (6),0
+4,9,"El baúl de los recuerdos, de Karina",Silvia Abril,4,4.0,4,4,5,El Sevilla,9.0,16 (4),0
+4,9,"La vie en rose, de Édith Piaf",Falete,5,5.0,7,7,4,El Sevilla,9.0,24 (5),0
+4,10,"Why don't you do right?, de Jessica Rabbit (¿Quién engañó a Roger Rabbit?)",Ruth Lorenzo,11,9.0,10,11,11,Pablo,22.0,41 (11),0
+4,10,"Tonight (I'm Lovin' You), de Enrique Iglesias",Adrián Rodríguez,12,12.0,12,12,10,Silvia,22.0,54 (12),0
+4,10,"Caruso, de Andrea Bocelli",Pablo Puyol,9,7.0,8,9,12,Silvia,20.0,36 (8),0
+4,10,"Hard Rock Hallelujah, de Tomi Putaansuu (Mr Lordi) (Lordi)",El Sevilla,10,11.0,9,8,9,Adrián,18.0,38 (9),0
+4,10,"La vida es un carnaval, de Celia Cruz",Silvia Abril,4,4.0,11,6,8,Adrián,18.0,40 (10),0
+4,10,"Francisco Alegre, de Isabel Pantoja",Falete,8,10.0,7,10,6,Edu,13.0,35 (7),0
+4,10,"Vente pa' Madrid, de Antonio Carmona (Ketama)",Edu Soto,7,6.0,4,5,7,Silvia,12.0,25 (5),0
+4,10,"Ven, devórame otra vez, de Toñi Salazar con Anna Simon como Encarna Salazar (Azúcar Moreno) (Trae un amigo)",Ana Morgade,6,8.0,6,7,5,Silvia,11.0,27 (6),0
+4,10,"Gold, de Tony Hadley (Spandau Ballet)",Vicky Larraz,5,5.0,5,4,4,Silvia,8.0,19 (4),0
+4,11,"Yo soy aquel, de Raphael",Edu Soto,11,9.0,11,8,12,Falete,22.0,39 (10),0
+4,11,"Solamente tú, de Pablo Alborán",Adrián Rodríguez,12,11.0,10,12,11,Ana,22.0,51 (11),0
+4,11,"Anaconda, de Nicki Minaj",Ana Morgade,10,12.0,12,11,10,Adrián,22.0,63 (12),0
+4,11,"La mañana, de Al Bano",Falete,8,8.0,9,9,8,Ana,17.0,37 (9),0
+4,11,"Want to Want Me, de Jason Derulo",Pablo Puyol,7,7.0,7,7,9,Ana,16.0,28 (7),0
+4,11,"Un ramito de violetas, de Cecilia",Vicky Larraz,9,10.0,6,10,7,Ana,15.0,35 (8),0
+4,11,"Tutti frutti, de Little Richard",El Sevilla,4,5.0,4,5,6,Ana,10.0,18 (4),0
+4,11,"El beso, de Paquita Rico",Silvia Abril,5,4.0,5,6,5,Ana,10.0,20 (5),0
+4,11,"Conga, de Gloria Estefan (Miami Sound Machine)",Ruth Lorenzo,6,6.0,8,4,4,Adrián,10.0,24 (6),0
+4,12,"Bang Bang (My Baby Shot Me Down), de Nancy Sinatra",Ana Morgade,10,10.0,6,10,10,Vicky,20.0,39 (10),0
+4,12,"Light my fire, de Jim Morrison (The Doors)",Edu Soto,11,11.0,7,11,9,Pablo,20.0,43 (11),0
+4,12,"Soy lo prohibido, de Olga Guillot",Falete,12,12.0,11,12,8,Vicky,20.0,50 (12),0
+4,12,"Rise Like a Phoenix, de Conchita Wurst",Ruth Lorenzo,8,8.0,9,9,12,Ana,19.0,34 (7),0
+4,12,"Basket Case, de Billie Joe Armstrong (Green Day)",Adrián Rodríguez,9,9.0,8,6,11,Sevilla,19.0,35 (8),0
+4,12,"Pastillas para dormir, de David Muñoz (Estopa) (Training VIP)",El Sevilla,7,6.0,10,5,7,Falete,13.0,31 (6),0
+4,12,"Lips Are Movin, de Meghan Trainor",Vicky Larraz,6,7.0,12,8,4,Adrián,13.0,39 (9),0
+4,12,"Eres, de Massiel",Silvia Abril,5,5.0,5,7,6,Pablo,11.0,22 (5),0
+4,12,"Insurrección, de Manolo García (El Último de la Fila)",Pablo Puyol,4,4.0,4,4,5,Edu,9.0,22 (4),0
+4,13,"Suspicious Minds, de Elvis Presley",Adrián Rodríguez,11,12.0,8,10,11,Vicky,22.0,50 (11),0
+4,13,"La fiesta terminó, de Paloma San Basilio (Training VIP)",Vicky Larraz,12,10.0,10,12,9,Adrián,21.0,62 (12),0
+4,13,"All of Me, de John Legend",Pablo Puyol,8,8.0,11,7,12,Vicky,20.0,34 (8),0
+4,13,"Shake It Out, de Florence Welch (Florence & The Machine)",Ruth Lorenzo,10,11.0,9,11,10,Vicky,20.0,41 (10),0
+4,13,"Tomasa, de Lolita Flores",Falete,7,9.0,12,6,8,Vicky,17.0,34 (9),0
+4,13,"Nel blu dipinto di blu (Volare), de Domenico Modugno",Edu Soto,9,7.0,7,8,7,Adrián,14.0,31 (7),0
+4,13,"Voy en un coche, de Christina Rosenvinge (Christina y Los Subterráneos)",Ana Morgade,4,4.0,5,9,6,Adrián,12.0,22 (6),0
+4,13,"Pa' mi guerrera, de Huecco",El Sevilla,6,5.0,4,5,5,Vicky,9.0,20 (4),0
+4,13,"It's Raining Men, de Geri Halliwell",Silvia Abril,5,6.0,6,4,4,Vicky,9.0,21 (5),0
+4,14,"Heroes, de Måns Zelmerlöw",Pablo Puyol,11,12.0,11,11,12,Ana,23.0,51 (11),0
+4,14,"The Lady Is a Tramp, de Lady Gaga con Andreu Buenafuente como Tony Bennet (Trae un amigo)",Silvia Abril,12,11.0,12,12,11,Sevilla,23.0,53 (12),0
+4,14,"Los piconeros, de Penélope Cruz (La niña de tus ojos)",Ana Morgade,8,7.0,10,6,10,Silvia,20.0,40 (10),0
+4,14,"All I Want for Christmas Is You, de Mariah Carey",Ruth Lorenzo,10,10.0,4,5,8,Ana,17.0,32 (9),0
+4,14,"Clocks, de Chris Martin (Coldplay)",Edu Soto,9,5.0,7,10,9,Silvia,16.0,31 (7),0
+4,14,"Me muero, de Natalia Jiménez (La 5ª Estación)",Falete,4,9.0,9,9,6,Ana,14.0,31 (8),0
+4,14,"Otro día más sin verte, de Jon Secada",Adrián Rodríguez,7,8.0,8,7,7,Pablo,13.0,30 (6),0
+4,14,"La gallina Cocoguagua, de Ana Anguita (Enrique y Ana) (Sorpresa, Sorpresa)",El Sevilla,5,6.0,6,4,5,Pablo,10.0,24 (5),0
+4,14,"Physical,de Olivia Newton-John",Vicky Larraz,6,4.0,5,8,4,Ruth,8.0,23 (4),0
+4,15,"Glitter in the Air, de P!nk",Ruth Lorenzo,11,11.0,12,12,11,,22,46 (11),0
+4,15,"Por debajo de la mesa, de Luis Miguel",Pablo Puyol,8,8.0,10,9,10,,19,35 (9),0
+4,15,"Just a Girl, de Gwen Stefani (No Doubt)",Ana Morgade,10,9.0,8,10,8,,18,37 (10),0
+4,15,"Torbellino de colores, de Lola Flores",Falete,12,12.0,11,11,6,,18,46 (12),0
+4,15,"Start Me Up, de Mick Jagger (The Rolling Stones)",Edu Soto,9,5.0,5,4,12,,17,23 (5),0
+4,15,"Mamá, quiero ser artista, de Concha Velasco",Silvia Abril,6,10.0,7,8,9,,17,31 (8),0
+4,15,"Can't Feel My Face, de The Weeknd",Adrián Rodríguez,7,6.0,6,5,7,,13,24 (6),0
+4,15,"Feo, fuerte y formal, de Loquillo (Loquillo y Trogloditas)",El Sevilla,5,7.0,9,6,5,,12,27 (7),0
+4,15,"It Must Have Been Love, de Marie Fredriksson (Roxette)",Vicky Larraz,4,4.0,4,7,4,,8,19 (4),0
+4,16,"Unchained Melody, de Bobby Hatfield (The Righteous Brothers)",Edu Soto,10,12.0,12,10,12,,24,44 (12),0
+4,16,"Don't Cry, de Axl Rose (Guns N' Roses)",Pablo Puyol,12,11.0,11,8,11,,21,42 (10),0
+4,16,"Downtown, de Petula Clark",Ana Morgade,8,8.0,8,9,10,,19,33 (9),0
+4,16,"'O sole mio, de Luciano Pavarotti",Falete,11,10.0,10,11,8,,19,42 (11),0
+4,16,"Dramas y comedias, de Alaska (Fangoria)",Silvia Abril,7,6.0,7,12,9,,16,32 (7),0
+4,16,"La nueva y la ex, de Daddy Yankee",Adrián Rodríguez,9,9.0,9,6,7,,15,33 (8),0
+4,16,"Corazón de neón, de Javier Gurruchaga (Orquesta Mondragón)",El Sevilla,6,7.0,6,7,6,,12,26 (6),0
+4,16,"Hello, de Adele",Vicky Larraz,5,5.0,5,5,5,,10,20 (5),0
+5,1,"I'll Be There y Who's Lovin' You, de Michael Jackson (The Jackson 5)",Beatriz Luengo,10,11.0,12,12,12,,24.0,45 (12),0
+5,1,"Next to Me, de Emeli Sandé",Rosa López,7,9.0,11,7,11,,19.0,34 (8),0
+5,1,"Como yo te amo, de Raphael",Blas Cantó,8,7.0,10,10,10,,19.0,35 (9),0
+5,1,"Tengo miedo, de Marifé de Triana",Lorena Gómez,11,10.0,9,11,9,,19.0,41 (10),0
+5,1,"Unchain My Heart, de Joe Cocker",Juan Muñoz,12,12.0,8,9,8,,19.0,41 (11),0
+5,1,"Limón y sal, de Julieta Venegas",Esther Arroyo,9,8.0,7,8,7,,14.0,32 (7),0
+5,1,"Mediterráneo, de Carlos Segarra (Los Rebeldes)",Canco Rodríguez,6,6.0,6,6,6,,12.0,24 (6),0
+5,1,"Picky, de Joey Montana",David Guapo,4,4.0,4,5,5,,9.0,17 (4),0
+5,1,"El ritmo de la noche, de María Chica Sánchez (Mystic)",Yolanda Ramos,5,5.0,5,4,4,,9.0,24 (5),0
+5,2,"Sax, de Fleur East",Lorena Gómez,12,12.0,12,11,12,,24.0,47 (12),0
+5,2,"Venecia sin ti, de Dyango (Training VIP)",Juan Muñoz,11,11.0,11,12,11,,22.0,45 (11),0
+5,2,"Greased Lightning , de John Travolta (Grease)",Blas Cantó,10,10.0,10,10,10,,20.0,40 (10),0
+5,2,"La vie en rose, de Grace Jones",Esther Arroyo,8,8.0,8,8,9,,17.0,32 (8),0
+5,2,"I'm a Slave 4 U, de Britney Spears",Beatriz Luengo,9,9.0,9,9,8,,17.0,36 (9),0
+5,2,"Corazón contento, de Marisol",Rosa López,6,7.0,7,7,7,,14.0,27 (7),0
+5,2,"Soy lo que me das, de Chenoa",Canco Rodríguez,7,6.0,6,6,6,,12.0,25 (6),0
+5,2,"Hymn for the Weekend, de Chris Martin (Coldplay)",David Guapo,4,5.0,4,4,5,,9.0,17 (4),0
+5,2,"Un pueblo es, María Ostiz",Yolanda Ramos,5,4.0,5,5,4,,9.0,19 (5),0
+5,3,"Can't Stop the Feeling!, de Justin Timberlake",Blas Cantó,12,12.0,11,11,12,,24.0,46 (12),0
+5,3,"La casa por el tejado, de Fito Cabrales (Fito y los Fitipaldis)",Juan Muñoz,10,10.0,8,9,11,,21.0,37 (10),0
+5,3,"No, de Meghan Trainor",Rosa López,11,11.0,10,12,9,,20.0,44 (11),0
+5,3,"Always , de Jon Bon Jovi (Bon Jovi)",Lorena Gómez,9,7.0,7,8,8,,17.0,31 (9),0
+5,3,"Diles, de Malú",Beatriz Luengo,7,8.0,9,6,10,,16.0,30 (6),0
+5,3,"Pippi Calzaslargas, de Pippi Långstrump (Pipi Calzaslargas)",Yolanda Ramos,4,4.0,12,10,7,,15.0,30 (8),0
+5,3,"Don't get me wrong, de Chrissie Hynde (The Pretenders)",Esther Arroyo,8,9.0,6,7,6,,13.0,30 (7),0
+5,3,"Juanita Banana, de Luis Aguilé",Canco Rodríguez,5,6.0,5,5,5,,10.0,21 (5),0
+5,3,"Cómo te atreves, de Juan Pablo Isaza (Morat) (Original y copia)",David Guapo,6,5.0,4,4,4,,8.0,19 (4),0
+5,4,"Sola, de Diana Navarro (Training VIP)",Blas Cantó,12,12.0,12,12,12,,24.0,48 (12),0
+5,4,"GoldenEye, de Tina Turner",Rosa López,6,11.0,10,6,10,,20.0,33 (10),0
+5,4,"Just a Gigolo y I Ain't Got Nobody, de Louis Prima",Juan Muñoz,11,10.0,11,8,9,,20.0,40 (11),0
+5,4,"If I Ain't Got You , de Alicia Keys con Las Supremas de Móstoles como coristas",Beatriz Luengo,8,7.0,9,7,11,,19.0,31 (8),0
+5,4,"La salchipapa, de Leticia Sabater",Yolanda Ramos,10,6.0,7,10,7,,16.0,33 (9),0
+5,4,"La chica de ayer, de Antonio Vega (Nacha Pop)",Canco Rodríguez,5,9.0,5,11,8,,15.0,30 (7),0
+5,4,"Ven sin temor, de Bruno Lomas con Las Supremas de Móstoles como coristas",David Guapo,7,8.0,6,9,6,,12.0,30 (6),0
+5,4,"Domino , de Jessie J",Lorena Gómez,9,5.0,8,5,5,,10.0,27 (5),0
+5,4,"Perfect, de Eddi Reader (Fairground Attraction)",Esther Arroyo,4,4.0,4,4,4,,8.0,16 (4),0
+5,5,"90 minutos, de India Martínez (Training VIP)",Lorena Gómez,12,12.0,12,12,12,,24.0,48 (12),0
+5,5,"Stay With Me, de Sam Smith",Blas Cantó,9,10.0,10,6,10,,20.0,35 (10),0
+5,5,"All That Jazz, de Catherine Zeta-Jones (Chicago)",Beatriz Luengo,11,11.0,11,9,9,,20.0,42 (11),0
+5,5,"Frozen, de Madonna",Rosa López,5,5.0,7,8,11,,17.0,25 (6),0
+5,5,"Pon una cinta en el viejo roble, de Helena Bianco (Los Mismos)",Esther Arroyo,8,8.0,9,10,8,,17.0,35 (9),0
+5,5,"Adiós, papá, de Coque Malla (Los Ronaldos)",David Guapo,10,9.0,8,7,7,,15.0,34 (8),0
+5,5,"Hola, mi amor, de Junco",Yolanda Ramos,7,6.0,5,11,4,,11.0,29 (7),0
+5,5,"It's A Heartache, de Bonnie Tyler",Juan Muñoz,6,4.0,4,4,6,,10.0,18 (4),0
+5,5,"Come As You Are, de Kurt Cobain (Nirvana)",Canco Rodríguez,4,7.0,6,5,5,,10.0,22 (5),0
+5,6,"Friday I'm in Love, de Robert Smith (The Cure)",Canco Rodríguez,12,12.0,12,12,10,,22.0,48 (12),0
+5,6,"Livin' la vida loca, de Ricky Martin",Blas Cantó,9,10.0,10,9,12,,22.0,38 (10),0
+5,6,"Marinero de luces, de Isabel Pantoja",Beatriz Luengo,8,9.0,9,11,11,,20.0,37 (9),0
+5,6,"Amor a la mexicana, de Thalía",Rosa López,11,11.0,11,10,9,,20.0,43 (11),0
+5,6,"La bicicleta, de Shakira con Xuso Jones como Carlos Vives (Trae un amigo)",Lorena Gómez,10,8.0,7,6,8,,16.0,31 (8),0
+5,6,"Angie, de Mick Jagger (The Rolling Stones)",Esther Arroyo,6,6.0,6,8,7,,14.0,26 (7),0
+5,6,"Big Spender, de Norma Duval",Yolanda Ramos,5,7.0,8,5,6,,12.0,25 (6),0
+5,6,"Walk of Life, de Mark Knopfler (Dire Straits)",David Guapo,7,5.0,5,7,5,,10.0,24 (5),0
+5,6,"El muerto vivo, de Peret",Juan Muñoz,4,4.0,4,4,4,,8.0,16 (4),0
+5,7,"Crazy, de Patsy Cline",Esther Arroyo,9,11.0,10,11,12,,23.0,41 (11),0
+5,7,"Qué voy a hacer con mi amor, de Alejandro Fernández",Blas Cantó,11,9.0,11,10,11,,21.0,41 (10),0
+5,7,"Cheap Thrills, de Sia",Beatriz Luengo,12,12.0,12,12,9,,21.0,48 (12),0
+5,7,"El progreso, de Roberto Carlos",Juan Muñoz,10,10.0,9,9,10,,19.0,38 (9),0
+5,7,"When We Were Young, de Adele",Lorena Gómez,7,7.0,7,6,8,,14.0,27 (6),0
+5,7,"Trololo, de  Eduard Khill",Canco Rodríguez,8,8.0,5,7,7,,14.0,28 (7),0
+5,7,"Maman, maman, de Jean Jacques",Yolanda Ramos,6,6.0,8,8,5,,13.0,28 (8),0
+5,7,"Dancing Queen, de Anni-Frid Lyngstad con Verónica Romero como Agnetha Fältskog (ABBA) (Trae un amigo)",Rosa López,5,4.0,6,4,6,,11.0,19 (5),0
+5,7,"Duro de pelar, de Rebeca",David Guapo,4,5.0,4,5,4,,8.0,18 (4),0
+5,8,"Believe, de Cher",Blas Cantó,12,11.0,10,12,12,,24.0,45 (12),0
+5,8,"Bad Girls, de Donna Summer con Las Supremas de Móstoles como coristas",Rosa López,8,8.0,8,8,11,,19.0,32 (8),0
+5,8,"Fue un placer conocerte, de Rocío Dúrcal",Lorena Gómez,11,10.0,11,11,9,,19.0,43 (10),0
+5,8,"Memory, de Barbra Streisand",Beatriz Luengo,9,7.0,7,6,10,,17.0,29 (7),0
+5,8,"Poupée de cire, poupée de son, de France Gall",Esther Arroyo,7,9.0,9,9,7,,16.0,34 (9),0
+5,8,"Pa Madrid, de El Barrio",Juan Muñoz,10,12.0,12,10,4,,15.0,44 (11),0
+5,8,"Duele el corazón, de Enrique Iglesias",David Guapo,5,5.0,6,5,8,,13.0,21 (5),0
+5,8,"Madre Tierra, de Chayanne",Canco Rodríguez,6,6.0,5,7,5,,11.0,24 (6),0
+5,8,"Piece of my heart, de Janis Joplin con Las Supremas de Móstoles como coristas",Yolanda Ramos,4,4.0,4,4,6,,10.0,16 (4),0
+5,9,"Devuélveme la vida, de Antonio Orozco",Canco Rodríguez,12,10.0,10,12,12,,24.0,44 (12),0
+5,9,"Feeling Good, de Michael Bublé",Blas Cantó,10,11.0,9,11,11,,22.0,41 (11),0
+5,9,"New York, New York, de Liza Minnelli con Pablo Puyol como Frank Sinatra (Trae un amigo)",Beatriz Luengo,9,12.0,8,10,10,,19.0,39 (9),0
+5,9,"Me duele la cara de ser tan guapo, de Alfonso Aguado (Los Inhumanos)",David Guapo,11,8.0,12,8,8,,18.0,39 (10),0
+5,9,"Te quiero, te quiero, de Carmen Sevilla",Rosa López,7,9.0,11,9,9,,17.0,36 (8),0
+5,9,"Stronger (What Doesn't Kill You), de Kelly Clarkson",Lorena Gómez,8,7.0,7,7,6,,13.0,29 (7),0
+5,9,"Smooth Operator, de Sade Adu (Sade)",Esther Arroyo,6,5.0,5,6,7,,12.0,22 (5),0
+5,9,"In the summertime, de Ray Dorset (Mungo Jerry)",Juan Muñoz,5,6.0,6,5,5,,11.0,22 (6),0
+5,9,"Fever, de Peggy Lee",Yolanda Ramos,4,4.0,4,4,4,,8.0,16 (4),0
+5,10,"S.O.S, de Falete (Training VIP)",Blas Cantó,12,12.0,12,12,12,,24.0,48 (12),0
+5,10,"Cuando nadie me ve, de Niña Pastori",Lorena Gómez,10,11.0,10,11,11,,21.0,42 (10),0
+5,10,"Focus, de Ariana Grande",Beatriz Luengo,11,10.0,11,10,10,,21.0,42 (11),0
+5,10,"Stars, de Mick Hucknall (Simply Red)",Rosa López,8,6.0,9,7,9,,17.0,30 (8),0
+5,10,"Singin' in the Rain, de Gene Kelly (Cantando bajo la lluvia)",Canco Rodríguez,9,9.0,7,9,8,,17.0,34 (9),0
+5,10,"A puro dolor, de Ángel López (Son by Four)",David Guapo,5,5.0,6,8,7,,13.0,24 (6),0
+5,10,"Échale guindas al pavo, de Rosa Morena",Esther Arroyo,7,8.0,8,6,5,,12.0,29 (7),0
+5,10,"Soy un gnomo, de David el gnomo (David el Gnomo)",Yolanda Ramos,4,4.0,4,4,6,,10.0,16 (4),0
+5,10,"Tren de largo recorrido, de Rafa Sánchez (La Unión)",Juan Muñoz,6,7.0,5,5,4,,9.0,23 (5),0
+5,11,"Sin saber por qué, de Vanesa Martín (Training VIP)",Rosa López,11,10.0,12,11,12,,24.0,44 (12),0
+5,11,"La Bohème, de Charles Aznavour",Blas Cantó,9,11.0,11,12,11,,22.0,43 (11),0
+5,11,"Un-Break My Heart, de Toni Braxton",Beatriz Luengo,8,12.0,10,8,10,,20.0,38 (10),0
+5,11,"Bette Davis Eyes, de Kim Carnes",Esther Arroyo,6,7.0,8,6,9,,15.0,27 (6),0
+5,11,"Lucía, de David Bisbal",Lorena Gómez,7,9.0,9,7,8,,15.0,32 (7),0
+5,11,"Cuando zarpa el amor, de Dionisio Martín con Carlos Marco como Ángeles Muñoz (Camela) (Trae un amigo)",Yolanda Ramos,12,6.0,6,9,7,,15.0,33 (8),0
+5,11,"I'm Yours, de Jason Mraz",David Guapo,10,8.0,7,10,5,,14.0,35 (9),0
+5,11,"Banana Boat Song, de Harry Belafonte",Juan Muñoz,5,5.0,5,5,6,,11.0,20 (5),0
+5,11,"Me enamora, de Juanes",Canco Rodríguez,4,4.0,4,4,4,,8.0,16 (4),0
+5,12,"Get Lucky, de Pharrell Williams y Daft Punk",Canco Rodríguez,6,10.0,10,10,12,,22.0,36 (10),0
+5,12,"No me importa nada, de Luz Casal",Rosa López,12,12.0,12,11,10,,22.0,47 (12),0
+5,12,"Purple Rain, de Prince con Roko como Beyoncé (Trae un amigo)",Blas Cantó,11,8.0,11,6,11,,20.0,36 (9),0
+5,12,"One Moment in Time, de Whitney Houston",Lorena Gómez,8,11.0,9,12,9,,20.0,40 (11),0
+5,12,Contigo en la distancia de Christina Aguilera,Beatriz Luengo,7,7.0,8,9,8,,15.0,31 (7),0
+5,12,"Arriba los corazones, de Antonio Flores",Juan Muñoz,10,9.0,6,7,6,,14.0,32 (8),0
+5,12,"Do You Really Want to Hurt Me, de Boy George (Culture Club)",Esther Arroyo,9,6.0,7,8,7,,13.0,30 (6),0
+5,12,"¿Quién maneja mi barca?, de Remedios Amaya",Yolanda Ramos,4,4.0,4,5,5,,9.0,17 (4),0
+5,12,"Sofía, de Álvaro Soler (Original y Copia)",David Guapo,5,5.0,5,4,4,,9.0,19 (5),0
+5,13,"Work, de Rihanna con Yotuel como Drake (Trae un amigo)",Beatriz Luengo,11,11.0,11,9,11,,22.0,42 (11),0
+5,13,"Una vez más, de David Otero (Original y copia)",David Guapo,12,12.0,12,12,9,,21.0,48 (12),0
+5,13,"La mala costumbre, de Pastora Soler",Lorena Gómez,10,9.0,10,11,10,,20.0,40 (10),0
+5,13,Ave María de Andrea Bocelli,Blas Cantó,7,6.0,7,5,12,,17.0,25 (5),0
+5,13,"Moving, de Macaco",Canco Rodríguez,6,7.0,8,7,8,,16.0,28 (8),0
+5,13,"Killing Me Softly with His Song, de Lauryn Hill (The Fugees)",Esther Arroyo,8,5.0,6,8,7,,14.0,27 (7),0
+5,13,"Pump Up the Jam, de Ya Kid K (Technotronic)",Rosa López,9,8.0,9,10,5,,14.0,36 (9),0
+5,13,"Ça plane pour moi, de Plastic Bertrand",Yolanda Ramos,4,10.0,5,6,6,,12.0,25 (6),0
+5,13,"Por una cabeza, de Carlos Gardel",Juan Muñoz,5,4.0,4,4,4,,8.0,17 (4),0
+5,14,Somebody to Love de Freddie Mercury (Queen),Blas Cantó,11,11.0,12,12,12,,23.0,46 (11),0
+5,14,"Hit the Road, Jack, de Ray Charles con Sweet California como The Raelettes (Trae un amigo)",Canco Rodríguez,8,10.0,10,9,10,,20.0,37 (10),0
+5,14,"Come, de Jain",Rosa López,7,8.0,8,10,11,,19.0,33 (8),0
+5,14,"Ocupen su localidad y Hoy puede ser un gran día, de Serrat y Sabina (Dos en uno)",Juan Muñoz,12,12.0,11,11,7,,19.0,46 (12),0
+5,14,"If You Had My Love y Get Right, de Jennifer Lopez",Lorena Gómez,10,9.0,7,8,8,,17.0,34 (9),0
+5,14,"Volver, de Estrella Morente",Beatriz Luengo,5,5.0,9,7,9,,16.0,26 (7),0
+5,14,"Two little girls from Little Rock, de Jane Russell con Silvia Abril como Marilyn Monroe (Los caballeros las prefieren rubias) (Trae un amigo)",Esther Arroyo,6,7.0,6,6,6,,11.0,25 (5),0
+5,14,"Sweet Home Alabama, de Lynyrd Skynyrd",David Guapo,9,6.0,5,5,5,,11.0,25 (6),0
+5,14,"Suspiros de España, de Estrellita Castro",Yolanda Ramos,4,4.0,4,4,4,,8.0,16 (4),0
+5,15,"80 veces, de Rozalén (Training Vip)",Esther Arroyo,11,12.0,12,12,10,,22.0,47 (12),0
+5,15,"No dejes de soñar, de Manuel Carrasco",Canco Rodríguez,7,7.0,7,11,12,,20.0,32 (8),0
+5,15,"Hallelujah, de Jennifer Hudson",Beatriz Luengo,9,9.0,9,10,11,,20.0,37 (9),0
+5,15,"Libre, de Nino Bravo",Blas Cantó,10,10.0,10,9,9,,19.0,39 (10),0
+5,15,"Can't Take My Eyes Off You, de Gloria Gaynor",Lorena Gómez,12,11.0,11,7,8,,19.0,41 (11),0
+5,15,"Blank Space, de Taylor Swift",Rosa López,6,8.0,8,8,7,,14.0,30 (7),0
+5,15,"La yenka, de Enrique y Ana (Dos en uno)",Yolanda Ramos,4,4.0,6,6,6,,11.0,20 (5),0
+5,15,"Cuéntame un cuento, de Jesús Cifuentes (Celtas Cortos)",David Guapo,8,6.0,4,4,4,,10.0,22 (6),0
+5,15,"El mundo, de Jimmy Fontana",Juan Muñoz,5,5.0,5,5,5,,9.0,20 (4),0
+5,16,"Left Outside Alone, de Anastacia",Blas Cantó,12,12.0,12,12,12,,24.0,48 (12),0
+5,16,Million Reasons de Lady Gaga,Beatriz Luengo,11,11.0,10,11,10,,21.0,43 (11),0
+5,16,"El Pichi, de Sara Montiel",Rosa López,7,6.0,9,10,11,,20.0,32 (9),0
+5,16,"The Show Must Go On, de Céline Dion",Lorena Gómez,10,10.0,11,8,9,,19.0,39 (10),0
+5,16,"Cien gaviotas, de Mikel Erentxun (Duncan Dhu)",David Guapo,9,5.0,5,9,6,,14.0,28 (8),0
+5,16,"Kung Fu Fighting, de Carl Douglas",Yolanda Ramos,4,4.0,4,4,8,,12.0,16 (4),0
+5,16,"Cuando los ángeles lloran, de Fernando Olvera (Maná) con Adrián Lastra como Miguel Ríos (Trae un amigo)",Canco Rodríguez,5,8.0,7,7,7,,12.0,27 (5),0
+5,16,"El hombre del piano, de Ana Belén",Esther Arroyo,8,7.0,8,5,5,,12.0,28 (7),0
+5,16,I'm a Believer de Steven Harwell (Smash Mouth),Juan Muñoz,6,9.0,6,6,4,,10.0,27 (6),0
+5,17,"My Way, de Shirley Bassey",Lorena Gómez,12,12.0,12,11,11,,23.0,47 (12),0
+5,17,Run the World (Girls) de Beyoncé,Beatriz Luengo,8,10.0,10,8,10,,20.0,36 (10),0
+5,17,"Infinito, de Enrique Bunbury",Canco Rodríguez,11,11.0,8,10,9,,20.0,40 (11),0
+5,17,"Oye, de Gloria Estefan",Rosa López,6,7.0,9,6,12,,18.0,28 (6),0
+5,17,"Dora la exploradora, de Dora la Exploradora (Dora la Exploradora)",Yolanda Ramos,5,6.0,11,12,8,,17.0,34 (9),0
+5,17,"Smile, de Judy Garland",Esther Arroyo,9,9.0,7,9,7,,15.0,34 (8),0
+5,17,"Folsom Prison Blues, de Johnny Cash",David Guapo,10,8.0,6,7,6,,13.0,31 (7),0
+5,17,Woman de John Lennon,Juan Muñoz,7,5.0,5,5,5,,10.0,22 (5),0
+6,1,"Lo haré por ti, de Paulina Rubio",Pepa Aniorte,12,10.0,8,11,11,,23.0,41 (12),0
+6,1,"Angels, de Robbie Williams",Miquel Fernández,7,9.0,10,10,12,,20.0,36 (8),0
+6,1,"Sevilla, de Miguel Bosé",Fran Dieli,11,11.0,12,6,9,,20.0,40 (11),0
+6,1,"When Love Takes Over, de Kelly Rowland",Diana Navarro,8,12.0,9,9,10,,19.0,38 (9),0
+6,1,"Malibu, de Miley Cyrus",Lucía Gil,9,8.0,11,12,8,,18.0,40 (10),0
+6,1,"Mi gente, de J Balvin",David Amor,4,5.0,4,7,7,,12.0,20 (5),0
+6,1,"That Don't Impress Me Much, de Shania Twain",Lucía Jiménez,6,6.0,7,5,6,,12.0,24 (6),0
+6,1,"El brujito de Gulubú, de Rosa León",Raúl Pérez,10,7.0,6,8,5,,12.0,31 (7),0
+6,1,"Pepa Bandera, de Encarnita Polo",La Terremoto de Alcorcón,5,4.0,5,4,4,,8.0,18 (4),0
+6,2,"Kiss, de Prince",Fran Dieli,12,12.0,12,7,12,,23.0,43 (11),0
+6,2,"Parole parole, de Mina con Luis Larrodera como Alberto Lupo (Trae un amigo)",Diana Navarro,11,11.0,11,11,11,,23.0,44 (12),0
+6,2,"Cómo hablar, de Eva Amaral (Amaral)",Lucía Jiménez,9,10.0,8,10,10,,19.0,37 (9),0
+6,2,"Attention, de Charlie Puth",Miquel Fernández,10,9.0,10,12,8,,18.0,41 (10),0
+6,2,"Our House, de Suggs (Madness)",Raúl Pérez,8,7.0,7,9,9,,17.0,31 (8),0
+6,2,"Tengo 17 años, de Rocío Dúrcal",Lucía Gil,7,6.0,5,5,7,,13.0,23 (6),0
+6,2,"Killing Me Softly with His Song, de Roberta Flack",Pepa Aniorte,5,8.0,9,8,5,,12.0,30 (7),0
+6,2,"Xanadu, de Olivia Newton-John (Xanadu)",La Terremoto de Alcorcón,6,5.0,6,6,6,,11.0,23 (5),0
+6,2,"Desde que estamos juntos, de Melendi",David Amor,4,4.0,4,4,4,,8.0,16 (4),0
+6,3,"Think, de Aretha Franklin",Diana Navarro,12,12.0,12,11,12,,24.0,47 (12),0
+6,3,"Tell Him, de Céline Dion y Barbra Streisand (Dos en uno)",Miquel Fernández,8,11.0,11,12,11,,22.0,42 (11),0
+6,3,"La chica del 17, de Lina Morgan",La Terremoto de Alcorcón,11,7.0,7,9,7,,16.0,34 (9),0
+6,3,"Maggie, despierta, de Carlos Tarque (M-Clan)",Raúl Pérez,9,9.0,9,8,6,,16.0,35 (10),0
+6,3,"Take me to Church, de Hozier",Fran Dieli,5,8.0,8,5,10,,15.0,26 (5),0
+6,3,"Mayores, de Becky G",Lucía Gil,6,5.0,5,10,9,,15.0,26 (6),0
+6,3,"Ella, de Bebe",Pepa Aniorte,10,6.0,6,6,8,,15.0,28 (7),0
+6,3,"Chained to the Rhythm, de Katy Perry",Lucía Jiménez,7,10.0,10,7,5,,13.0,34 (8),0
+6,3,"Baby Don't Forget my Number y Girl You Know It's True, de Fab Morvan con David Fernández como Rob Pilatus (Milli Vanilli)",David Amor,4,4.0,4,4,4,,8.0,16 (4),0
+6,4,"Amar pelos dois, de Salvador Sobral",Miquel Fernández,12,12.0,12,12,12,,24.0,48 (12),0
+6,4,"Candyman, de Christina Aguilera",Lucía Gil,11,11.0,11,11,11,,22.0,44 (11),0
+6,4,"Time After Time, de Cyndi Lauper",Lucía Jiménez,10,10.0,10,9,10,,20.0,39 (10),0
+6,4,"Cómo hemos cambiado, de Sole Giménez (Presuntos Implicados) (Training Vip)",Pepa Aniorte,9,9.0,7,5,9,,16.0,30 (7),0
+6,4,"El 7 de septiembre, de Ana Torroja (Mecano)",Diana Navarro,8,8.0,9,6,8,,16.0,31 (8),0
+6,4,"Crazy, de Cee Lo Green (Gnarls Barkley)",Fran Dieli,7,6.0,8,10,7,,16.0,31 (9),0
+6,4,"I'm Too Sexy, de Richard Fairbrass (Right Said Fred)",David Amor,4,7.0,6,7,6,,12.0,24 (6),0
+6,4,"Carita de buena, de Iván Torres (Efecto Pasillo) (Original y copia)",Raúl Pérez,6,5.0,5,4,5,,9.0,20 (4),0
+6,4,"1+1=2 enamorados, de Luis Miguel",La Terremoto de Alcorcón,5,4.0,4,8,4,,9.0,21 (5),0
+6,5,"Digan lo que digan, de Raphael",Raúl Pérez,12,12.0,12,11,12,,24.0,47 (12),0
+6,5,"What About Us, de Pink",Lucía Gil,11,11.0,11,12,10,,21.0,45 (11),0
+6,5,"Terriblemente cruel, de Leiva",Lucía Jiménez,9,9.0,10,10,9,,19.0,38 (10),0
+6,5,"Titanium, de Sia",Diana Navarro,7,6.0,6,6,11,,17.0,25 (6),0
+6,5,"Celebration, de James ""J.T."" Taylor (Kool & The Gang)",Miquel Fernández,8,10.0,9,7,8,,17.0,34 (9),0
+6,5,"Send My Love (To Your New Lover), de Adele",Fran Dieli,6,8.0,7,9,7,,14.0,30 (7),0
+6,5,"Yo tenía un novio (que tocaba en un conjunto beat), de Rubi (Rubi y Los Casinos)",Pepa Aniorte,10,7.0,8,8,6,,14.0,33 (8),0
+6,5,"D'Artacán y los tres mosqueperros, de D'Artacán (D'Artacán y los tres mosqueperros)",David Amor,5,5.0,5,5,5,,10.0,20 (5),0
+6,5,"Can't Remember to Forget You, de Shakira con Silvia Abril como Rihanna (Trae un amigo)",La Terremoto de Alcorcón,4,4.0,4,4,4,,8.0,16 (4),0
+6,6,"Por fin, de Pablo Alborán",Fran Dieli,8,10.0,9,11,12,,22.0,38 (10),0
+6,6,"Yo no te pido la luna, de Daniela Romo",Pepa Aniorte,10,9.0,11,10,11,,22.0,40 (11),0
+6,6,"Papi chulo... te traigo el mmmm, de Lorna",La Terremoto de Alcorcón,12,12.0,12,12,10,,22.0,48 (12),0
+6,6,"Baby, Can I Hold You, de Tracy Chapman",Lucía Jiménez,9,11.0,8,9,9,,18.0,37 (9),0
+6,6,"Viva la Vida, de Chris Martin (Coldplay)",Raúl Pérez,6,8.0,10,7,6,,14.0,31 (8),0
+6,6,"Pájaros de barro, de Manolo García",Miquel Fernández,7,5.0,6,5,8,,13.0,23 (5),0
+6,6,"Mambo No. 5, de Lou Bega",David Amor,11,6.0,5,6,5,,12.0,28 (7),0
+6,6,"In your bed, de Blas Cantó (Original y copia)",Diana Navarro,4,4.0,4,4,7,,11.0,16 (4),0
+6,6,"Algo contigo, de Rosario Flores",Lucía Gil,5,7.0,7,8,4,,10.0,27 (6),0
+6,7,"I Still Haven't Found What I'm Looking For, de Bono (U2)",Miquel Fernández,11,11.0,11,11,12,,23.0,44 (11),0
+6,7,"Las ocho y diez, de Conchita (Original y copia)",Lucía Gil,12,12.0,12,12,10,,22.0,48 (12),0
+6,7,"Casta Diva, de Maria Callas",Diana Navarro,4,8.0,10,8,11,,18.0,30 (7),0
+6,7,"El morrongo, de Marujita Díaz",La Terremoto de Alcorcón,10,7.0,8,7,8,,17.0,32 (9),0
+6,7,"Casatshock, de Georgie Dann",Raúl Pérez,9,5.0,7,10,7,,15.0,31 (8),0
+6,7,"If I'm Lucky, de Jason Derulo",Fran Dieli,7,9.0,9,9,5,,15.0,34 (10),0
+6,7,"Dile que la quiero, de David Civera (Training Vip)",Pepa Aniorte,5,6.0,5,5,9,,14.0,21 (5),0
+6,7,"All I Wanna Do, de Sheryl Crow",Lucía Jiménez,8,10.0,6,6,6,,12.0,30 (6),0
+6,7,"Arriquitaun, de Lain",David Amor,6,4.0,4,4,4,,8.0,18 (4),0
+6,8,"I Wanna Dance With Somebody (Who Loves Me), de Whitney Houston",Lucía Gil,9,11.0,11,12,12,,23.0,43 (11),0
+6,8,"La jota de la Dolores, de Imperio Argentina",Fran Dieli,12,12.0,12,11,11,,23.0,47 (12),0
+6,8,"Con los años que me quedan, de Gloria Estefan",Diana Navarro,7,7.0,8,9,10,,18.0,31 (8),0
+6,8,"Stand by my woman, de Lenny Kravitz",Miquel Fernández,10,8.0,9,10,7,,16.0,37 (9),0
+6,8,"You Can't Hurry Love, de Phil Collins",Raúl Pérez,8,9.0,6,5,8,,15.0,28 (7),0
+6,8,"Havana, de Camila Cabello",Lucía Jiménez,11,10.0,10,6,5,,15.0,37 (10),0
+6,8,"Yo, dueña de la noche, de Lucía Galán (Pimpinela)",La Terremoto de Alcorcón,6,6.0,5,7,9,,14.0,24 (5),0
+6,8,"Look at me, de Geri Halliwell",Pepa Aniorte,5,5.0,7,8,6,,12.0,25 (6),0
+6,8,"Mi agüita amarilla, de Pablo Carbonell (Los Toreros Muertos) (Training VIP)",David Amor,4,4.0,4,4,4,,8.0,16 (4),0
+6,9,"Sign of the Times, de Harry Styles",Miquel Fernández,10,12.0,11,11,12,,23.0,44 (11),0
+6,9,"Animals, de Adam Levine (Maroon 5)",Fran Dieli,11,10.0,12,12,11,,23.0,45 (12),0
+6,9,"Sueño imposible, de Paloma San Basilio",Diana Navarro,12,11.0,10,9,10,,20.0,42 (10),0
+6,9,Dance Me to the End of Love de Leonard Cohen,Raúl Pérez,9,9.0,9,10,9,,18.0,37 (9),0
+6,9,"Andar conmigo, de Julieta Venegas",Lucía Jiménez,7,7.0,8,8,8,,16.0,30 (8),0
+6,9,"Viva la gente, de Rosalía Garrido",La Terremoto de Alcorcón,5,8.0,4,5,6,,12.0,22 (6),0
+6,9,"Desde mi libertad, de Ana Belén",Pepa Aniorte,6,4.0,6,4,7,,11.0,20 (4),0
+6,9,"Look What You Made Me Do, de Taylor Swift",Lucía Gil,8,6.0,7,6,4,,11.0,27 (7),0
+6,9,"Sangre caliente, de Kiko Rivera (Training VIP)",David Amor,4,5.0,5,7,5,,10.0,21 (5),0
+6,10,"Life on Mars?, de David Bowie",Miquel Fernández,12,12.0,11,11,12,,24.0,46 (12),0
+6,10,"Take on Me, de Morten Harket (A-Ha)",Fran Dieli,11,11.0,10,12,11,,22.0,44 (11),0
+6,10,"Sopa de caracol, de Julio Ardón (Banda Blanca)",David Amor,9,7.0,12,9,10,,20.0,37 (10),0
+6,10,"Natural Woman, de Carole King",Lucía Jiménez,10,9.0,7,10,9,,18.0,36 (9),0
+6,10,"El talismán, de Rosana",Pepa Aniorte,7,8.0,9,8,8,,15.0,32 (7),0
+6,10,"Para no verte más, de Guillermo Novellis (La Mosca Tsé-Tsé)",Raúl Pérez,6,6.0,4,5,7,,12.0,21 (5),0
+6,10,"Travesuras, de Nicky Jam",Lucía Gil,5,5.0,6,6,6,,12.0,22 (6),0
+6,10,"Halo, de Beyoncé",Diana Navarro,8,10.0,8,7,4,,12.0,33 (8),0
+6,10,All the Lovers de Kylie Minogue,La Terremoto de Alcorcón,4,4.0,5,4,5,,9.0,17 (4),0
+6,11,"Frente a frente, de Jeanette",Lucía Gil,11,11.0,7,10,11,,22.0,39 (11),0
+6,11,"Say You Won't Let Go, de James Arthur",Raúl Pérez,10,9.0,10,8,10,,20.0,37 (10),0
+6,11,"More Than Words, de Gary Cherone (Extreme)",Miquel Fernández,6,6.0,9,9,12,,19.0,30 (7),0
+6,11,"Las vespas, de Concha Velasco",Diana Navarro,12,12.0,12,11,7,,19.0,47 (12),0
+6,11,"I Don't Want A Lover, de Sharleen Spiteri (Texas)",Lucía Jiménez,8,10.0,11,6,9,,17.0,35 (8),0
+6,11,"Vente pa' ca, de Ricky Martin",Fran Dieli,9,8.0,6,12,8,,17.0,35 (9),0
+6,11,"Ring My Bell, de Anita Ward",La Terremoto de Alcorcón,7,5.0,5,7,6,,11.0,24 (5),0
+6,11,"Mediterráneo, de Lolita Flores con Secun de la Rosa como Joan Manuel Serrat (Trae un amigo)",Pepa Aniorte,5,7.0,8,5,5,,11.0,25 (6),0
+6,11,"Tarzan Boy, de Jimmy McShane (Baltimora)",David Amor,4,4.0,4,4,4,,8.0,16 (4),0
+6,12,"New York, New York, de Liza Minnelli con Edu Soto como Luciano Pavarotti (Trae un amigo)",Lucía Jiménez,12,12.0,12,12,10,,22.0,48 (12),0
+6,12,"Otro amor vendrá, de Lara Fabian",Diana Navarro,10,9.0,7,10,12,,21.0,36 (9),0
+6,12,"Dream On, de Steven Tyler  (Aerosmith)",Miquel Fernández,9,11.0,11,8,11,,21.0,39 (10),0
+6,12,"Soy la vedette, de Gracita Morales",La Terremoto de Alcorcón,11,10.0,10,11,8,,19.0,42 (11),0
+6,12,"Quiero ser, de Amaia Montero",Raúl Pérez,7,8.0,9,9,9,,17.0,33 (8),0
+6,12,"Oye, de Elsa Baeza",Pepa Aniorte,8,7.0,8,7,7,,14.0,30 (7),0
+6,12,"Que se mueran los feos, de Antonio Miquel Cervero ""Leslie"" (Los Sírex)",David Amor,4,5.0,4,5,6,,10.0,18 (4),0
+6,12,"Sorry y Love Yourself, de Justin Bieber",Fran Dieli,5,6.0,6,4,5,,10.0,21 (5),0
+6,12,"Say It Right, de Nelly Furtado",Lucía Gil,6,4.0,5,6,4,,10.0,21 (6),0
+6,13,"When I Fall in Love, de Nat King Cole",Miquel Fernández,11,12.0,9,4,12,,22.0,36 (10),0
+6,13,"Serenade, de Cristina Llanos (Dover)",Pepa Aniorte,12,10.0,11,11,11,,22.0,44 (11),0
+6,13,"I love to love, de Tina Charles",Diana Navarro,9,6.0,10,8,9,,18.0,33 (9),0
+6,13,"Earned It, de The Weeknd",Fran Dieli,10,11.0,12,12,6,,18.0,45 (12),0
+6,13,"Toda, de Malú",Lucía Gil,5,8.0,8,10,10,,17.0,31 (7),0
+6,13,"El cielo no entiende, de Jordi Sánchez (OBK)",Raúl Pérez,8,9.0,7,9,8,,16.0,33 (8),0
+6,13,"Bailaré sobre tu tumba, de Miguel Costas (Siniestro Total)",David Amor,6,5.0,6,6,7,,12.0,23 (5),0
+6,13,"No sé no sé, de José Sardaña (Rumba Tres)",La Terremoto de Alcorcón,7,7.0,5,7,4,,10.0,26 (6),0
+6,13,"Fame, de Irene Cara (Fame)",Lucía Jiménez,4,4.0,4,5,5,,9.0,17 (4),0
+6,14,"El amor, de Massiel",La Terremoto de Alcorcón,11,12.0,12,12,12,,24.0,47 (12),0
+6,14,"Aunque tú no lo sepas, de Enrique Urquijo (Enrique Urquijo y Los Problemas)",Fran Dieli,12,10.0,11,11,11,,22.0,44 (11),0
+6,14,"El rosario de mi madre, de María Dolores Pradera",Diana Navarro,9,9.0,9,9,10,,20.0,36 (10),0
+6,14,"Breathless, de Andrea Corr (The Corrs)",Lucía Gil,10,8.0,7,5,9,,16.0,30 (7),0
+6,14,"Historia de un amor, de Diego el Cigala",Raúl Pérez,7,7.0,10,10,8,,16.0,34 (8),0
+6,14,"Dead Ringer for Love, de Meat Loaf con Ruth Lorenzo como Cher (Trae un amigo)",Miquel Fernández,8,11.0,8,8,7,,16.0,35 (9),0
+6,14,"Stay, de Rihanna",Lucía Jiménez,5,6.0,5,7,6,,12.0,23 (6),0
+6,14,"Hotline Bling, de Drake",David Amor,4,4.0,6,6,5,,10.0,20 (5),0
+6,14,"Ni tú ni yo, de Jennifer Lopez",Pepa Aniorte,6,5.0,4,4,4,,8.0,19 (4),0
+6,15,"Love Me, de Elvis Presley",Miquel Fernández,12,11.0,10,10,12,,23.0,43 (11),0
+6,15,"Encrucijada, de Marifé de Triana",Diana Navarro,11,12.0,12,11,11,,23.0,46 (12),0
+6,15,"Perfect, de Ed Sheeran",Fran Dieli,9,10.0,11,12,10,,20.0,42 (10),0
+6,15,"Celos, de Tamara (Original y copia)",Pepa Aniorte,6,9.0,8,9,9,,17.0,32 (8),0
+6,15,"Gitana, de Shakira",Lucía Gil,10,8.0,9,7,8,,17.0,34 (9),0
+6,15,"Velaske, yo soi guapa?, de Margarita de Austria y Diego Velázquez (Playground Fire) (Dos en uno)",David Amor,8,7.0,7,8,7,,14.0,30 (7),0
+6,15,"Time is Running Out, de Matt Bellamy (Muse)",Raúl Pérez,7,6.0,6,6,6,,12.0,25 (6),0
+6,15,"Estando contigo, de Pepa Flores",Lucía Jiménez,4,4.0,4,5,5,,9.0,17 (4),0
+6,15,"New Rules, de Dua Lipa",La Terremoto de Alcorcón,5,5.0,5,4,4,,9.0,19 (5),0
+6,16,"Bailar pegados, de Sergio Dalma",Raúl Pérez,12,9.0,12,12,11,,23.0,45 (12),0
+6,16,"Quédate conmigo, de Pastora Soler",Diana Navarro,10,12.0,10,9,12,,22.0,41 (10),0
+6,16,"Vivo cantando, de Salomé",Pepa Aniorte,11,10.0,11,11,10,,21.0,43 (11),0
+6,16,"Nel blu dipinto di blu (Volare), de Domenico Modugno",Miquel Fernández,9,11.0,9,10,8,,17.0,39 (9),0
+6,16,"Dancing in the Rain, de Ruth Lorenzo",Fran Dieli,8,6.0,7,6,9,,16.0,27 (7),0
+6,16,"La, la, la, de Massiel",La Terremoto de Alcorcón,7,5.0,8,8,7,,15.0,28 (8),0
+6,16,"Waterloo, de Anni-Frid Lyngstad con Olga Hueso como Agnetha Fältskog (ABBA)",Lucía Jiménez,6,8.0,6,4,6,,12.0,24 (6),0
+6,16,"Dime, de Beth",Lucía Gil,4,4.0,4,5,5,,9.0,17 (4),0
+6,16,"A-ba-ni-bi, de Izhar Cohen",David Amor,5,7.0,5,7,4,,9.0,24 (5),0
+6,17,"Cry me a river, de Justin Timberlake",Fran Dieli,11,12.0,12,11,12,,24.0,46 (12),0
+6,17,"Lo eres todo, de Luz Casal",Pepa Aniorte,8,9.0,10,12,11,,21.0,39 (10),0
+6,17,"Y sin embargo, de Joaquín Sabina",Raúl Pérez,12,10.0,11,10,9,,20.0,43 (11),0
+6,17,"You Make Me Feel (Mighty Real), de Sylvester",Miquel Fernández,10,11.0,9,9,10,,19.0,39 (9),0
+6,17,"Dreams, de Dolores O'Riordan (The Cranberries)",Lucía Gil,6,7.0,8,8,8,,15.0,29 (7),0
+6,17,"Love Me Like You Do, de Ellie Goulding",Lucía Jiménez,9,8.0,7,7,7,,15.0,31 (8),0
+6,17,"Inmensidad, de Mónica Naranjo",Diana Navarro,7,6.0,6,4,6,,12.0,23 (6),0
+6,17,"Échame la culpa, de Luis Fonsi con Adriana Abenia como Demi Lovato (Trae un amigo)",David Amor,4,4.0,5,6,5,,10.0,19 (5),0
+6,17,"Bailando, de María Isabel García Asensio (Paradisio)",La Terremoto de Alcorcón,5,5.0,4,5,4,,8.0,19 (4),0
+6,18,"I Believe I Can Fly, de R Kelly",Miquel Fernández,10,11.0,11,8,12,,23.0,40 (11),0
+6,18,"Gwendolyne, de Pitingo",Fran Dieli,11,12.0,12,12,11,,23.0,47 (12),0
+6,18,"The Boy From Ipanema, de Ella Fitzgerald",Diana Navarro,8,9.0,8,9,10,,19.0,34 (9),0
+6,18,"Tocaré, de Aurora Beltrán (Tahúres Zurdos)",Pepa Aniorte,12,10.0,10,7,9,,19.0,39 (10),0
+6,18,"Better in Time, de Leona Lewis",Lucía Gil,6,6.0,9,11,8,,16.0,32 (8),0
+6,18,"Torn, de Natalie Imbruglia",Lucía Jiménez,9,7.0,7,6,7,,13.0,29 (6),0
+6,18,"Se nos rompió el amor, de Rocío Jurado",La Terremoto de Alcorcón,5,5.0,5,5,6,,11.0,20 (5),0
+6,18,"Contigo soy feliz, de Nino Bravo",Raúl Pérez,7,8.0,6,10,4,,11.0,31 (7),0
+6,18,"Arriba y abajo, de Coyote Dax",David Amor,4,4.0,4,4,5,,9.0,16 (4),0
+6,19,"Tengo un trato, de Mala Rodríguez",Lucía Jiménez,9,12.0,12,12,10,,22.0,45 (12),0
+6,19,"Only You (And You Alone), de Tony Williams (The Platters)",Fran Dieli,7,6.0,11,9,12,,21.0,33 (9),0
+6,19,"Stop, de Sam Brown",Lucía Gil,10,10.0,10,10,11,,21.0,40 (10),0
+6,19,"Diamonds are Forever, de Shirley Bassey",La Terremoto de Alcorcón,12,11.0,6,11,5,,16.0,40 (11),0
+6,19,"Anytime You Need a Friend, de Mariah Carey",Diana Navarro,6,7.0,7,7,9,,15.0,27 (6),0
+6,19,"El beso, de Esperanza Roy",Pepa Aniorte,5,8.0,8,8,7,,14.0,29 (7),0
+6,19,"Te quiero igual, de Andrés Calamaro",Raúl Pérez,8,9.0,9,6,6,,14.0,32 (8),0
+6,19,"Do You Remember Rock 'n' Roll Radio?, de Joey Ramone (Ramones)",David Amor,11,5.0,5,5,8,,13.0,26 (5),0
+7,1,Swish Swish de Katy Perry,Soraya Arnelas,11,11.0,12,12,12,,24.0,46 (12),0
+7,1,Fuego de Eleni Foureira,Mimi Doblas,10,8.0,11,9,11,,22.0,38 (11),0
+7,1,Rock DJ de Robbie Williams,Jordi Coll,8,12.0,9,8,10,,19.0,37 (9),0
+7,1,Blanco y negro de Malú,María Villalón,12,9.0,6,10,9,,19.0,37 (10),0
+7,1,Chambea de Bad Bunny,Brays Efe,9,7.0,8,11,7,,15.0,35 (8),0
+7,1,It's now or never de Elvis Presley,Carlos Baute,7,10.0,10,6,8,,15.0,33 (7),0
+7,1,Dame tu cosita de El Chombo,Anabel Alonso,4,5.0,5,5,6,,11.0,19 (5),0
+7,1,Pavo real de El Puma,José Corbacho,6,6.0,7,7,4,,10.0,26 (6),0
+7,1,Have You Ever Seen the Rain? de Rod Stewart,Manu Sánchez,5,4.0,4,4,5,,9.0,17 (4),0
+7,2,Tú y yo de Thalía,Mimi Doblas,12,11.0,11,12,12,,24.0,46 (12),0
+7,2,Lo mal que estoy (y lo poco que me quejo) de El Kanka,Manu Sánchez,11,10.0,12,11,11,,22.0,44 (11),0
+7,2,Jolene de Dolly Parton,Soraya Arnelas,10,9.0,10,10,9,,19.0,39 (10),0
+7,2,Toy de Netta Barzilai,Brays Efe,6,8.0,8,8,10,,17.0,30 (7),0
+7,2,Skyfall de Adele,María Villalón,7,12.0,9,4,8,,17.0,32 (9),0
+7,2,Corazón de Maluma,Carlos Baute,9,7.0,7,9,5,,13.0,32 (8),0
+7,2,Y yo sigo aquí de Paulina Rubio,Anabel Alonso,5,6.0,6,7,6,,12.0,24 (6),0
+7,2,Será que no me amas de Luis Miguel,Jordi Coll,4,4.0,4,6,7,,11.0,18 (4),0
+7,2,God Save the Queen de Johnny Rotten (Sex Pistols),José Corbacho,8,5.0,5,5,4,,9.0,23 (5),0
+7,3,Sueños inalcanzables de Ángeles Muñoz (Camela),María Villalón,11,12.0,12,12,11,,23.0,47 (12),0
+7,3,I Like It de Cardi B,Carlos Baute,10,11.0,9,11,12,,23.0,41 (11),0
+7,3,Cómeme el donut de Jirafa Rey (Glitch Gyals) con Silvia Abril como Lapili (Trae un amigo),José Corbacho,12,9.0,8,6,9,,18.0,35 (9),0
+7,3,It's Oh So Quiet de Björk,Mimi Doblas,9,10.0,11,10,8,,18.0,40 (10),0
+7,3,Veneno de Isabel Pantoja,Soraya Arnelas,5,8.0,10,9,10,,18.0,32 (8),0
+7,3,Wonderwall de Liam Gallagher (Oasis),Brays Efe,7,7.0,7,8,7,,14.0,29 (7),0
+7,3,Freedom! '90 de George Michael,Jordi Coll,6,6.0,6,7,6,,12.0,25 (6),0
+7,3,Mi novio es un zombi de Alaska (Alaska y Dinarama) (Te lo robo - Soraya Arnelas),Anabel Alonso,4,5.0,4,4,5,,9.0,17 (4),0
+7,3,Vida loca de Pancho Céspedes,Manu Sánchez,8,4.0,5,5,4,,9.0,22 (5),0
+7,4,I put a spell on you de Annie Lennox,Soraya Arnelas,12,12.0,11,12,12,,24.0,47 (12),0
+7,4,Sin pijama de Natti Natasha con Ana Guerra como Becky G (Trae un amigo),Mimi Doblas,9,7.0,10,11,11,,20.0,37 (9),0
+7,4,El Inspector Gadget de Inspector Gadget (El Inspector Gadget),Manu Sánchez,10,11.0,8,9,8,,18.0,38 (10),0
+7,4,Sweet child o' mine de Axl Rose (Guns N' Roses),Carlos Baute,8,6.0,7,8,9,,17.0,29 (8),0
+7,4,Aquarius de Raphael,José Corbacho,11,10.0,12,10,5,,16.0,43 (11),0
+7,4,Nothing's gonna stop me now de Samantha Fox,Anabel Alonso,6,9.0,5,4,10,,15.0,24 (5),0
+7,4,Un rayo de sol de Agustín Ramírez (Los Diablos),Brays Efe,7,5.0,9,5,7,,14.0,26 (7),0
+7,4,Sopa fría de Carlos Tarque (M Clan),Jordi Coll,5,8.0,6,7,6,,12.0,26 (6),0
+7,4,Me enamoré de Shakira,María Villalón,4,4.0,4,6,4,,8.0,18 (4),0
+7,5,"Cocinero, cocinero de Antonio Molina",María Villalón,12,12.0,12,12,12,,24.0,48 (12),0
+7,5,Malamente de Rosalía,Soraya Arnelas,10,11.0,11,11,11,,22.0,43 (11),0
+7,5,El anillo de Jennifer Lopez,Mimi Doblas,11,10.0,10,9,10,,20.0,40 (10),0
+7,5,Cachito de Nat King Cole,Carlos Baute,9,9.0,9,7,9,,18.0,34 (9),0
+7,5,Hung Up de Madonna,Jordi Coll,8,8.0,7,8,8,,16.0,31 (8),0
+7,5,Ese hombre de Rocío Jurado,Anabel Alonso,4,7.0,8,10,7,,14.0,29 (7),0
+7,5,U Can't Touch This de MC Hammer,Manu Sánchez,5,6.0,6,6,6,,12.0,23 (6),0
+7,5,Rock & roll en la plaza del pueblo de Alejo Stivel (Tequila) (Original y copia),José Corbacho,7,5.0,5,5,5,,10.0,22 (5),0
+7,5,Your song de Rita Ora,Brays Efe,6,4.0,4,4,4,,8.0,18 (4),0
+7,6,Cinco tres cinco tres cuatro cinco seis de Raffaella Carrà,Anabel Alonso,8,11.0,12,11,12,,23.0,42 (11),0
+7,6,La flor de la canela de María Dolores Pradera,María Villalón,12,12.0,11,12,10,,22.0,47 (12),0
+7,6,Beat it de Michael Jackson,Carlos Baute,9,9.0,6,9,11,,19.0,33 (8),0
+7,6,Sin miedo a nada de Álex Ubago con Melody como Amaia Montero (Trae un amigo),Manu Sánchez,11,8.0,9,8,8,,18.0,36 (10),0
+7,6,La quiero a morir de Manzanita,Brays Efe,10,10.0,8,7,7,,16.0,35 (9),0
+7,6,One Kiss de Dua Lipa,Soraya Arnelas,6,6.0,10,10,9,,16.0,32 (7),0
+7,6,La cintura de Álvaro Soler (Original y copia),Jordi Coll,5,7.0,7,6,5,,11.0,25 (6),0
+7,6,American Idiot de Billie Joe Armstrong (Green Day) (Te lo robo - Carlos Baute),Mimi Doblas,7,4.0,5,5,6,,11.0,21 (5),0
+7,6,La revolución sexual de Guille Milkyway (La Casa Azul),José Corbacho,4,5.0,4,4,4,,8.0,17 (4),0
+7,7,Super Freak de Rick James,Jordi Coll,11,11.0,12,12,12,,24.0,46 (12),0
+7,7,Recuérdame y Un poco loco de Miguel Rivera (Coco),Carlos Baute,9,12.0,11,8,11,,21.0,40 (10),0
+7,7,Friends de Anne-Marie,María Villalón,12,10.0,10,11,10,,21.0,43 (11),0
+7,7,Dirrty de Christina Aguilera,Mimi Doblas,10,9.0,9,9,9,,18.0,37 (9),0
+7,7,Mambo tequila de Encarna Salazar con Bibiana Fernández como Toñi Salazar (Azúcar Moreno) (Trae un amigo),Anabel Alonso,8,7.0,8,4,7,,14.0,27 (7),0
+7,7,Still Loving You de Klaus Meine (Scorpions),Soraya Arnelas,4,5.0,6,7,8,,14.0,22 (6),0
+7,7,Ellos las prefieren gordas de Javier Gurruchaga (Orquesta Mondragón) (Te lo robo - José Corbacho),Manu Sánchez,7,8.0,7,10,4,,12.0,32 (8),0
+7,7,De pata negra de Melody,José Corbacho,6,6.0,4,6,6,,11.0,22 (5),0
+7,7,Besos en guerra de Juan Pablo Isaza (Morat),Brays Efe,5,4.0,5,5,5,,9.0,19 (4),0
+7,8,I Try de Macy Gray,Mimi Doblas,10,10.0,11,9,12,,22.0,40 (10),0
+7,8,Only the lonely de Roy Orbison,Jordi Coll,9,11.0,10,11,11,,22.0,41 (11),0
+7,8,Where Have You Been de Rihanna,Soraya Arnelas,12,12.0,12,12,10,,22.0,48 (12),0
+7,8,Eres diferente de Estela Raval (Los Cinco Latinos),Anabel Alonso,11,7.0,6,10,9,,18.0,34 (9),0
+7,8,Mala mujer de C. Tangana,Brays Efe,7,9.0,9,8,7,,15.0,33 (8),0
+7,8,Nada que perder de Conchita,María Villalón,8,8.0,8,7,8,,15.0,31 (7),0
+7,8,La cosa más bella de Eros Ramazzotti,Carlos Baute,6,6.0,7,5,6,,12.0,24 (6),0
+7,8,Súbeme la radio de Enrique Iglesias,José Corbacho,4,4.0,4,4,5,,9.0,16 (4),0
+7,8,Ay qué gustito pa mis orejas de Raimundo Amador,Manu Sánchez,5,5.0,5,6,4,,9.0,21 (5),0
+7,9,Treasure de Bruno Mars,Carlos Baute,10,12.0,12,11,12,,24.0,45 (12),0
+7,9,Malo de Bebe,Mimi Doblas,11,11.0,11,12,11,,22.0,45 (11),0
+7,9,Personal Jesus de Dave Gahan (Depeche Mode),Jordi Coll,12,10.0,10,8,10,,20.0,40 (10),0
+7,9,Una estrella en mi jardín de Mari Trini (Te lo robo - Anabel Alonso),Soraya Arnelas,9,8.0,9,9,9,,18.0,35 (9),0
+7,9,Symphony  de Zara Larsson,María Villalón,8,9.0,8,7,8,,16.0,32 (8),0
+7,9,En tu cruz me clavaste de Chenoa,Anabel Alonso,5,5.0,5,6,7,,13.0,21 (6),0
+7,9,Champú de huevo de Tino Casal,José Corbacho,7,7.0,7,10,5,,12.0,31 (7),0
+7,9,Mira ven ven de Chayanne,Brays Efe,6,4.0,6,4,6,,11.0,20 (5),0
+7,9,Esta vez de Cepeda (Original y copia),Manu Sánchez,4,6.0,4,5,4,,8.0,19 (4),0
+7,10,A la pelota de Dolores Vargas,María Villalón,11,12.0,12,11,12,,24.0,46 (12),0
+7,10,Demons y Radioactive de Dan Reynolds (Imagine Dragons),Jordi Coll,10,10.0,11,12,11,,22.0,43 (11),0
+7,10,Young and Beautiful de Lana del Rey,Soraya Arnelas,12,11.0,9,10,10,,20.0,42 (10),0
+7,10,Me dediqué a perderte de Alejandro Fernández,Manu Sánchez,9,9.0,6,9,8,,17.0,33 (9),0
+7,10,Pégate de Ricky Martin,Carlos Baute,6,7.0,10,8,7,,15.0,31 (8),0
+7,10,...Baby One More Time de Britney Spears,Mimi Doblas,5,6.0,7,5,9,,14.0,23 (5),0
+7,10,Hey! de Julio Iglesias,Brays Efe,7,8.0,8,7,6,,13.0,30 (7),0
+7,10,Mazinger Z de Mazinger Z (Mazinger Z),José Corbacho,8,5.0,5,6,5,,11.0,24 (6),0
+7,10,Pobre secretaria de Daniela Romo,Anabel Alonso,4,4.0,4,4,4,,8.0,16 (4),0
+7,11,Love Is a Losing Game de Amy Winehouse,Mimi Doblas,11,11.0,12,12,12,,24.0,46 (12),0
+7,11,Fever y Disco Inferno de Tina Turner,José Corbacho,12,12.0,10,11,11,,22.0,45 (11),0
+7,11,Ladies choice de Zac Efron (Hairspray),Carlos Baute,8,9.0,11,9,10,,20.0,37 (10),0
+7,11,Nadie me ama de Sara Montiel,Brays Efe,10,8.0,7,10,8,,17.0,35 (9),0
+7,11,Él no soy yo de Blas Cantó (Original y Copia),María Villalón,7,7.0,8,6,9,,16.0,28 (7),0
+7,11,Get Outta My Way de Kylie Minogue,Soraya Arnelas,9,10.0,9,7,6,,14.0,35 (8),0
+7,11,Él de  Lucía,Anabel Alonso,6,5.0,6,8,7,,13.0,25 (6),0
+7,11,Al calor del amor en un bar de Jaime Urrutia (Gabinete Caligari) (Te lo robo - Brays Efe),Jordi Coll,4,6.0,5,4,5,,10.0,19 (5),0
+7,11,She's a Lady de  Tom Jones,Manu Sánchez,5,4.0,4,5,4,,8.0,18 (4),0
+7,12,Se me olvidó otra vez de Juan Gabriel (Te lo robo - Manu Sánchez),Carlos Baute,12,10.0,12,12,10,,22.0,46 (12),0
+7,12,Je veux de Zaz,María Villalón,10,11.0,10,6,11,,21.0,37 (10),0
+7,12,Gettin' Jiggy Wit It de Will Smith,Jordi Coll,7,8.0,8,11,12,,20.0,34 (8),0
+7,12,En un mundo nuevo de Karina,Soraya Arnelas,11,12.0,11,10,9,,20.0,44 (11),0
+7,12,Buttons de Nicole Scherzinger (Pussycat Dolls) con las bailarinas de Lola Indigo (Trae un amigo),Mimi Doblas,9,9.0,9,9,8,,17.0,36 (9),0
+7,12,Dame otra oportunidad y Cántame de María del Monte,Brays Efe,6,7.0,6,7,7,,14.0,26 (7),0
+7,12,Yé Ké Yé Ké de Mory Kanté,Anabel Alonso,8,6.0,5,5,6,,11.0,24 (5),0
+7,12,Mi Salamanca de Rafael Farina,José Corbacho,5,5.0,7,8,5,,11.0,25 (6),0
+7,12,Angelito de Carlos Baute,Manu Sánchez,4,4.0,4,4,4,,8.0,16 (4),0
+7,13,Endless Love de Lionel Richie con Ruth Lorenzo como Diana Ross (Trae un amigo),Carlos Baute,12,12.0,12,12,12,,24.0,48 (12),0
+7,13,Down de Junior,Mimi Doblas,10,6.0,10,11,10,,20.0,37 (10),0
+7,13,Sunday Girl de Deborah Harry (Blondie),Soraya Arnelas,11,11.0,9,8,9,,20.0,39 (11),0
+7,13,El sitio de mi recreo de Antonio Vega,Jordi Coll,8,10.0,8,7,11,,19.0,33 (8),0
+7,13,Lose Yourself de Eminem,Brays Efe,7,9.0,7,9,8,,15.0,32 (7),0
+7,13,Hasta el amanecer de Nicky Jam,María Villalón,6,7.0,11,10,6,,15.0,34 (9),0
+7,13,Lady Veneno de Massiel,Anabel Alonso,9,8.0,6,6,7,,13.0,29 (6),0
+7,13,This is love de Will.i.am con Lucía Gil como Eva Simons (Trae un amigo),José Corbacho,5,5.0,5,5,4,,9.0,20 (5),0
+7,13,Yo debí enamorarme de tu madre de Bertín Osborne,Manu Sánchez,4,4.0,4,4,5,,9.0,16 (4),0
+7,14,Puttin' on the Ritz de Fred Astaire,Carlos Baute,8,11.0,11,10,12,,22.0,40 (10),0
+7,14,Song 2 de Damon Albarn (Blur),Jordi Coll,12,12.0,12,12,8,,20.0,48 (12),0
+7,14,Queen of the night de Whitney Houston,Soraya Arnelas,10,9.0,10,9,11,,20.0,38 (9),0
+7,14,Celoso de Lele Pons,María Villalón,7,8.0,7,8,10,,17.0,30 (7),0
+7,14,Diamonds are a girl's best friend de Nicole Kidman (Moulin Rouge!),Mimi Doblas,9,7.0,9,7,9,,17.0,32 (8),0
+7,14,"Hello, Dolly! y Rock Rockefeller de José Luis Moreno y Rockefeller",Brays Efe,11,10.0,8,11,4,,15.0,40 (11),0
+7,14,La Llorona de Chavela Vargas,Manu Sánchez,6,6.0,6,6,7,,13.0,24 (6),0
+7,14,Cabecita loca de Conchita Bautista,Anabel Alonso,4,4.0,5,4,6,,10.0,17 (4),0
+7,14,Así me gusta a mí de Azuquita,José Corbacho,5,5.0,4,5,5,,10.0,19 (5),0
+8,1,Soldi de Mahmood,Jorge González,11,12.0,12,11,12,,24.0,46 (12),0
+8,1,Desátame de Mónica Naranjo,Cristina Ramos,12,11.0,11,8,10,,21.0,42 (11),0
+8,1,Bad Guy de Billie Eilish,María Isabel,10,8.0,9,9,11,,20.0,36 (9),0
+8,1,I only want to be with you de Dusty Springfield,Nerea Rodríguez,8,9.0,10,10,9,,19.0,37 (10),0
+8,1,Que te quería de Natalia Jiménez (La Quinta Estación),Rocío Madrid,6,7.0,7,6,8,,14.0,26 (6),0
+8,1,Contando lunares de Don Patricio y Cruz Cafuné,Gemeliers,9,10.0,8,5,6,,14.0,32 (8),0
+8,1,Con calma de Daddy Yankee,El Monaguillo,7,6.0,6,4,7,,12.0,23 (5),0
+8,1,"Mamá, dame cien pesetas de Raffaella Carrà",Mario Vaquerizo,5,5.0,5,12,5,,12.0,27 (7),0
+8,1,True Blue de Madonna,Belinda Washington,4,4.0,4,7,4,,8.0,19 (4),0
+8,2,Dos hombres y un destino de David Bustamante y Àlex Casademunt,Gemeliers,12,12.0,12,11,12,,24.0,47 (12),0
+8,2,God Is a Woman de Ariana Grande,Nerea Rodríguez,11,8.0,11,12,9,,20.0,42 (11),0
+8,2,En el último minuto de Miguel Poveda,Jorge González,6,11.0,10,4,11,,19.0,31 (8),0
+8,2,Eres mia de Romeo Santos,María Isabel,9,9.0,8,9,8,,17.0,35 (9),0
+8,2,I Was Made for Loving' You de Paul Stanley (Kiss),Mario Vaquerizo,4,6.0,5,10,10,,16.0,25 (6),0
+8,2,Ahora estoy mejor de Isa P,Belinda Washington,10,10.0,9,8,6,,16.0,37 (10),0
+8,2,Let's get Loud de Jennifer Lopez,Cristina Ramos,5,4.0,6,5,7,,11.0,20 (4),0
+8,2,Echo de menos de Kiko Veneno,El Monaguillo,8,7.0,7,6,4,,11.0,28 (7),0
+8,2,Trébole de Rocío Dúrcal,Rocío Madrid,7,5.0,4,7,5,,10.0,23 (5),0
+8,3,Hot Stuff de Donna Summer,Cristina Ramos,11,12.0,12,12,11,,23.0,47 (12),0
+8,3,Mariana mambo de Chayanne,Jorge González,9,11.0,10,11,10,,21.0,41 (11),0
+8,3,Summer nights de John Travolta con Eva Soriano como Olivia Newton-John (Grease) (Te lo robo - Gemeliers),Mario Vaquerizo,10,8.0,5,9,12,,20.0,32 (8),0
+8,3,Nada sale mal de Aitana Ocaña,Rocío Madrid,12,7.0,9,8,9,,19.0,36 (10),0
+8,3,Todas las flores de Soledad Giménez (Presuntos Implicados),Nerea Rodríguez,7,9.0,8,10,7,,16.0,34 (9),0
+8,3,Así fue de Isabel Pantoja,María Isabel,6,4.0,6,5,8,,13.0,21 (5),0
+8,3,Mayores de Bad Bunny y Becky G,Gemeliers,5,10.0,11,6,6,,13.0,32 (7),0
+8,3,Because the Night de Patti Smith,Belinda Washington,8,6.0,7,7,5,,11.0,28 (6),0
+8,3,"Don't Worry, Be Happy de Bobby McFerrin",El Monaguillo,4,5.0,4,4,4,,8.0,17 (4),0
+8,4,Inmortal de Leire Martínez (La Oreja de Van Gogh),María Isabel,12,10.0,12,12,12,,24.0,46 (12),0
+8,4,No de Shakira (Te lo robo - Rocío Madrid),Cristina Ramos,11,11.0,11,10,9,,20.0,43 (11),0
+8,4,I Don't Care de Ed Sheeran y Justin Bieber,Gemeliers,8,12.0,10,6,10,,19.0,36 (9),0
+8,4,La mandanga de El Fary,Rocío Madrid,7,7.0,7,7,11,,18.0,28 (7),0
+8,4,Lush Life de Zara Larsson,Nerea Rodríguez,10,8.0,9,11,8,,18.0,38 (10),0
+8,4,"Relax, Take It Easy de Mika",Jorge González,9,9.0,8,9,6,,14.0,35 (8),0
+8,4,Fotonovela de Iván,Mario Vaquerizo,6,6.0,6,8,7,,13.0,26 (6),0
+8,4,Vamos muy bien de Fortu Sánchez (Obús),El Monaguillo,4,4.0,5,4,5,,9.0,17 (4),0
+8,4,You Gotta Be de Des'ree,Belinda Washington,5,5.0,4,5,4,,9.0,19 (5),0
+8,5,Solamente tú y Prometo de Pablo Alborán,Gemeliers,11,10.0,12,12,12,,24.0,45 (12),0
+8,5,No me des guerra de Bambino,Jorge González,10,11.0,11,10,11,,21.0,42 (10),0
+8,5,Galilea de Sergio Dalma (Training VIP),El Monaguillo,12,9.0,10,11,8,,19.0,42 (11),0
+8,5,Señorita de Camila Cabello con Raoul Vázquez como Shawn Mendes (Trae un amigo),Nerea Rodríguez,8,5.0,8,6,10,,17.0,27 (7),0
+8,5,La bomba gitana de Lola Flores,Mario Vaquerizo,4,12.0,5,9,9,,17.0,30 (8),0
+8,5,Don't Start Now de Dua Lipa,Rocío Madrid,9,8.0,9,8,6,,15.0,34 (9),0
+8,5,Be My Baby de Veronica Bennett (The Ronettes),Belinda Washington,5,7.0,6,7,7,,13.0,25 (6),0
+8,5,Dressed for Success de Marie Fredriksson (Roxette),Cristina Ramos,6,4.0,7,4,5,,9.0,21 (4),0
+8,5,Punto G y Mi cama de Karol G,María Isabel,7,6.0,4,5,4,,9.0,22 (5),0
+8,6,La de la mochila azul de Pedrito Fernández,Nerea Rodríguez,12,12.0,11,12,12,,24.0,47 (12),0
+8,6,Stone Cold de Demi Lovato,Cristina Ramos,11,10.0,12,9,11,,22.0,42 (11),0
+8,6,"Lady, Lady de Amaya Saizar (Bravo)",Rocío Madrid,10,11.0,9,11,10,,20.0,41 (10),0
+8,6,Mujer bruja de Mimi Doblas (Lola Índigo) (Training VIP),María Isabel,7,7.0,7,4,9,,15.0,25 (6),0
+8,6,Superstition de Stevie Wonder,Jorge González,8,6.0,6,6,8,,15.0,26 (7),0
+8,6,Sucker de Nick y Joe Jonas con Juan Carlos Oviedo como Kevin Jonas (Jonas Brothers) (Trae un amigo),Gemeliers,9,8.0,8,8,6,,14.0,33 (8),0
+8,6,Pa ti no estoy de Rosana (Original y copia),Belinda Washington,5,9.0,10,10,5,,14.0,34 (9),0
+8,6,Bye bye de David Civera,Mario Vaquerizo,6,5.0,5,7,7,,12.0,23 (5),0
+8,6,Makafushigi Adventure! de Son Goku (Dragon Ball),El Monaguillo,4,4.0,4,5,4,,8.0,17 (4),0
+8,7,Dance Monkey de Tones and I,Belinda Washington,12,12.0,12,12,12,,24.0,48 (12),0
+8,7,(I've Had) The Time of My Life de Bill Medley con Gisela como Jennifer Warnes (Dirty Dancing) (Trae un amigo),Jorge González,11,11.0,11,7,11,,22.0,40 (11),0
+8,7,Dámelo ya de Pastora Soler (Te lo robo - Cristina Ramos),María Isabel,9,10.0,9,6,8,,17.0,34 (9),0
+8,7,Lovefool de Nina Persson (The Cardigans),Rocío Madrid,10,7.0,10,11,7,,17.0,38 (10),0
+8,7,Yo te esperaré de Cali y El Dandee,Gemeliers,4,9.0,7,5,10,,16.0,25 (6),0
+8,7,Macho Man de Victor Willis (Village People),El Monaguillo,6,4.0,4,4,9,,13.0,18 (4),0
+8,7,Dear Future Husband de Meghan Trainor,Nerea Rodríguez,5,6.0,8,9,5,,12.0,28 (7),0
+8,7,"Tócala, Uli de Jaime Urrutia (Gabinete Caligari)",Mario Vaquerizo,8,8.0,6,10,4,,12.0,32 (8),0
+8,7,"No, por favor de José Vélez",Cristina Ramos,7,5.0,5,8,6,,11.0,25 (5),0
+8,8,"Se dice de mí de Yolanda Rayo (Yo soy Betty, la fea)",Jorge González,11,,12,11,12,,23,34 (11),12
+8,8,Se nos rompió el amor de Rocío Jurado (Homenaje a Lola Flores),Cristina Ramos,12,,11,12,11,,23,35 (12),11
+8,8,Step Back In Time de Kylie Minogue (El programa de Hermida),Nerea Rodríguez,10,,9,6,10,,20,25 (10),10
+8,8,The Shoop Shoop Song (It's in His Kiss) de Cher (Sorpresa ¡Sorpresa!),Belinda Washington,7,,8,10,9,,18,25 (9),9
+8,8,Fiera inquieta de  Rosario Montes (Pasión de gavilanes),María Isabel,5,,10,7,8,,16,22 (8),8
+8,8,Morenita de Miguel Ángel Muñoz y Pablo Puyol (Upa Dance) (Un paso adelante),Gemeliers,8,,5,8,7,,12,21 (5),7
+8,8,Amigos para siempre de Joan Herrero (Los Manolos) con Marta Vaquerizo y Juan Pedro del Moral (De tú a tú),Mario Vaquerizo,6,,6,9,6,,12,21 (6),6
+8,8,No te fallaré de Greta y los Garbo (Compañeros),Rocío Madrid,9,,7,5,5,,12,21 (7),5
+8,8,El perdón de Nicky Jam (El hormiguero 3.0),El Monaguillo,4,,4,4,4,,8,12 (4),4
+8,9,Shallow de Lady Gaga con Alex O'Dogherty como Bradley Cooper (Ha nacido una estrella) (Trae un amigo),Rocío Madrid,8,7.0,12,12,11,,23.0,39 (12),0
+8,9,Human de Rag'n'Bone Man,Belinda Washington,9,9.0,8,11,12,,21.0,37 (9),0
+8,9,Lo saben mis zapatos de Pablo López,Jorge González,7,12.0,11,8,10,,21.0,38 (11),0
+8,9,"Torero de Julio Iglesias y José Luis Rodríguez ""El Puma""",Gemeliers,10,11.0,9,7,7,,17.0,37 (10),0
+8,9,Mamma Knows Best de Jessie J,Cristina Ramos,6,10.0,10,10,8,,16.0,36 (8),0
+8,9,Fallin' de Alicia Keys,Nerea Rodríguez,5,5.0,7,6,9,,14.0,23 (5),0
+8,9,No me acuerdo de Natti Natasha con Ana Mena como Thalía (Trae un amigo),María Isabel,11,8.0,6,5,6,,12.0,30 (6),0
+8,9,Me llamas de José Luis Perales (Te lo robo - Mario Vaquerizo),El Monaguillo,12,6.0,5,9,5,,12.0,32 (7),0
+8,9,Boys will be Boys de Paulina Rubio,Mario Vaquerizo,4,4.0,4,4,4,,8.0,16 (4),0
+8,10,Tanto la quería de Andy y Lucas (Original y copia),Gemeliers,11,12.0,11,10,12,,23.0,44 (11),0
+8,10,Flaca de Andrés Calamaro,Mario Vaquerizo,5,6.0,9,11,11,,19.0,31 (8),0
+8,10,Vas a volverme loca de Natalia (Training VIP),Nerea Rodríguez,12,9.0,10,8,9,,19.0,39 (10),0
+8,10,Girls Like You de Adam Levine (Maroon 5),Jorge González,10,11.0,12,12,7,,19.0,45 (12),0
+8,10,Marte de Melani García,Cristina Ramos,8,7.0,6,6,10,,16.0,27 (6),0
+8,10,Arráncame de Vanesa Martín (Original y copia),Rocío Madrid,9,10.0,7,5,8,,15.0,31 (7),0
+8,10,Don't Call Me Up de Mabel,María Isabel,7,8.0,8,9,5,,14.0,32 (9),0
+8,10,Gigi l'amoroso de Dalida,Belinda Washington,6,4.0,4,4,6,,10.0,18 (4),0
+8,10,Charlie Brown de Lou Deprijck (Two Man Sound),El Monaguillo,4,5.0,5,7,4,,9.0,21 (5),0
+8,11,Into the Unknown de Elsa (Frozen II),Nerea Rodríguez,9,12.0,12,9,12,,23.0,42 (11),0
+8,11,Alegría de vivir de Enrique Heredia (La Barbería del Sur),Jorge González,10,11.0,11,10,11,,21.0,42 (10),0
+8,11,Old Town Road de Billy Ray Cyrus y Lil Nas X,Gemeliers,7,9.0,9,11,9,,17.0,36 (8),0
+8,11,Only Love Can Hurt Like This de Paloma Faith,Cristina Ramos,11,10.0,8,8,8,,17.0,37 (9),0
+8,11,Call Me de Sabrina con Alaska como Samantha Fox (Trae un amigo),Mario Vaquerizo,12,8.0,10,12,4,,16.0,42 (12),0
+8,11,L.O.V.E de Natalie Cole,Belinda Washington,5,5.0,5,7,10,,15.0,22 (5),0
+8,11,Rey del glam de Alaska (Alaska y Dinarama),El Monaguillo,6,7.0,6,5,6,,12.0,24 (6),0
+8,11,El morrongo de Carmen Sevilla (Te lo robo - Nerea Rodríguez),Rocío Madrid,8,6.0,7,6,5,,12.0,27 (7),0
+8,11,Abre tu mente de Merche,María Isabel,4,4.0,4,4,7,,11.0,16 (4),0
