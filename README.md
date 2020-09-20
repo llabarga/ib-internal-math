@@ -4,12 +4,23 @@
 ![Tu cara me suena](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7-5BLg2N0IviOEAJrZdL6DyXhRM5MqStxOQ&usqp=CAU)
 
 ### *Index*
-- Introducción: Modo de puntuación en el programa.
-- Recopilación de datos (tablas de puntuación)
-- Análisis estadístico
-- Test de hipótesis: Comprobar que la puntuación sigue una distribución normal
-- Gráfica de distribución normal (comparar cada jurado con cada concursante)
-- Conclusiones
+1. Introducción
+
+    Tu Cara Me Suena es [...]. Ha habido [x] concursantes en total, donde [x] % son mujeres, etc.
+    Juppyter notebook y python
+
+2. ¿Existe diferencia entre la puntuación del jurado?
+
+    Correlación (concursantes/jurado) Spearman vs. Pearson
+    No hay diferencias globales pero se aprecian diferencias significativas en la forma de puntuar de un jurado a concursantes en particular.
+    T-test Mann Whitney (test no paramétrico --> diferencia de rangos)(favoritismo o no)
+
+3. Predicción
+
+    Se decidió hacer una predicción con la puntuación de las 3 primeras galas --> Numérica
+    **¿Qué variables pueden influir?**
+    Sexo Se ha hecho un t-test para ver si había diferencia y así es así que se incluyó en la predicción.
+    Profesión: ANOVA para grupos de variables (4 categorías)
 
 ### Tasks
 
